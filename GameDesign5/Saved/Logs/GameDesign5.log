@@ -10327,3 +10327,552 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.09-16.24.47:396][ 10]LogContentValidation: Display: Validating PaperTileSet /Game/2DSideScrollerBP/Textures/Level1_TileSet.Level1_TileSet
 [2022.12.09-16.24.47:396][ 10]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScrollerBP/Textures/Level1_TileMap.Level1_TileMap
 [2022.12.09-16.24.47:396][ 10]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.09-16.26.33:563][860]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.09-16.26.33:569][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.09-16.26.33:569][860]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 9, 2022, 6:26:33 AM)
+[2022.12.09-16.26.33:569][860]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.12.09-16.26.33:571][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002325s)
+[2022.12.09-16.26.33:572][860]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.12.09-16.26.33:572][860]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2022.12.09-16.26.33:573][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003681s)
+[2022.12.09-16.26.33:588][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.09-16.26.33:593][860]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.12.09-16.26.33:593][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.09-16.26.33:593][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.09-16.26.33:593][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.09-16.26.33:593][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.09-16.26.33:593][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.09-16.26.33:593][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.09-16.26.33:593][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.09-16.26.33:593][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.09-16.26.33:594][860]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.09-16.26.33:594][860]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.09-16.26.33:598][860]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.09-16.26.33:598][860]LogAudioMixer: Display: 1: FrontRight
+[2022.12.09-16.26.33:683][860]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.12.09-16.26.33:683][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.09-16.26.33:683][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.09-16.26.33:683][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.09-16.26.33:684][860]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.09-16.26.33:684][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.09-16.26.33:684][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.09-16.26.33:694][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.09-16.26.33:694][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.09-16.26.33:694][860]LogInit: FAudioDevice initialized.
+[2022.12.09-16.26.33:694][860]LogAudio: Display: Audio Device (ID: 42) registered with world '2DSideScrollerExampleMap'.
+[2022.12.09-16.26.33:703][860]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.09-16.26.33:706][860]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.12.09-11.26.33
+[2022.12.09-16.26.33:706][860]LogWorld: Bringing up level for play took: 0.001229
+[2022.12.09-16.26.33:706][860]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2022.12.09-16.26.33:707][860]PIE: Server logged in
+[2022.12.09-16.26.33:708][860]PIE: Play in editor total start time 0.141 seconds.
+[2022.12.09-16.26.49:184][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.09-16.26.49:184][713]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.12.09-16.26.49:184][713]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.09-16.26.49:185][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.09-16.26.49:194][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.09-16.26.49:218][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.09-16.26.49:231][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.09-16.26.49:231][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.09-16.26.49:232][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.09-16.26.49:249][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.12.09-16.26.49:278][714]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.12.09-16.26.52:302][ 61]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/2DSideScrollerBP/Textures/Level1_TileSet.Level1_TileSet
+[2022.12.09-16.26.53:758][154]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:770][155]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:778][156]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:790][157]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:804][158]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:818][159]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:832][160]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:846][161]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:861][162]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:874][163]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:888][164]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:900][165]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:914][166]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:928][167]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:942][168]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:956][169]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:970][170]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:983][171]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.53:997][172]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:011][173]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:025][174]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:039][175]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:053][176]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:067][177]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:081][178]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:094][179]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:108][180]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:123][181]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:137][182]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:151][183]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:166][184]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:180][185]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:194][186]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:209][187]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:209][187]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:244][188]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:253][189]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:262][190]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:274][191]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:289][192]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:303][193]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:317][194]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:331][195]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:345][196]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:359][197]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:373][198]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:387][199]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:401][200]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:415][201]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:429][202]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:442][203]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:455][204]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:468][205]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:483][206]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:497][207]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:511][208]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:525][209]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:539][210]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:553][211]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:567][212]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:568][212]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:602][213]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:611][214]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:619][215]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:633][216]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:648][217]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:661][218]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:675][219]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:689][220]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:702][221]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:717][222]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:731][223]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:745][224]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:758][225]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:773][226]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:787][227]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:801][228]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:801][228]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:836][229]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:844][230]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:853][231]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:866][232]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:880][233]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:894][234]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:909][235]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:924][236]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:938][237]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:951][238]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:965][239]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:979][240]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:992][241]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.54:993][241]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:027][242]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:027][242]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:051][243]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:052][243]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:075][244]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:083][245]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:091][246]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:091][246]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:125][247]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:134][248]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:142][249]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:155][250]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:168][251]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:182][252]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:197][253]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:211][254]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:225][255]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:239][256]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:253][257]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:268][258]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:282][259]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:296][260]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:310][261]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:324][262]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:338][263]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:352][264]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:366][265]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:380][266]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:393][267]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:407][268]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:421][269]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:435][270]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:449][271]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:462][272]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:477][273]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:490][274]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:503][275]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:518][276]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:531][277]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:545][278]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:558][279]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:572][280]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:585][281]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:598][282]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:612][283]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:626][284]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:639][285]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:652][286]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:666][287]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:680][288]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:693][289]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:707][290]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:721][291]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:735][292]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:748][293]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:762][294]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:776][295]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:790][296]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:804][297]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:818][298]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:832][299]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:846][300]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:860][301]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:873][302]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:887][303]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:901][304]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:916][305]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:930][306]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:939][307]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:957][308]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:971][309]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:984][310]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.55:985][310]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:021][311]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:029][312]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:038][313]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:052][314]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:067][315]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:080][316]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:094][317]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:108][318]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:122][319]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:135][320]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:149][321]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:163][322]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:174][323]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:190][324]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:204][325]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:218][326]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:232][327]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:247][328]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:260][329]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:274][330]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:288][331]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:302][332]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:316][333]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:330][334]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:340][335]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:357][336]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:370][337]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:385][338]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:399][339]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:413][340]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:428][341]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:442][342]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:455][343]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:469][344]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:483][345]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:493][346]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:510][347]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:523][348]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:537][349]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:551][350]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:566][351]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:580][352]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:594][353]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:608][354]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:622][355]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:637][356]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:651][357]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:664][358]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:678][359]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:692][360]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:705][361]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:719][362]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:732][363]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:747][364]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:761][365]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:774][366]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:788][367]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:803][368]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:817][369]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:831][370]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:844][371]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:858][372]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:871][373]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:886][374]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:900][375]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:914][376]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:928][377]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:941][378]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:956][379]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:970][380]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:984][381]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.56:998][382]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:012][383]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:026][384]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:039][385]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:053][386]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:066][387]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:080][388]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:094][389]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:108][390]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:121][391]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:136][392]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:151][393]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:165][394]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:179][395]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:193][396]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:207][397]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:220][398]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:233][399]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:247][400]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:260][401]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:273][402]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:287][403]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:300][404]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:314][405]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:327][406]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:340][407]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:353][408]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:366][409]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:380][410]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:394][411]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:407][412]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:420][413]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:434][414]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:447][415]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:461][416]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:474][417]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:488][418]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:501][419]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:515][420]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:528][421]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:542][422]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:555][423]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:569][424]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:582][425]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:596][426]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:608][427]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:622][428]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:636][429]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:650][430]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:664][431]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:678][432]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:691][433]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:705][434]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:719][435]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:733][436]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:747][437]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:761][438]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:775][439]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:789][440]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:802][441]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:816][442]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:830][443]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:844][444]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.57:859][445]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:861][518]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:873][519]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:881][520]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:892][521]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:906][522]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:920][523]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:934][524]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:949][525]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:962][526]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:977][527]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.58:990][528]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:005][529]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:018][530]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:032][531]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:046][532]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:060][533]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:073][534]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:087][535]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:102][536]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:116][537]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:130][538]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:144][539]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:157][540]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:171][541]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:186][542]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:200][543]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:214][544]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:228][545]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:242][546]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:256][547]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:268][548]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:283][549]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:296][550]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:310][551]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:325][552]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:339][553]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:352][554]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:367][555]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:380][556]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:394][557]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:408][558]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:422][559]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:436][560]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:450][561]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:463][562]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:477][563]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:491][564]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:506][565]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:520][566]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:533][567]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:547][568]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:560][569]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:573][570]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.26.59:587][571]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:830][804]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:843][805]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:852][806]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:863][807]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:877][808]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:891][809]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:906][810]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:920][811]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:933][812]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:947][813]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:961][814]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:974][815]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.02:988][816]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:002][817]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:016][818]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:030][819]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:044][820]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:059][821]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:073][822]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:087][823]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:100][824]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:115][825]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:129][826]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:143][827]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:157][828]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:171][829]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:185][830]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:199][831]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:213][832]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:227][833]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:241][834]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:255][835]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:269][836]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:283][837]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:297][838]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.03:310][839]LogGeomTools: Triangulation of poly failed.
+[2022.12.09-16.27.49:492][122]LogSavePackage: Moving '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Saved/Level1_TileSet9DC719E24C908844B7026F83943E5B3D.tmp' to '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Textures/Level1_TileSet.uasset'
+[2022.12.09-16.27.49:504][122]AssetCheck: New page: Asset Save: Level1_TileSet
+[2022.12.09-16.27.49:504][122]LogContentValidation: Display: Validating PaperTileSet /Game/2DSideScrollerBP/Textures/Level1_TileSet.Level1_TileSet
+[2022.12.09-16.27.51:508][261]LogSlate: Window 'Level1_TileSet' being destroyed
+[2022.12.09-16.27.51:526][261]LogSlate: Window 'Level1_TileSet' being destroyed
+[2022.12.09-16.27.51:537][261]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.12.09-16.27.51:537][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.09-16.27.53:680][484]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScrollerBP/Textures/Level1_TileMap.Level1_TileMap
+[2022.12.09-16.27.54:556][538]LogSlate: Window 'Level1_TileMap' being destroyed
+[2022.12.09-16.27.54:572][538]LogSlate: Window 'Level1_TileMap' being destroyed
+[2022.12.09-16.27.54:575][538]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.12.09-16.27.54:576][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.09-16.27.55:791][673]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.09-16.27.55:797][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.09-16.27.55:797][673]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 9, 2022, 6:27:55 AM)
+[2022.12.09-16.27.55:797][673]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.12.09-16.27.55:799][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001948s)
+[2022.12.09-16.27.55:800][673]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.12.09-16.27.55:800][673]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2022.12.09-16.27.55:800][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002993s)
+[2022.12.09-16.27.55:818][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.09-16.27.55:826][673]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.12.09-16.27.55:826][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.09-16.27.55:826][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.09-16.27.55:826][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.09-16.27.55:826][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.09-16.27.55:826][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.09-16.27.55:826][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.09-16.27.55:826][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.09-16.27.55:826][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.09-16.27.55:826][673]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.09-16.27.55:826][673]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.09-16.27.55:830][673]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.09-16.27.55:830][673]LogAudioMixer: Display: 1: FrontRight
+[2022.12.09-16.27.55:912][673]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.12.09-16.27.55:912][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.09-16.27.55:912][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.09-16.27.55:912][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.09-16.27.55:912][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.09-16.27.55:913][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.09-16.27.55:913][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.09-16.27.55:924][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.09-16.27.55:924][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.09-16.27.55:924][673]LogInit: FAudioDevice initialized.
+[2022.12.09-16.27.55:924][673]LogAudio: Display: Audio Device (ID: 43) registered with world '2DSideScrollerExampleMap'.
+[2022.12.09-16.27.55:932][673]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.09-16.27.55:934][673]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.12.09-11.27.55
+[2022.12.09-16.27.55:934][673]LogWorld: Bringing up level for play took: 0.001240
+[2022.12.09-16.27.55:934][673]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2022.12.09-16.27.55:936][673]PIE: Server logged in
+[2022.12.09-16.27.55:937][673]PIE: Play in editor total start time 0.142 seconds.
+[2022.12.09-16.28.13:994][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.09-16.28.13:994][836]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.12.09-16.28.13:994][836]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.09-16.28.13:994][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.09-16.28.14:004][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.09-16.28.14:027][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.09-16.28.14:039][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.09-16.28.14:039][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.09-16.28.14:040][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.09-16.28.14:056][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.09-16.28.14:058][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.12.09-16.28.14:087][837]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2022.12.09-16.28.15:166][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.12.09-16.28.15:174][938]LogSavePackage: Moving '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMapF83286A742634F1086DBF59AA1BDBC26.tmp' to '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.09-16.28.15:293][938]LogSavePackage: Moving '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_BuiltDaBA35B4034C27321E93189B801542D1F4.tmp' to '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.09-16.28.15:301][938]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.09-16.28.15:301][938]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.09-16.28.15:301][938]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.09-16.28.21:710][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:711][577]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5'
+[2022.12.09-16.28.21:902][577]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn', but the path contains illegal characters '.'
+[2022.12.09-16.28.21:903][577]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial', but the path contains illegal characters '.'
+[2022.12.09-16.28.21:903][577]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles', but the path contains illegal characters '.'
+[2022.12.09-16.28.21:903][577]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay', but the path contains illegal characters '.'
+[2022.12.09-16.28.22:140][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.09-16.28.22:148][577]LogSavePackage: Moving '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMapDFA4F8734B87F97D45B21FA6068B98E4.tmp' to '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.09-16.28.22:158][577]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.032
+[2022.12.09-16.28.22:160][577]LogSavePackage: Moving '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_BuiltDaE2126D9743FBA55900D55BA574CC5F2D.tmp' to '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.09-16.28.22:165][577]LogSavePackage: Moving '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Saved/Level1_TileSet0989F6F44D22C6C2304DD58035D16625.tmp' to '../../../../../Users/5925009681/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Textures/Level1_TileSet.uasset'
+[2022.12.09-16.28.41:024][577]LogSlate: Window 'Submit Files' being destroyed
+[2022.12.09-16.28.41:429][577]LogSourceControl: commit successful: [FGarciaBranch 8f5df40] update
+[2022.12.09-16.28.41:582][577]SourceControl: [FGarciaBranch 8f5df40] update
+[2022.12.09-16.28.41:582][577]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2022.12.09-16.28.41:588][577]SourceControl: Commited [FGarciaBranch 8f5df40] update.
+[2022.12.09-16.28.41:630][578]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.09-16.28.41:630][578]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.09-16.28.41:630][578]LogContentValidation: Display: Validating PaperTileSet /Game/2DSideScrollerBP/Textures/Level1_TileSet.Level1_TileSet
+[2022.12.09-16.28.41:630][578]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
