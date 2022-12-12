@@ -1,10 +1,10 @@
-﻿Log file open, 12/09/22 11:02:36
+﻿Log file open, 12/12/22 08:43:12
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: GameDesign5
 LogPlatformFile: Not using cached read wrapper
-LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 2.461648
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.831284
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
@@ -12,100 +12,100 @@ LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin AISupport
-LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
-LogPluginManager: Mounting plugin Niagara
-LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin AssetManagerEditor
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin MaterialAnalyzer
-LogPluginManager: Mounting plugin PluginBrowser
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin MagicLeap
-LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin AutomationUtils
-LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin ChaosCloth
-LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin MLSDK
-LogPluginManager: Mounting plugin ChaosEditor
-LogPluginManager: Mounting plugin ChaosNiagara
-LogPluginManager: Mounting plugin ChaosSolverPlugin
-LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
-LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin MotoSynth
-LogPluginManager: Mounting plugin PlanarCut
-LogPluginManager: Mounting plugin PlatformCrypto
-LogPluginManager: Mounting plugin ProxyLODPlugin
-LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
-LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin ActorLayerUtilities
-LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AppleImageUtils
-LogPluginManager: Mounting plugin AppleMoviePlayer
-LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
-LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
-LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin GooglePAD
-LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
-LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin PhysXVehicles
@@ -119,8 +119,8 @@ LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
-LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
 LogXGEController: Cleaning working directory: C:/Users/5926010098/AppData/Local/Temp/UnrealXGEWorkingDir/
@@ -150,7 +150,7 @@ LogInit: Build: ++UE4+Release-4.26-CL-15973114
 LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
 LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
 LogInit: Net CL: 14830424
-LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz, GPU: NVIDIA Quadro K600
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
 LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
@@ -190,7 +190,7 @@ LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
-LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -208,613 +208,599 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2022.12.09-16.02.39:034][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2022.12.09-16.02.39:034][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2022.12.09-16.02.39:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
-[2022.12.09-16.02.39:035][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2022.12.09-16.02.39:035][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
-[2022.12.09-16.02.39:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
-[2022.12.09-16.02.39:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
-[2022.12.09-16.02.39:035][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2022.12.09-16.02.39:035][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2022.12.09-16.02.39:035][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2022.12.09-16.02.39:035][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2022.12.09-16.02.39:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2022.12.09-16.02.39:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2022.12.09-16.02.39:035][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2022.12.09-16.02.39:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
-[2022.12.09-16.02.39:036][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
-[2022.12.09-16.02.39:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2022.12.09-16.02.39:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2022.12.09-16.02.39:056][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2022.12.09-16.02.39:057][  0]LogInit: Selected Device Profile: [Windows]
-[2022.12.09-16.02.39:058][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2022.12.09-16.02.39:059][  0]LogHAL: Display: Platform has ~ 8 GB [8261713920 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2022.12.09-16.02.39:059][  0]LogInit: Going up to parent DeviceProfile []
-[2022.12.09-16.02.39:060][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.12.09-16.02.39:060][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2022.12.09-16.02.39:061][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:062][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.12.09-16.02.39:062][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.12.09-16.02.39:062][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
-[2022.12.09-16.02.39:062][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2022.12.09-16.02.39:062][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2022.12.09-16.02.39:062][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2022.12.09-16.02.39:062][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2022.12.09-16.02.39:063][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2022.12.09-16.02.39:063][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2022.12.09-16.02.39:063][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2022.12.09-16.02.39:063][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
-[2022.12.09-16.02.39:063][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Config/Windows/Editor.ini]
-[2022.12.09-16.02.39:065][  0]LogInit: Computer: CAIT-2UA43921JS
-[2022.12.09-16.02.39:065][  0]LogInit: User: 5926010098
-[2022.12.09-16.02.39:065][  0]LogInit: CPU Page size=4096, Cores=4
-[2022.12.09-16.02.39:065][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2022.12.09-16.02.39:065][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx)
-[2022.12.09-16.02.39:065][  0]LogMemory: Platform Memory Stats for Windows
-[2022.12.09-16.02.39:065][  0]LogMemory: Process Physical Memory: 133.73 MB used, 133.73 MB peak
-[2022.12.09-16.02.39:065][  0]LogMemory: Process Virtual Memory: 117.52 MB used, 117.52 MB peak
-[2022.12.09-16.02.39:065][  0]LogMemory: Physical Memory: 4308.51 MB used,  3570.48 MB free, 7878.98 MB total
-[2022.12.09-16.02.39:065][  0]LogMemory: Virtual Memory: 134213856.00 MB used,  3875.55 MB free, 134217728.00 MB total
-[2022.12.09-16.02.39:088][  0]LogWindows: WindowsPlatformFeatures enabled
-[2022.12.09-16.02.39:340][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2022.12.09-16.02.39:344][  0]LogInit: Using OS detected language (en-US).
-[2022.12.09-16.02.39:344][  0]LogInit: Using OS detected locale (en-US).
-[2022.12.09-16.02.39:370][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2022.12.09-16.02.40:146][  0]LogInit: Setting process to per monitor DPI aware
-[2022.12.09-16.02.40:224][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2022.12.09-16.02.40:347][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2022.12.09-16.02.40:347][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2022.12.09-16.02.45:099][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2022.12.09-16.02.45:099][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2022.12.09-16.02.45:099][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2022.12.09-16.02.45:099][  0]LogD3D11RHI: D3D11 adapters:
-[2022.12.09-16.02.45:236][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K600' (Feature Level 11_0)
-[2022.12.09-16.02.45:236][  0]LogD3D11RHI:       985/0/3939 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2022.12.09-16.02.45:249][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2022.12.09-16.02.45:249][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2022.12.09-16.02.45:253][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2022.12.09-16.02.45:253][  0]LogD3D11RHI:       0/0/3939 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2022.12.09-16.02.45:253][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2022.12.09-16.02.45:261][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2022.12.09-16.02.45:261][  0]LogD3D11RHI:     GPU DeviceId: 0xffa (for the marketing name, search the web for "GPU Device Id")
-[2022.12.09-16.02.45:261][  0]LogWindows: EnumDisplayDevices:
-[2022.12.09-16.02.45:261][  0]LogWindows:    0. 'NVIDIA Quadro K600' (P:1 D:1)
-[2022.12.09-16.02.45:262][  0]LogWindows:    1. 'NVIDIA Quadro K600' (P:0 D:0)
-[2022.12.09-16.02.45:262][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2022.12.09-16.02.45:263][  0]LogWindows:    3. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2022.12.09-16.02.45:263][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2022.12.09-16.02.45:264][  0]LogWindows:    5. 'mv video hook driver2' (P:0 D:0)
-[2022.12.09-16.02.45:264][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
-[2022.12.09-16.02.45:264][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K600
-[2022.12.09-16.02.45:265][  0]LogD3D11RHI:   Driver Version: 472.98 (internal:30.0.14.7298, unified:472.98)
-[2022.12.09-16.02.45:265][  0]LogD3D11RHI:      Driver Date: 1-5-2022
-[2022.12.09-16.02.45:265][  0]LogRHI: Texture pool is 689 MB (70% of 985 MB)
-[2022.12.09-16.02.45:370][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
-[2022.12.09-16.02.45:371][  0]LogD3D11RHI: Async texture creation enabled
-[2022.12.09-16.02.45:438][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2022.12.09-16.02.45:450][  0]LogRHI: GeForceNow SDK initialized: 1
-[2022.12.09-16.02.46:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2022.12.09-16.02.46:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2022.12.09-16.02.46:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2022.12.09-16.02.46:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2022.12.09-16.02.46:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2022.12.09-16.02.46:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2022.12.09-16.02.46:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2022.12.09-16.02.46:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2022.12.09-16.02.46:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2022.12.09-16.02.46:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2022.12.09-16.02.46:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2022.12.09-16.02.46:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2022.12.09-16.02.46:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2022.12.09-16.02.46:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2022.12.09-16.02.46:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2022.12.09-16.02.46:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2022.12.09-16.02.46:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2022.12.09-16.02.46:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2022.12.09-16.02.46:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2022.12.09-16.02.46:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2022.12.09-16.02.46:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2022.12.09-16.02.46:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2022.12.09-16.02.46:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2022.12.09-16.02.46:816][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2022.12.09-16.02.46:843][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2022.12.09-16.02.47:201][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2022.12.09-16.02.47:203][  0]LogShaderCompilers: Guid format shader working directory is -59 characters bigger than the processId version (../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Intermediate/Shaders/WorkingDirectory/12184/).
-[2022.12.09-16.02.47:203][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/5926010098/AppData/Local/Temp/UnrealShaderWorkingDir/E92DB1F1406FC632B1A76DB111D976A5/'.
-[2022.12.09-16.02.47:205][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2022.12.09-16.02.47:205][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2022.12.09-16.02.51:959][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2022.12.09-16.02.52:403][  0]LogDerivedDataCache: Loaded boot cache 0.44s 77MB C:/Users/5926010098/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2022.12.09-16.02.52:403][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/5926010098/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
-[2022.12.09-16.02.52:403][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2022.12.09-16.02.52:403][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2022.12.09-16.02.52:403][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.12.09-16.02.52:403][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2022.12.09-16.02.52:424][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2022.12.09-16.02.52:425][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.12.09-16.02.52:425][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2022.12.09-16.02.52:461][  0]LogDerivedDataCache: Speed tests for C:/Users/5926010098/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
-[2022.12.09-16.02.52:461][  0]LogDerivedDataCache: Display: Performance to C:/Users/5926010098/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.45ms. RandomReadSpeed=71.94MBs, RandomWriteSpeed=51.43MBs. Assigned SpeedClass 'Local'
-[2022.12.09-16.02.52:463][  0]LogDerivedDataCache: Using Local data cache path C:/Users/5926010098/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2022.12.09-16.02.52:463][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2022.12.09-16.02.52:463][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2022.12.09-16.02.52:535][  0]LogSlate: Using FreeType 2.10.0
-[2022.12.09-16.02.52:562][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2022.12.09-16.02.52:708][  0]LogAssetRegistry: FAssetRegistry took 0.0122 seconds to start up
-[2022.12.09-16.02.53:514][  0]LogInit: Selected Device Profile: [Windows]
-[2022.12.09-16.02.53:514][  0]LogInit: Active device profile: [000001B37DB7DB00][000001B363DB6700 49] Windows
-[2022.12.09-16.02.53:514][  0]LogInit: Profiles: [000001B37DB7DB00][000001B363DB6700 49] Windows, [000001B37DB50C00][000001B363DBE880 49] WindowsNoEditor, [000001B37DB7E000][000001B363DC2A00 49] WindowsServer, [000001B37DB52300][000001B363DC6B80 49] WindowsClient, [000001B37DB7CD00][000001B363DCAD00 49] IOS, [000001B37DB53800][000001B363DCEE80 49] iPadAir, [000001B37DB7EF00][000001B363DD3000 49] iPadAir2, [000001B37DAFAD00][000001B363DDB2C0 49] IPadPro, [000001B37DAFAE00][000001B363DD7300 49] iPadAir3, [000001B37DB7D100][000001B363DDF480 49] iPadAir4, [000001B37DAFA800][000001B363DE3600 49] iPadMini2, [000001B37DB7F000][000001B363DBB740 49] iPadMini3, [000001B37DAF9700][000001B363DE7880 49] iPadMini4, [000001B37DB7F800][000001B363DEB9C0 49] iPadMini5, [000001B37DB36600][000001B363DF7C40 49] iPhone6, [000001B37DB36700][000001B363DEFC80 49] iPodTouch6, [000001B37DB50400][000001B363E02280 49] iPhone7, [000001B37DB50600][000001B363DFE2C0 49] iPodTouch7, [000001B37DB37D00][000001B37E98C440 49] iPhone5S, [000001B37DB52000][000001B37E9905C0 49] iPhone6Plus, [000001B37DB35600][000001B37E994740 49] iPhone6S, [000001B37DB51F00][000001B37E9988C0 49] iPhone6SPlus, [000001B37DB34500][000001B37E99CA40 49] iPhone7Plus, [000001B37DB53F00][000001B37E9A0BC0 49] iPhoneSE, [000001B37DB37200][000001B37E9A4D40 49] iPhone8, [000001B37DB53100][000001B37E9A8EC0 49] iPhone8Plus, [000001B37DB35900][000001B37E9AD040 49] iPhoneX, [000001B37DB52900][000001B37E9B11C0 49] iPhoneXS, [000001B37DB35200][000001B37E9B5340 49] iPhoneXSMax, [000001B37DB53600][000001B37E9B94C0 49] iPhoneXR, [000001B37DB34C00][000001B37E9BD640 49] iPhone11, [000001B37DB50900][000001B37E9C17C0 49] iPhone11Pro, [000001B37DB35500][000001B363DF3900 49] iPhone11ProMax, [000001B37DB52D00][000001B37E9C5A40 49] iPhoneSE2, [000001B37DB34700][000001B37E9C9B80 49] iPhone12Mini, [000001B37DB52200][000001B37E9D1D00 49] iPhone12, [000001B37DB36200][000001B37E9D41C0 49] iPhone12Pro, [000001B37DB52A00][000001B37E9D8340 49] iPhone12ProMax, [000001B37DB51D00][000001B37E9DC4C0 49] iPadPro105, [000001B37DB7CF00][000001B37E9E0640 49] iPadPro129, [000001B37DB52100][000001B37E9E47C0 49] iPadPro97, [000001B37DB7F500][000001B37E9E8940 49] iPadPro2_129, [000001B37DB35100][000001B37E9ECAC0 49] iPad5, [000001B37DB7E700][000001B37E9F0C40 49] iPad6, [000001B37DB35D00][000001B37E9F4DC0 49] iPad7, [000001B37DB7C100][000001B37E9F8F40 49] iPad8, [000001B37DB35700][000001B37E9FD0C0 49] iPadPro11, [000001B37DB7EE00][000001B37EA01240 49] iPadPro2_11, [000001B37DB37E00][000001B37EA053C0 49] iPadPro3_129, [000001B37DB7EB00][000001B37EA09540 49] iPadPro4_129, [000001B37DB34300][000001B37EA0D6C0 49] AppleTV, [000001B37DB7CB00][000001B37EA11840 49] AppleTV4K, [000001B37DB34D00][000001B37E9CD980 49] TVOS, [000001B37DB7DE00][000001B37EA15AC0 49] Mac, [000001B37DB37800][000001B37EA19C00 49] MacClient, [000001B37DB7E200][000001B37EA200C0 49] MacNoEditor, [000001B37DB36B00][000001B37EA24240 49] MacServer, [000001B37DB7FD00][000001B37EA283C0 49] Linux, [000001B37DB34B00][000001B37EA2C540 49] LinuxAArch64, [000001B37DB7D400][000001B37EA306C0 49] LinuxNoEditor, [000001B37DB35C00][000001B37EA34840 49] LinuxAArch64NoEditor, [000001B37DB7E500][000001B37EA389C0 49] LinuxClient, [000001B37DB36D00][000001B37EA3CB40 49] LinuxAArch64Client, [000001B37DB7CA00][000001B37EA40CC0 49] LinuxServer, [000001B37DB35F00][000001B37EA44E40 49] LinuxAArch64Server, [000001B37DB7E300][000001B37EA48FC0 49] Android, [000001B37DB37400][000001B37EA4D140 49] Android_Low, [000001B37DB7ED00][000001B37EA512C0 49] Android_Mid, [000001B37DB36C00][000001B37EA55440 49] Android_High, [000001B37DB7CC00][000001B37EA595C0 49] Android_Default, [000001B37DB35B00][000001B37EA5D740 49] Android_Adreno4xx, [000001B37DB7D200][000001B37EA618C0 49] Android_Adreno5xx_Low, [000001B37DB34400][000001B37EA1DA00 49] Android_Adreno5xx, [000001B37DB7FB00][000001B37EA65B40 49] Android_Adreno6xx, [000001B37DB37300][000001B37EA69C80 49] Android_Adreno6xx_Vulkan, [000001B37DB7EC00][000001B37EA6C100 49] Android_Mali_T6xx, [000001B37DB37A00][000001B37EA74280 49] Android_Mali_T7xx, [000001B37DB7E900][000001B37EA78400 49] Android_Mali_T8xx, [000001B37DB36800][000001B37EA7C580 49] Android_Mali_G71, [000001B37DB7FF00][000001B37EA80700 49] Android_Mali_G72, [000001B37DB34A00][000001B37EA84880 49] Android_Mali_G72_Vulkan, [000001B37DB7F100][000001B37EA88A00 49] Android_Mali_G76, [000001B37DB36300][000001B37EA8CB80 49] Android_Mali_G76_Vulkan, [000001B37DB7F700][000001B37EA90D00 49] Android_Mali_G77, [000001B37DB36100][000001B37EA94E80 49] Android_Mali_G77_Vulkan, [000001B37DB7D500][000001B37EA99000 49] Android_Vulkan_SM5, [000001B37DB37C00][000001B37EA9D180 49] Android_PowerVR_G6xxx, [000001B37DB7E800][000001B37EAA1300 49] Android_PowerVR_GT7xxx, [000001B37DB34600][000001B37EAA5480 49] Android_PowerVR_GE8xxx, [000001B37DB7F900][000001B37EAA9600 49] Android_PowerVR_GM9xxx, [000001B37DB53B00][000001B37EAAD780 49] Android_PowerVR_GM9xxx_Vulkan, [000001B37DAF8100][000001B372F5D900 49] Android_TegraK1, [000001B37DB53300][000001B37EA71A40 49] Android_Unknown_Vulkan, [000001B37DAF9200][000001B372F61B80 49] Lumin, [000001B37DB51800][000001B372F65CC0 49] Lumin_Desktop, [000001B37DAF9E00][000001B372F68140 49] HoloLens, 
-[2022.12.09-16.02.54:249][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2022.12.09-16.02.54:249][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2022.12.09-16.02.54:249][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2022.12.09-16.02.54:249][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2022.12.09-16.02.54:252][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2022.12.09-16.02.54:425][  0]LogNetVersion: GameDesign5 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 27797639)
-[2022.12.09-16.02.57:824][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2022.12.09-16.02.57:998][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.157165 seconds
-[2022.12.09-16.02.58:007][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
-[2022.12.09-16.02.58:007][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
-[2022.12.09-16.02.58:007][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2022.12.09-16.03.01:174][  0]LogAssetRegistry: Error: Package ../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/StarterContent/Architecture/Floor_400x400.uasset has newer custom version of Dev-Rendering
-[2022.12.09-16.03.01:174][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2022.12.09-16.03.01:193][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2022.12.09-16.03.01:604][  0]SourceControl: Source control is disabled
-[2022.12.09-16.03.01:604][  0]SourceControl: Source control is disabled
-[2022.12.09-16.03.01:633][  0]SourceControl: Source control is disabled
-[2022.12.09-16.03.01:662][  0]SourceControl: Source control is disabled
-[2022.12.09-16.03.01:716][  0]SourceControl: Source control is disabled
-[2022.12.09-16.03.01:736][  0]LogUProjectInfo: Found projects:
-[2022.12.09-16.03.01:754][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2022.12.09-16.03.01:755][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2022.12.09-16.03.02:675][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2022.12.09-16.03.02:746][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2022.12.09-16.03.02:746][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2022.12.09-16.03.03:003][  0]LogCollectionManager: Loaded 0 collections in 0.005597 seconds
-[2022.12.09-16.03.03:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/Collections/' took 0.00s
-[2022.12.09-16.03.03:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/Developers/5926010098/Collections/' took 0.00s
-[2022.12.09-16.03.03:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/Collections/' took 0.00s
-[2022.12.09-16.03.03:133][  0]LogOcInput: OculusInput pre-init called
-[2022.12.09-16.03.03:190][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2022.12.09-16.03.03:190][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2022.12.09-16.03.03:430][  0]LogEngine: Initializing Engine...
-[2022.12.09-16.03.03:435][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2022.12.09-16.03.03:435][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2022.12.09-16.03.03:445][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.004 s
-[2022.12.09-16.03.03:673][  0]LogInit: Initializing FReadOnlyCVARCache
-[2022.12.09-16.03.03:779][  0]LogAIModule: Creating AISystem for world Untitled
-[2022.12.09-16.03.03:797][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2022.12.09-16.03.03:814][  0]LogAudio: Display: Audio Device Manager Initialized
-[2022.12.09-16.03.03:814][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2022.12.09-16.03.03:816][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2022.12.09-16.03.03:816][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2022.12.09-16.03.03:816][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2022.12.09-16.03.03:816][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2022.12.09-16.03.03:816][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2022.12.09-16.03.03:816][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2022.12.09-16.03.03:816][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2022.12.09-16.03.03:816][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2022.12.09-16.03.03:819][  0]LogAudio: Display: Using built-in audio occlusion.
-[2022.12.09-16.03.03:819][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2022.12.09-16.03.03:883][  0]LogAudioMixer: Display: 0: FrontLeft
-[2022.12.09-16.03.03:883][  0]LogAudioMixer: Display: 1: FrontRight
-[2022.12.09-16.03.04:255][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
-[2022.12.09-16.03.04:260][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2022.12.09-16.03.04:264][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2022.12.09-16.03.04:265][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2022.12.09-16.03.04:267][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2022.12.09-16.03.04:269][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2022.12.09-16.03.04:269][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2022.12.09-16.03.04:270][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2022.12.09-16.03.04:270][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2022.12.09-16.03.04:270][  0]LogInit: FAudioDevice initialized.
-[2022.12.09-16.03.04:271][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2022.12.09-16.03.04:275][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2022.12.09-16.03.04:411][  0]LogDerivedDataCache: Saved boot cache 0.14s 77MB C:/Users/5926010098/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2022.12.09-16.03.04:411][  0]LogInit: Texture streaming: Enabled
-[2022.12.09-16.03.04:424][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
-[2022.12.09-16.03.04:429][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2022.12.09-16.03.04:429][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2022.12.09-16.03.04:433][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2022.12.09-16.03.04:469][  0]LogInit: Transaction tracking system initialized
-[2022.12.09-16.03.04:652][  0]BlueprintLog: New page: Editor Load
-[2022.12.09-16.03.05:175][  0]LocalizationService: Localization service is disabled
-[2022.12.09-16.03.05:329][  0]TimingProfiler: Initialize
-[2022.12.09-16.03.05:333][  0]TimingProfiler: OnSessionChanged
-[2022.12.09-16.03.05:334][  0]LoadingProfiler: Initialize
-[2022.12.09-16.03.05:335][  0]LoadingProfiler: OnSessionChanged
-[2022.12.09-16.03.05:336][  0]NetworkingProfiler: Initialize
-[2022.12.09-16.03.05:337][  0]NetworkingProfiler: OnSessionChanged
-[2022.12.09-16.03.05:337][  0]MemoryProfiler: Initialize
-[2022.12.09-16.03.05:337][  0]MemoryProfiler: OnSessionChanged
-[2022.12.09-16.03.05:594][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2022.12.09-16.03.05:595][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2022.12.09-16.03.05:774][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2022.12.09-16.03.05:774][  0]LogCook: Display: Mobile HDR setting 0
-[2022.12.09-16.03.05:997][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/' took 0.01s
-[2022.12.09-16.03.07:187][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2022.12.09-16.03.07:192][  0]SourceControl: Source control is disabled
-[2022.12.09-16.03.07:192][  0]LogUnrealEdMisc: Loading editor; pre map load, took 38.615
-[2022.12.09-16.03.07:193][  0]LightingResults: New page: Lighting Build
-[2022.12.09-16.03.07:194][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2022.12.09-16.03.07:194][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2022.12.09-16.03.07:195][  0]MapCheck: New page: Map Check
-[2022.12.09-16.03.07:195][  0]LightingResults: New page: Lighting Build
-[2022.12.09-16.03.07:341][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
-[2022.12.09-16.03.07:446][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
-[2022.12.09-16.03.07:448][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
-[2022.12.09-16.03.07:455][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2022.12.09-16.03.07:479][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
-[2022.12.09-16.03.07:481][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2022.12.09-16.03.07:481][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.244ms to complete.
-[2022.12.09-16.03.07:481][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.289
-[2022.12.09-16.03.07:530][  0]LogUnrealEdMisc: Total Editor Startup Time, took 38.953
-[2022.12.09-16.03.07:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.12.09-16.03.07:791][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.12.09-16.03.07:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.12.09-16.03.07:808][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.12.09-16.03.07:981][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0115 seconds. Added 3601 classes and 859 folders.
-[2022.12.09-16.03.08:075][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2022.12.09-16.03.08:104][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2022.12.09-16.03.08:104][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.12.09-16.03.08:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
-[2022.12.09-16.03.08:120][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2022.12.09-16.03.08:120][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:120][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2022.12.09-16.03.08:120][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
-[2022.12.09-16.03.08:130][  0]LogPakFile: PakFile PrimaryIndexSize=191
-[2022.12.09-16.03.08:130][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:130][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
-[2022.12.09-16.03.08:130][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
-[2022.12.09-16.03.08:155][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.12.09-16.03.08:155][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.12.09-16.03.08:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
-[2022.12.09-16.03.08:167][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2022.12.09-16.03.08:167][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:167][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2022.12.09-16.03.08:167][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
-[2022.12.09-16.03.08:178][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2022.12.09-16.03.08:178][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2022.12.09-16.03.08:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
-[2022.12.09-16.03.08:187][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2022.12.09-16.03.08:187][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:187][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2022.12.09-16.03.08:187][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
-[2022.12.09-16.03.08:199][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2022.12.09-16.03.08:199][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:199][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2022.12.09-16.03.08:199][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
-[2022.12.09-16.03.08:244][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2022.12.09-16.03.08:244][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:244][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2022.12.09-16.03.08:244][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
-[2022.12.09-16.03.08:256][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2022.12.09-16.03.08:256][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2022.12.09-16.03.08:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
-[2022.12.09-16.03.08:267][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2022.12.09-16.03.08:267][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2022.12.09-16.03.08:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
-[2022.12.09-16.03.08:284][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2022.12.09-16.03.08:284][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2022.12.09-16.03.08:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
-[2022.12.09-16.03.08:295][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.12.09-16.03.08:295][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:295][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.12.09-16.03.08:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
-[2022.12.09-16.03.08:306][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2022.12.09-16.03.08:306][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2022.12.09-16.03.08:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
-[2022.12.09-16.03.08:317][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2022.12.09-16.03.08:317][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2022.12.09-16.03.08:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
-[2022.12.09-16.03.08:328][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2022.12.09-16.03.08:328][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.12.09-16.03.08:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
-[2022.12.09-16.03.08:338][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2022.12.09-16.03.08:338][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2022.12.09-16.03.08:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
-[2022.12.09-16.03.08:348][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2022.12.09-16.03.08:348][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2022.12.09-16.03.08:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
-[2022.12.09-16.03.08:359][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.12.09-16.03.08:359][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.12.09-16.03.08:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
-[2022.12.09-16.03.08:373][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.12.09-16.03.08:373][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.12.09-16.03.08:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
-[2022.12.09-16.03.08:383][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2022.12.09-16.03.08:383][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.12.09-16.03.08:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
-[2022.12.09-16.03.08:394][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2022.12.09-16.03.08:394][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2022.12.09-16.03.08:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
-[2022.12.09-16.03.08:405][  0]LogPakFile: PakFile PrimaryIndexSize=186
-[2022.12.09-16.03.08:405][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
-[2022.12.09-16.03.08:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
-[2022.12.09-16.03.08:416][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2022.12.09-16.03.08:416][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2022.12.09-16.03.08:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
-[2022.12.09-16.03.08:428][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.12.09-16.03.08:428][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.12.09-16.03.08:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
-[2022.12.09-16.03.08:439][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2022.12.09-16.03.08:439][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.12.09-16.03.08:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2022.12.09-16.03.08:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
-[2022.12.09-16.03.08:854][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2022.12.09-16.03.08:865][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
-[2022.12.09-16.03.09:029][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2022.12.09-16.03.09:029][  0]LogLoad: (Engine Initialization) Total time: 40.45 seconds
-[2022.12.09-16.03.09:029][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2022.12.09-16.03.09:030][  0]LogInit: First time updating LLM stats...
-[2022.12.09-16.03.09:125][  0]LogAssetRegistry: Asset discovery search completed in 16.4199 seconds
-[2022.12.09-16.03.09:136][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
-[2022.12.09-16.03.09:250][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2022.12.09-16.03.09:404][  0]LogSlate: Took 0.148028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2022.12.09-16.03.09:429][  0]LogSlate: Took 0.022408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2022.12.09-16.03.09:445][  0]LogSlate: Took 0.011407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2022.12.09-16.03.16:353][  0]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
-[2022.12.09-16.03.17:232][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2022.12.09-16.03.17:308][  2]LogRenderer: Reallocating scene render targets to support 832x360 Format 10 NumSamples 1 (Frame:1).
-[2022.12.09-16.03.17:869][  3]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
-[2022.12.09-16.03.18:380][  4]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
-[2022.12.09-16.03.20:886][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
-[2022.12.09-16.03.20:931][  6]LogRendererCore: Warning: Query 'Unaccounted' not ready.
-[2022.12.09-16.20.51:035][611]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
-[2022.12.09-16.20.53:082][738]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2022.12.09-16.20.53:113][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
-[2022.12.09-16.20.53:129][738]LogSavePackage: Moving '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMapC8C55E964144E76AFCB736BDC4F7EBAB.tmp' to '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
-[2022.12.09-16.20.53:141][738]LogSavePackage: Moving '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_BuiltDaBB94FF9D454A81C656C6EEA2312156A1.tmp' to '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
-[2022.12.09-16.20.53:141][738]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset', retrying in .5s...
-[2022.12.09-16.20.53:642][738]LogFileManager: Error: Error deleting file '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'.
-[2022.12.09-16.20.53:642][738]LogSavePackage: Error: Error saving '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
-[2022.12.09-16.20.59:254][738]LogSlate: Window 'Message' being destroyed
-[2022.12.09-16.20.59:259][738]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData' (2DSideScrollerExampleMap_BuiltData.uasset) failed to save.
-
-Cancel: Stop saving all assets and return to the editor.
-Retry: Attempt to save the asset again.
-Continue: Skip saving this asset only.
-[2022.12.09-16.20.59:265][738]EditorErrors: New page: Save Output
-[2022.12.09-16.20.59:265][738]EditorErrors: Warning: Error saving '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Desktop/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
-[2022.12.09-16.20.59:344][738]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
-[2022.12.09-16.20.59:344][738]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
-[2022.12.09-16.20.59:355][738]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2022.12.09-16.21.00:954][827]LogSlate: Window 'Message Log' being destroyed
-[2022.12.09-16.21.00:962][827]LogSlate: Window 'Message Log' being destroyed
+[2022.12.12-13.43.14:422][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.12-13.43.14:422][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.12.12-13.43.14:423][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.12-13.43.14:423][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.12.12-13.43.14:424][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.12.12-13.43.14:440][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.12-13.43.14:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.12-13.43.14:441][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.12-13.43.14:443][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.12-13.43.14:444][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.12-13.43.14:445][  0]LogHAL: Display: Platform has ~ 8 GB [8479338496 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.12-13.43.14:445][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.12-13.43.14:446][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.12-13.43.14:446][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.12-13.43.14:447][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.12-13.43.14:448][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.12-13.43.14:448][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.12-13.43.14:448][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.12-13.43.14:449][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.12.12-13.43.14:449][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Config/Windows/Editor.ini]
+[2022.12.12-13.43.14:450][  0]LogInit: Computer: CAIT-FPTYBV2
+[2022.12.12-13.43.14:450][  0]LogInit: User: 5926010098
+[2022.12.12-13.43.14:450][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.12-13.43.14:450][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.12-13.43.14:450][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.12.12-13.43.14:451][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.12-13.43.14:451][  0]LogMemory: Process Physical Memory: 136.36 MB used, 136.36 MB peak
+[2022.12.12-13.43.14:451][  0]LogMemory: Process Virtual Memory: 118.84 MB used, 118.84 MB peak
+[2022.12.12-13.43.14:451][  0]LogMemory: Physical Memory: 5857.67 MB used,  2228.86 MB free, 8086.53 MB total
+[2022.12.12-13.43.14:451][  0]LogMemory: Virtual Memory: 134214424.00 MB used,  3307.71 MB free, 134217728.00 MB total
+[2022.12.12-13.43.14:459][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.12-13.43.14:644][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.12-13.43.14:649][  0]LogInit: Using OS detected language (en-US).
+[2022.12.12-13.43.14:649][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.12-13.43.14:660][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.12.12-13.43.15:301][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.12-13.43.15:346][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.12-13.43.15:493][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.12-13.43.15:493][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.12-13.43.19:481][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.12-13.43.19:481][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.12-13.43.19:481][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.12-13.43.19:481][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.12-13.43.19:562][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2022.12.12-13.43.19:562][  0]LogD3D11RHI:       128/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.12.12-13.43.19:569][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.12-13.43.19:569][  0]LogD3D11RHI:       0/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.12-13.43.19:569][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.12.12-13.43.19:582][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.12-13.43.19:582][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.12-13.43.19:582][  0]LogWindows: EnumDisplayDevices:
+[2022.12.12-13.43.19:583][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2022.12.12-13.43.19:583][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2022.12.12-13.43.19:583][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2022.12.12-13.43.19:583][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2022.12.12-13.43.19:584][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2022.12.12-13.43.19:584][  0]LogD3D11RHI:   Driver Version: 27.20.100.9664 (internal:27.20.100.9664, unified:27.20.100.9664)
+[2022.12.12-13.43.19:584][  0]LogD3D11RHI:      Driver Date: 6-1-2021
+[2022.12.12-13.43.19:584][  0]LogRHI: Texture pool is 1504 MB (70% of 2149 MB)
+[2022.12.12-13.43.19:772][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.12.12-13.43.19:823][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2022.12.12-13.43.19:823][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2022.12.12-13.43.19:824][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2022.12.12-13.43.19:832][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2022.12.12-13.43.19:832][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.12-13.43.19:832][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.12-13.43.19:914][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2022.12.12-13.43.20:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.12-13.43.20:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.12-13.43.21:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.12-13.43.21:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.12-13.43.21:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.12-13.43.21:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.12-13.43.21:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.12-13.43.21:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.12-13.43.21:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.12-13.43.21:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.12-13.43.21:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.12-13.43.21:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.12-13.43.21:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.12-13.43.21:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.12-13.43.21:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.12-13.43.21:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.12-13.43.21:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.12-13.43.21:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.12-13.43.21:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.12-13.43.21:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.12-13.43.21:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.12-13.43.21:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.12-13.43.21:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.12-13.43.21:394][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.12-13.43.21:429][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.12-13.43.21:754][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.12-13.43.21:756][  0]LogShaderCompilers: Guid format shader working directory is -77 characters bigger than the processId version (../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Intermediate/Shaders/WorkingDirectory/2672/).
+[2022.12.12-13.43.21:756][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/5926010098/AppData/Local/Temp/UnrealShaderWorkingDir/A06823DD4A92F51E4216C8BCE656E5F8/'.
+[2022.12.12-13.43.21:758][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.12-13.43.21:758][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.12-13.43.28:425][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.12-13.43.28:747][  0]LogDerivedDataCache: Loaded boot cache 0.32s 78MB C:/Users/5926010098/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.12-13.43.28:747][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/5926010098/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.12.12-13.43.28:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.12-13.43.28:751][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.12-13.43.28:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.12-13.43.28:751][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.12-13.43.28:812][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.12-13.43.28:812][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.12-13.43.28:812][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.12-13.43.28:848][  0]LogDerivedDataCache: Speed tests for C:/Users/5926010098/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.12.12-13.43.28:849][  0]LogDerivedDataCache: Display: Performance to C:/Users/5926010098/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.16ms. RandomReadSpeed=45.81MBs, RandomWriteSpeed=71.47MBs. Assigned SpeedClass 'Local'
+[2022.12.12-13.43.28:849][  0]LogDerivedDataCache: Using Local data cache path C:/Users/5926010098/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.12-13.43.28:849][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.12-13.43.28:849][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.12-13.43.28:961][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.12-13.43.28:995][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.12-13.43.29:078][  0]LogAssetRegistry: FAssetRegistry took 0.0103 seconds to start up
+[2022.12.12-13.43.30:186][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.12-13.43.30:187][  0]LogInit: Active device profile: [000001C4097F7A00][000001C47ED14C00 49] Windows
+[2022.12.12-13.43.30:187][  0]LogInit: Profiles: [000001C4097F7A00][000001C47ED14C00 49] Windows, [000001C4097BC700][000001C47ED1CD80 49] WindowsNoEditor, [000001C4097F4700][000001C47ED20F00 49] WindowsServer, [000001C4097BF600][000001C47ED25080 49] WindowsClient, [000001C4097F7500][000001C47ED29200 49] IOS, [000001C4097BCC00][000001C407217380 49] iPadAir, [000001C4097F4C00][000001C40721B500 49] iPadAir2, [000001C40977D200][000001C40721F740 49] IPadPro, [000001C40977D300][000001C47ED19780 49] iPadAir3, [000001C4097F7300][000001C4072238C0 49] iPadAir4, [000001C40977CC00][000001C407227A00 49] iPadMini2, [000001C4097F5800][000001C40722FB80 49] iPadMini3, [000001C40977E100][000001C407233D00 49] iPadMini4, [000001C4097F6B00][000001C4072361C0 49] iPadMini5, [000001C4097BE700][000001C40723E480 49] iPhone6, [000001C4097BE600][000001C40723A4C0 49] iPodTouch6, [000001C40977F700][000001C407246780 49] iPhone7, [000001C40977F500][000001C4072427C0 49] iPodTouch7, [000001C4097BF200][000001C40724A940 49] iPhone5S, [000001C40977C100][000001C40724EAC0 49] iPhone6Plus, [000001C4097BDA00][000001C407252C40 49] iPhone6S, [000001C40977E000][000001C407256DC0 49] iPhone6SPlus, [000001C4097BFF00][000001C40725AF40 49] iPhone7Plus, [000001C40977C600][000001C40725F0C0 49] iPhoneSE, [000001C4097BEF00][000001C407263240 49] iPhone8, [000001C40977E700][000001C4072673C0 49] iPhone8Plus, [000001C4097BD900][000001C40726B540 49] iPhoneX, [000001C40977DE00][000001C40726F6C0 49] iPhoneXS, [000001C4097BE400][000001C40722B800 49] iPhoneXSMax, [000001C40977D000][000001C407273940 49] iPhoneXR, [000001C4097BE900][000001C407277A80 49] iPhone11, [000001C40977F100][000001C406B73C00 49] iPhone11Pro, [000001C4097BFC00][000001C406B760C0 49] iPhone11ProMax, [000001C40977D400][000001C406B7A240 49] iPhoneSE2, [000001C4097BF900][000001C406B7E3C0 49] iPhone12Mini, [000001C40977C500][000001C406B82540 49] iPhone12, [000001C4097BC500][000001C406B866C0 49] iPhone12Pro, [000001C40977CD00][000001C406B8A840 49] iPhone12ProMax, [000001C4097BDD00][000001C406B8E9C0 49] iPadPro105, [000001C40977F200][000001C406B92B40 49] iPadPro129, [000001C4097BC300][000001C406B96CC0 49] iPadPro97, [000001C40977D100][000001C406B9AE40 49] iPadPro2_129, [000001C4097BCE00][000001C406B9EFC0 49] iPad5, [000001C40977CB00][000001C406BA3140 49] iPad6, [000001C4097BED00][000001C406BA72C0 49] iPad7, [000001C40977E400][000001C406BAB440 49] iPad8, [000001C4097BD400][000001C406BAF5C0 49] iPadPro11, [000001C40977D500][000001C406BB3740 49] iPadPro2_11, [000001C4097BFD00][000001C40727B880 49] iPadPro3_129, [000001C40977E200][000001C406BB79C0 49] iPadPro4_129, [000001C4097BE000][000001C406BBBB00 49] AppleTV, [000001C40977F300][000001C406BBFC40 49] AppleTV4K, [000001C4097BE500][000001C406BC6100 49] TVOS, [000001C40977F400][000001C406BCA280 49] Mac, [000001C4097BDF00][000001C406BCE400 49] MacClient, [000001C40977C200][000001C406BD2580 49] MacNoEditor, [000001C4097BD600][000001C406BD6700 49] MacServer, [000001C40977D800][000001C406BDA880 49] Linux, [000001C4097BF500][000001C406BDEA00 49] LinuxAArch64, [000001C40977DF00][000001C406BE2B80 49] LinuxNoEditor, [000001C4097BFA00][000001C406BE6D00 49] LinuxAArch64NoEditor, [000001C40977E300][000001C406BEAE80 49] LinuxClient, [000001C4097BE800][000001C406BEF000 49] LinuxAArch64Client, [000001C4097F5400][000001C406BF3180 49] LinuxServer, [000001C409859300][000001C406BF7300 49] LinuxAArch64Server, [000001C4097F7B00][000001C406BFB480 49] Android, [000001C409858B00][000001C406BFF600 49] Android_Low, [000001C4097F6200][000001C406C03780 49] Android_Mid, [000001C409859900][000001C406BC38C0 49] Android_High, [000001C4097F6F00][000001C406C07A00 49] Android_Default, [000001C409858300][000001C406C0BB40 49] Android_Adreno4xx, [000001C4097F7100][000001C406C0FC80 49] Android_Adreno5xx_Low, [000001C409858100][000001C406C16140 49] Android_Adreno5xx, [000001C4097F5500][000001C406C1A2C0 49] Android_Adreno6xx, [000001C409859200][000001C406C1E440 49] Android_Adreno6xx_Vulkan, [000001C4097F6700][000001C406C225C0 49] Android_Mali_T6xx, [000001C409858C00][000001C406C26740 49] Android_Mali_T7xx, [000001C4097F4B00][000001C406C2A8C0 49] Android_Mali_T8xx, [000001C409858700][000001C406C2EA40 49] Android_Mali_G71, [000001C4097F5B00][000001C406C32BC0 49] Android_Mali_G72, [000001C409858F00][000001C406C36D40 49] Android_Mali_G72_Vulkan, [000001C4097F5100][000001C406C3AEC0 49] Android_Mali_G76, [000001C409858200][000001C406C3F040 49] Android_Mali_G76_Vulkan, [000001C4097BF300][000001C406C431C0 49] Android_Mali_G77, [000001C40977F800][000001C406C47340 49] Android_Mali_G77_Vulkan, [000001C4097BEC00][000001C406C4B4C0 49] Android_Vulkan_SM5, [000001C40977FD00][000001C406C4F640 49] Android_PowerVR_G6xxx, [000001C4097BD300][000001C406C537C0 49] Android_PowerVR_GT7xxx, [000001C40977EC00][000001C406C57940 49] Android_PowerVR_GE8xxx, [000001C4097BDC00][000001C406C13A80 49] Android_PowerVR_GM9xxx, [000001C40977FB00][000001C406C5BBC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001C4097BC800][000001C406C5FD00 49] Android_TegraK1, [000001C40977EB00][000001C406C661C0 49] Android_Unknown_Vulkan, [000001C4097BF400][000001C406C6A340 49] Lumin, [000001C40977D700][000001C406C6E4C0 49] Lumin_Desktop, [000001C4097BFE00][000001C406C72640 49] HoloLens, 
+[2022.12.12-13.43.30:850][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.12-13.43.30:850][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.12-13.43.30:850][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.12-13.43.30:850][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.12-13.43.30:851][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.12-13.43.30:977][  0]LogNetVersion: GameDesign5 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 27797639)
+[2022.12.12-13.43.33:302][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.12-13.43.33:456][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.146198 seconds
+[2022.12.12-13.43.33:474][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.12.12-13.43.33:475][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.12.12-13.43.33:475][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.12-13.43.34:401][  0]LogAssetRegistry: Error: Package ../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Content/StarterContent/Architecture/Floor_400x400.uasset has newer custom version of Dev-Rendering
+[2022.12.12-13.43.35:656][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.12-13.43.35:676][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.12-13.43.36:120][  0]SourceControl: Source control is disabled
+[2022.12.12-13.43.36:121][  0]SourceControl: Source control is disabled
+[2022.12.12-13.43.36:155][  0]SourceControl: Source control is disabled
+[2022.12.12-13.43.36:204][  0]SourceControl: Source control is disabled
+[2022.12.12-13.43.36:220][  0]SourceControl: Source control is disabled
+[2022.12.12-13.43.36:241][  0]LogUProjectInfo: Found projects:
+[2022.12.12-13.43.36:263][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.12-13.43.36:265][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.12-13.43.37:307][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.12-13.43.37:386][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.12-13.43.37:386][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.12-13.43.37:605][  0]LogCollectionManager: Loaded 0 collections in 0.004899 seconds
+[2022.12.12-13.43.37:683][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/Collections/' took 0.00s
+[2022.12.12-13.43.37:683][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Content/Developers/5926010098/Collections/' took 0.00s
+[2022.12.12-13.43.37:683][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Content/Collections/' took 0.00s
+[2022.12.12-13.43.37:740][  0]LogOcInput: OculusInput pre-init called
+[2022.12.12-13.43.37:787][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.12.12-13.43.37:787][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.12.12-13.43.38:108][  0]LogEngine: Initializing Engine...
+[2022.12.12-13.43.38:117][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.12-13.43.38:118][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.12-13.43.38:129][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2022.12.12-13.43.38:313][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.12-13.43.38:465][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.12-13.43.38:511][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.12-13.43.38:529][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.12-13.43.38:529][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.12-13.43.38:531][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-13.43.38:531][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-13.43.38:531][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-13.43.38:532][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-13.43.38:532][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-13.43.38:532][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-13.43.38:532][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-13.43.38:532][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-13.43.38:541][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-13.43.38:542][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-13.43.38:580][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-13.43.38:580][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-13.43.40:058][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2022.12.12-13.43.40:065][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-13.43.40:068][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-13.43.40:069][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-13.43.40:072][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-13.43.40:073][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-13.43.40:073][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-13.43.40:074][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-13.43.40:074][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-13.43.40:074][  0]LogInit: FAudioDevice initialized.
+[2022.12.12-13.43.40:077][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.12-13.43.40:079][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.12-13.43.40:184][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/5926010098/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.12-13.43.40:186][  0]LogInit: Texture streaming: Enabled
+[2022.12.12-13.43.40:222][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.12.12-13.43.40:233][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.12-13.43.40:233][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.12-13.43.40:240][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.12-13.43.40:309][  0]LogInit: Transaction tracking system initialized
+[2022.12.12-13.43.40:447][  0]BlueprintLog: New page: Editor Load
+[2022.12.12-13.43.40:802][  0]LocalizationService: Localization service is disabled
+[2022.12.12-13.43.40:923][  0]TimingProfiler: Initialize
+[2022.12.12-13.43.40:927][  0]TimingProfiler: OnSessionChanged
+[2022.12.12-13.43.40:928][  0]LoadingProfiler: Initialize
+[2022.12.12-13.43.40:928][  0]LoadingProfiler: OnSessionChanged
+[2022.12.12-13.43.40:929][  0]NetworkingProfiler: Initialize
+[2022.12.12-13.43.40:930][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.12-13.43.40:930][  0]MemoryProfiler: Initialize
+[2022.12.12-13.43.40:930][  0]MemoryProfiler: OnSessionChanged
+[2022.12.12-13.43.41:120][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.12-13.43.41:121][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.12-13.43.41:272][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.12-13.43.41:272][  0]LogCook: Display: Mobile HDR setting 0
+[2022.12.12-13.43.41:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Content/' took 0.01s
+[2022.12.12-13.43.42:081][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.12-13.43.42:098][  0]SourceControl: Source control is disabled
+[2022.12.12-13.43.42:099][  0]LogUnrealEdMisc: Loading editor; pre map load, took 33.246
+[2022.12.12-13.43.42:105][  0]LightingResults: New page: Lighting Build
+[2022.12.12-13.43.42:115][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-13.43.42:119][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-13.43.42:126][  0]MapCheck: New page: Map Check
+[2022.12.12-13.43.42:126][  0]LightingResults: New page: Lighting Build
+[2022.12.12-13.43.42:173][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.12.12-13.43.42:298][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2022.12.12-13.43.42:300][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.12.12-13.43.42:394][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.12-13.43.42:419][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.12.12-13.43.42:423][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.12-13.43.42:425][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.923ms to complete.
+[2022.12.12-13.43.42:425][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.324
+[2022.12.12-13.43.42:515][  0]LogUnrealEdMisc: Total Editor Startup Time, took 33.662
+[2022.12.12-13.43.42:827][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-13.43.42:836][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-13.43.42:843][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-13.43.42:850][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-13.43.42:952][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3601 classes and 859 folders.
+[2022.12.12-13.43.42:974][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.12-13.43.42:998][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.12-13.43.42:998][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.42:998][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.12-13.43.42:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000326
+[2022.12.12-13.43.43:014][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.12-13.43.43:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.12-13.43.43:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000331
+[2022.12.12-13.43.43:023][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.12-13.43.43:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.12-13.43.43:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000335
+[2022.12.12-13.43.43:032][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-13.43.43:032][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:032][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.12-13.43.43:032][  0]LogPakFile: OnPakFileMounted2Time == 0.000339
+[2022.12.12-13.43.43:041][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.12-13.43.43:041][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:041][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.12-13.43.43:041][  0]LogPakFile: OnPakFileMounted2Time == 0.000343
+[2022.12.12-13.43.43:049][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.12-13.43.43:049][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.12-13.43.43:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000347
+[2022.12.12-13.43.43:058][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.12-13.43.43:058][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:058][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.12-13.43.43:058][  0]LogPakFile: OnPakFileMounted2Time == 0.000351
+[2022.12.12-13.43.43:069][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.12-13.43.43:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.12-13.43.43:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000355
+[2022.12.12-13.43.43:081][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.12-13.43.43:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.12-13.43.43:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000360
+[2022.12.12-13.43.43:103][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.12-13.43.43:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.12-13.43.43:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000364
+[2022.12.12-13.43.43:113][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.12-13.43.43:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.12-13.43.43:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000369
+[2022.12.12-13.43.43:122][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.12-13.43.43:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.12-13.43.43:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000386
+[2022.12.12-13.43.43:132][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-13.43.43:132][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:132][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.12-13.43.43:132][  0]LogPakFile: OnPakFileMounted2Time == 0.000390
+[2022.12.12-13.43.43:140][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.12-13.43.43:140][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:140][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.12-13.43.43:140][  0]LogPakFile: OnPakFileMounted2Time == 0.000394
+[2022.12.12-13.43.43:149][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.12-13.43.43:149][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.12-13.43.43:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000398
+[2022.12.12-13.43.43:158][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.12-13.43.43:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.12-13.43.43:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000403
+[2022.12.12-13.43.43:166][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.12-13.43.43:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.12-13.43.43:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000407
+[2022.12.12-13.43.43:174][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.12-13.43.43:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.12-13.43.43:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000411
+[2022.12.12-13.43.43:182][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-13.43.43:182][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:182][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.12-13.43.43:182][  0]LogPakFile: OnPakFileMounted2Time == 0.000416
+[2022.12.12-13.43.43:193][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-13.43.43:193][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:193][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.12-13.43.43:193][  0]LogPakFile: OnPakFileMounted2Time == 0.000420
+[2022.12.12-13.43.43:201][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.12-13.43.43:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.12-13.43.43:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000424
+[2022.12.12-13.43.43:209][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.12-13.43.43:210][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:210][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.12-13.43.43:210][  0]LogPakFile: OnPakFileMounted2Time == 0.000427
+[2022.12.12-13.43.43:219][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.12-13.43.43:219][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:219][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.12-13.43.43:220][  0]LogPakFile: OnPakFileMounted2Time == 0.000432
+[2022.12.12-13.43.43:229][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.12-13.43.43:229][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.12-13.43.43:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000436
+[2022.12.12-13.43.43:236][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-13.43.43:236][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:236][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.12-13.43.43:236][  0]LogPakFile: OnPakFileMounted2Time == 0.000440
+[2022.12.12-13.43.43:245][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.12-13.43.43:246][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-13.43.43:246][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.12-13.43.43:246][  0]LogPakFile: OnPakFileMounted2Time == 0.000445
+[2022.12.12-13.43.43:559][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.12-13.43.43:576][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.12.12-13.43.43:778][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.12-13.43.43:778][  0]LogLoad: (Engine Initialization) Total time: 34.93 seconds
+[2022.12.12-13.43.43:778][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.12-13.43.43:780][  0]LogInit: First time updating LLM stats...
+[2022.12.12-13.43.43:856][  0]LogAssetRegistry: Asset discovery search completed in 14.7801 seconds
+[2022.12.12-13.43.43:859][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000367 seconds (updated 0 objects)
+[2022.12.12-13.43.43:923][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.12-13.43.43:953][  0]LogSlate: Took 0.006783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.12-13.43.43:963][  0]LogSlate: Took 0.006834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.12-13.43.43:981][  0]LogSlate: Took 0.007767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.12-13.43.44:353][  0]LogRenderer: Reallocating scene render targets to support 796x320 Format 10 NumSamples 1 (Frame:1).
+[2022.12.12-13.43.44:353][  0]LogSlate: Took 0.008379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.12-13.43.45:060][  3]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.12-13.43.56:118][397]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.12-13.43.56:166][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.12.12-13.43.56:211][397]LogSavePackage: Moving '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap88A7157044B79B218D4E82B52527C051.tmp' to '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.12-13.43.56:232][397]LogSavePackage: Moving '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_BuiltDa21105C08464468771144C5B0A9A34344.tmp' to '../../../../../../Users/5926010098/OneDrive - School Board of Seminole County/Game And Simulation Design/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.12-13.43.56:257][397]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-13.43.56:257][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.12-13.43.56:258][397]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.12-13.43.59:189][517]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-13.43.59:380][517]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2022.12.12-13.44.00:455][550]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2022.12.12-13.44.01:790][604]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2022.12.12-13.44.01:842][604]LogEditorViewport: Clicking on Actor (double click): PaperSpriteActor (Background_Sprite)
