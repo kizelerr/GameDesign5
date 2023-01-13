@@ -1179,3 +1179,212 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.13-16.15.48:605][758]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2023.01.13-16.15.48:605][758]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 [2023.01.13-16.15.48:605][758]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/flagpole.flagpole
+[2023.01.13-16.16.46:049][822]BlueprintLog: New page: Compile flagpole
+[2023.01.13-16.16.46:150][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.13-16.16.49:607][101]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-16.16.49:613][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-16.16.49:613][101]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 13, 2023, 6:16:49 AM)
+[2023.01.13-16.16.49:613][101]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.13-16.16.49:615][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002452s)
+[2023.01.13-16.16.49:616][101]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.13-16.16.49:616][101]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2023.01.13-16.16.49:616][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003506s)
+[2023.01.13-16.16.49:637][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.01.13-16.16.49:638][101]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.13-16.16.49:638][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-16.16.49:638][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-16.16.49:638][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-16.16.49:638][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-16.16.49:638][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-16.16.49:638][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-16.16.49:638][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-16.16.49:638][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-16.16.49:639][101]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-16.16.49:639][101]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-16.16.49:643][101]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-16.16.49:643][101]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-16.16.49:741][101]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2023.01.13-16.16.49:741][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-16.16.49:741][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-16.16.49:741][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-16.16.49:742][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-16.16.49:742][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.13-16.16.49:742][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.13-16.16.49:754][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.13-16.16.49:754][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.13-16.16.49:754][101]LogInit: FAudioDevice initialized.
+[2023.01.13-16.16.49:754][101]LogAudio: Display: Audio Device (ID: 7) registered with world '2DSideScrollerExampleMap'.
+[2023.01.13-16.16.49:759][101]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.13-16.16.49:761][101]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.13-11.16.49
+[2023.01.13-16.16.49:762][101]LogWorld: Bringing up level for play took: 0.001280
+[2023.01.13-16.16.49:762][101]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.01.13-16.16.49:764][101]PIE: Server logged in
+[2023.01.13-16.16.49:765][101]PIE: Play in editor total start time 0.153 seconds.
+[2023.01.13-16.17.15:448][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-16.17.15:448][178]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.13-16.17.15:448][178]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-16.17.15:449][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-16.17.15:470][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-16.17.15:538][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-16.17.15:556][178]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.13-16.17.15:556][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.13-16.17.15:557][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.13-16.17.15:587][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-16.17.15:589][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.01.13-16.17.15:617][179]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.01.13-16.19.22:949][850]BlueprintLog: New page: Compile flagpole
+[2023.01.13-16.19.23:050][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.01.13-16.19.24:933][980]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-16.19.24:938][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-16.19.24:938][980]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 13, 2023, 6:19:24 AM)
+[2023.01.13-16.19.24:961][980]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.13-16.19.24:964][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002684s)
+[2023.01.13-16.19.24:965][980]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.13-16.19.24:965][980]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2023.01.13-16.19.24:965][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003740s)
+[2023.01.13-16.19.24:984][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.01.13-16.19.24:985][980]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.01.13-16.19.24:985][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-16.19.24:985][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-16.19.24:985][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-16.19.24:985][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-16.19.24:985][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-16.19.24:985][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-16.19.24:985][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-16.19.24:985][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-16.19.24:985][980]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-16.19.24:985][980]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-16.19.24:989][980]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-16.19.24:989][980]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-16.19.25:069][980]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2023.01.13-16.19.25:069][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-16.19.25:069][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-16.19.25:069][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-16.19.25:070][980]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-16.19.25:070][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.13-16.19.25:070][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.13-16.19.25:081][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.13-16.19.25:081][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.13-16.19.25:081][980]LogInit: FAudioDevice initialized.
+[2023.01.13-16.19.25:081][980]LogAudio: Display: Audio Device (ID: 8) registered with world '2DSideScrollerExampleMap'.
+[2023.01.13-16.19.25:087][980]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.13-16.19.25:089][980]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.13-11.19.25
+[2023.01.13-16.19.25:089][980]LogWorld: Bringing up level for play took: 0.001087
+[2023.01.13-16.19.25:089][980]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.01.13-16.19.25:092][980]PIE: Server logged in
+[2023.01.13-16.19.25:092][980]PIE: Play in editor total start time 0.155 seconds.
+[2023.01.13-16.19.30:466][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-16.19.30:466][620]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.13-16.19.30:467][620]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-16.19.30:467][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-16.19.30:490][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-16.19.30:553][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-16.19.30:570][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.13-16.19.30:570][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.13-16.19.30:571][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.13-16.19.30:586][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-16.19.30:588][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.01.13-16.19.30:616][621]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.01.13-16.26.47:747][584]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Timer.Timer
+[2023.01.13-16.27.15:648][361]LogSlate: Took 0.009781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.13-16.28.38:880][221]BlueprintLog: New page: Compile flagpole
+[2023.01.13-16.28.39:038][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.01.13-16.28.39:912][273]LogSavePackage: Moving '../../../../../Users/5926004753/Downloads/GameDesign5/GameDesign5/Saved/flagpoleE54F3805429E0895CE78B88F0F2470DD.tmp' to '../../../../../Users/5926004753/Downloads/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Blueprints/flagpole.uasset'
+[2023.01.13-16.28.39:925][273]AssetCheck: New page: Asset Save: flagpole
+[2023.01.13-16.28.39:925][273]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/flagpole.flagpole
+[2023.01.13-16.28.42:613][460]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-16.28.42:620][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-16.28.42:620][460]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 13, 2023, 6:28:42 AM)
+[2023.01.13-16.28.42:640][460]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.13-16.28.42:643][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002304s)
+[2023.01.13-16.28.42:643][460]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.13-16.28.42:643][460]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2023.01.13-16.28.42:643][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003279s)
+[2023.01.13-16.28.42:673][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.01.13-16.28.42:675][460]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.01.13-16.28.42:675][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-16.28.42:675][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-16.28.42:675][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-16.28.42:675][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-16.28.42:675][460]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-16.28.42:675][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-16.28.42:675][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-16.28.42:675][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-16.28.42:675][460]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-16.28.42:675][460]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-16.28.42:679][460]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-16.28.42:679][460]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-16.28.42:761][460]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2023.01.13-16.28.42:761][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-16.28.42:761][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-16.28.42:761][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-16.28.42:762][460]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-16.28.42:762][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.13-16.28.42:762][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.13-16.28.42:774][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.13-16.28.42:774][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.13-16.28.42:774][460]LogInit: FAudioDevice initialized.
+[2023.01.13-16.28.42:774][460]LogAudio: Display: Audio Device (ID: 9) registered with world '2DSideScrollerExampleMap'.
+[2023.01.13-16.28.42:783][460]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.13-16.28.42:785][460]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.13-11.28.42
+[2023.01.13-16.28.42:786][460]LogWorld: Bringing up level for play took: 0.001174
+[2023.01.13-16.28.42:786][460]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.01.13-16.28.42:788][460]PIE: Server logged in
+[2023.01.13-16.28.42:789][460]PIE: Play in editor total start time 0.171 seconds.
+[2023.01.13-16.28.47:965][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-16.28.47:965][ 76]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.13-16.28.47:966][ 76]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-16.28.47:967][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-16.28.47:991][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-16.28.48:041][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-16.28.48:064][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.13-16.28.48:064][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.13-16.28.48:065][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.13-16.28.48:080][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-16.28.48:083][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.01.13-16.28.48:109][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.01.13-16.30.54:709][950]BlueprintLog: New page: Compile flagpole
+[2023.01.13-16.30.54:821][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:322][458]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5926004753/Downloads/GameDesign5'
+[2023.01.13-16.31.01:465][458]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn', but the path contains illegal characters '.'
+[2023.01.13-16.31.01:465][458]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial', but the path contains illegal characters '.'
+[2023.01.13-16.31.01:465][458]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles', but the path contains illegal characters '.'
+[2023.01.13-16.31.01:465][458]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay', but the path contains illegal characters '.'
+[2023.01.13-16.31.03:266][458]LogSlate: Window 'Save Content' being destroyed
+[2023.01.13-16.31.03:389][458]LogSavePackage: Moving '../../../../../Users/5926004753/Downloads/GameDesign5/GameDesign5/Saved/flagpole069C981F43A11E2F47A5D6B222C5891B.tmp' to '../../../../../Users/5926004753/Downloads/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Blueprints/flagpole.uasset'
+[2023.01.13-16.31.13:625][458]LogSlate: Window 'Submit Files' being destroyed
+[2023.01.13-16.31.13:897][458]LogSourceControl: commit successful: [AlexHaBranch1 df06d1f] began overlap event
+[2023.01.13-16.31.13:973][458]SourceControl: [AlexHaBranch1 df06d1f] began overlap event
+[2023.01.13-16.31.13:973][458]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.01.13-16.31.13:973][458]SourceControl:  rewrite GameDesign5/Content/2DSideScrollerBP/Blueprints/flagpole.uasset (86%)
+[2023.01.13-16.31.13:978][458]SourceControl: Commited [AlexHaBranch1 df06d1f] began overlap event.
+[2023.01.13-16.31.14:012][459]AssetCheck: New page: Asset Save: flagpole
+[2023.01.13-16.31.14:012][459]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/flagpole.flagpole
+[2023.01.13-16.31.17:235][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.01.13-16.31.17:246][532]LogSavePackage: Moving '../../../../../Users/5926004753/Downloads/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_Auto1C6F57627459D47C6E3288592C3430270.tmp' to '../../../../../Users/5926004753/Downloads/GameDesign5/GameDesign5/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2023.01.13-16.31.17:247][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.050
+[2023.01.13-16.31.17:248][532]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2023.01.13-16.31.17:248][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2023.01.13-16.31.17:248][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2023.01.13-16.31.17:303][532]LogSavePackage: Moving '../../../../../Users/5926004753/Downloads/GameDesign5/GameDesign5/Saved/2DSideScrollerCharacter_Auto16AEEB212475CEC8AE114EA9E656181E4.tmp' to '../../../../../Users/5926004753/Downloads/GameDesign5/GameDesign5/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset'
+[2023.01.13-16.31.17:304][532]LogFileHelpers: Auto-saving content packages took 0.056
