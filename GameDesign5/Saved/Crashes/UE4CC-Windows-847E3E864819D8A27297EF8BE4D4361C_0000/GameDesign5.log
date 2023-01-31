@@ -1,0 +1,1375 @@
+﻿Log file open, 11/08/22 11:51:04
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GameDesign5
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.312448
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.11.08-16.51.04:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.08-16.51.04:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.11.08-16.51.04:992][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.11.08-16.51.05:008][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.08-16.51.05:008][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.08-16.51.05:009][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.08-16.51.05:009][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.08-16.51.05:009][  0]LogHAL: Display: Platform has ~ 16 GB [16994697216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.08-16.51.05:009][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.08-16.51.05:009][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:009][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.08-16.51.05:009][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.08-16.51.05:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.08-16.51.05:011][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:011][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.08-16.51.05:011][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.08-16.51.05:011][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-16.51.05:011][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.08-16.51.05:011][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.08-16.51.05:011][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.08-16.51.05:011][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.08-16.51.05:011][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.08-16.51.05:011][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.08-16.51.05:011][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.08-16.51.05:011][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2022.11.08-16.51.05:011][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Config/Windows/Editor.ini]
+[2022.11.08-16.51.05:011][  0]LogInit: Computer: CAIT-C8473Y2
+[2022.11.08-16.51.05:011][  0]LogInit: User: 149860
+[2022.11.08-16.51.05:011][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.11.08-16.51.05:011][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.08-16.51.05:011][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.11.08-16.51.05:011][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.08-16.51.05:011][  0]LogMemory: Process Physical Memory: 135.35 MB used, 135.35 MB peak
+[2022.11.08-16.51.05:011][  0]LogMemory: Process Virtual Memory: 118.36 MB used, 118.36 MB peak
+[2022.11.08-16.51.05:011][  0]LogMemory: Physical Memory: 7691.42 MB used,  8515.98 MB free, 16207.41 MB total
+[2022.11.08-16.51.05:011][  0]LogMemory: Virtual Memory: 134208936.00 MB used,  8791.89 MB free, 134217728.00 MB total
+[2022.11.08-16.51.05:015][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.08-16.51.05:039][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.08-16.51.05:040][  0]LogInit: Using OS detected language (en-US).
+[2022.11.08-16.51.05:040][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.08-16.51.05:046][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.11.08-16.51.05:224][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.08-16.51.05:237][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.08-16.51.05:248][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.08-16.51.05:248][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.08-16.51.05:406][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.08-16.51.05:406][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.08-16.51.05:406][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.08-16.51.05:406][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.08-16.51.05:474][  0]LogD3D11RHI:    0. 'AMD Radeon RX 550' (Feature Level 11_0)
+[2022.11.08-16.51.05:474][  0]LogD3D11RHI:       4076/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.11.08-16.51.05:494][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.11.08-16.51.05:494][  0]LogD3D11RHI:       128/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.11.08-16.51.05:497][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.08-16.51.05:497][  0]LogD3D11RHI:       0/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.08-16.51.05:497][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.11.08-16.51.05:503][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.08-16.51.05:503][  0]LogD3D11RHI:     GPU DeviceId: 0x699f (for the marketing name, search the web for "GPU Device Id")
+[2022.11.08-16.51.05:503][  0]LogWindows: EnumDisplayDevices:
+[2022.11.08-16.51.05:503][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.11.08-16.51.05:504][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.11.08-16.51.05:504][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.11.08-16.51.05:504][  0]LogWindows:    3. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.08-16.51.05:504][  0]LogWindows:    4. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.08-16.51.05:505][  0]LogWindows:    5. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.08-16.51.05:505][  0]LogWindows:    6. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.08-16.51.05:506][  0]LogWindows:    7. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.08-16.51.05:506][  0]LogWindows:    8. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.08-16.51.05:506][  0]LogWindows:    9. 'mv video hook driver2' (P:0 D:0)
+[2022.11.08-16.51.05:506][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2022.11.08-16.51.05:506][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 550
+[2022.11.08-16.51.05:506][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.18.11 (internal:30.0.13018.11001, unified:30.0.13018.11001)
+[2022.11.08-16.51.05:506][  0]LogD3D11RHI:      Driver Date: 6-23-2022
+[2022.11.08-16.51.05:506][  0]LogRHI: Texture pool is 2425 MB (70% of 3464 MB)
+[2022.11.08-16.51.05:583][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.08-16.51.05:583][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.08-16.51.05:583][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.08-16.51.05:597][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.11.08-16.51.05:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.08-16.51.05:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.08-16.51.05:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.08-16.51.05:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.08-16.51.05:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.08-16.51.05:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.08-16.51.05:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.08-16.51.05:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.08-16.51.05:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.08-16.51.05:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.08-16.51.05:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.08-16.51.05:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.08-16.51.05:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.08-16.51.05:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.08-16.51.05:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.08-16.51.05:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.08-16.51.05:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.08-16.51.06:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.08-16.51.06:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.08-16.51.06:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.08-16.51.06:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.08-16.51.06:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.08-16.51.06:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.08-16.51.06:058][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.08-16.51.06:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.08-16.51.06:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.08-16.51.06:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.08-16.51.06:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.08-16.51.06:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.08-16.51.06:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.08-16.51.06:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.08-16.51.06:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.08-16.51.06:126][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.08-16.51.06:134][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.08-16.51.06:201][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.08-16.51.06:201][  0]LogShaderCompilers: Guid format shader working directory is -64 characters bigger than the processId version (../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Intermediate/Shaders/WorkingDirectory/1232/).
+[2022.11.08-16.51.06:201][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/149860/AppData/Local/Temp/UnrealShaderWorkingDir/84F22F184B7A0D3CE5CB72B678D87B28/'.
+[2022.11.08-16.51.06:201][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.08-16.51.06:201][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.08-16.51.06:930][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.08-16.51.06:987][  0]LogDerivedDataCache: Loaded boot cache 0.06s 96MB C:/Users/149860/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.08-16.51.06:987][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/149860/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.11.08-16.51.06:987][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.08-16.51.06:987][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.08-16.51.06:987][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.08-16.51.06:987][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.08-16.51.06:998][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.08-16.51.06:998][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.08-16.51.06:998][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.08-16.51.07:007][  0]LogDerivedDataCache: Speed tests for C:/Users/149860/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.08-16.51.07:007][  0]LogDerivedDataCache: Display: Performance to C:/Users/149860/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=900.34MBs, RandomWriteSpeed=123.45MBs. Assigned SpeedClass 'Local'
+[2022.11.08-16.51.07:008][  0]LogDerivedDataCache: Using Local data cache path C:/Users/149860/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.08-16.51.07:008][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.08-16.51.07:008][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.08-16.51.07:056][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.08-16.51.07:056][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.08-16.51.07:077][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2022.11.08-16.51.07:302][  0]LogAssetRegistry: Error: Package ../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/StarterContent/Architecture/Floor_400x400.uasset has newer custom version of Dev-Rendering
+[2022.11.08-16.51.07:302][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.08-16.51.07:302][  0]LogInit: Active device profile: [000001CA00B93500][000001CA00DC0300 49] Windows
+[2022.11.08-16.51.07:302][  0]LogInit: Profiles: [000001CA00B93500][000001CA00DC0300 49] Windows, [000001CA00B8CB00][000001CA00DC8480 49] WindowsNoEditor, [000001CA00B90C00][000001CA00DCC600 49] WindowsServer, [000001CA00B8EF00][000001CA00DD0780 49] WindowsClient, [000001CA00B92E00][000001CA00DD4900 49] IOS, [000001CA00B8D300][000001CA00DD8A80 49] iPadAir, [000001CA00B91200][000001CA00DDCC00 49] iPadAir2, [000001CA00B4C900][000001CA00DE4EC0 49] IPadPro, [000001CA00B4CA00][000001CA00DE0F00 49] iPadAir3, [000001CA00B92900][000001CA00DE9080 49] iPadAir4, [000001CA00B4F700][000001CA00DED200 49] iPadMini2, [000001CA00B91400][000001CA00DF1380 49] iPadMini3, [000001CA00B4DF00][000001CA00DF5500 49] iPadMini4, [000001CA00B93A00][000001CA00DF9680 49] iPadMini5, [000001CA00B8E800][000001CA00DFD8C0 49] iPhone6, [000001CA00B8C800][000001CA00DC5900 49] iPodTouch6, [000001CA00B3BF00][000001CA00E05B40 49] iPhone7, [000001CA00B3BE00][000001CA00E01B80 49] iPodTouch7, [000001CA00B8FE00][000001CA00E0DD00 49] iPhone5S, [000001CA00B39100][000001CA00E101C0 49] iPhone6Plus, [000001CA00B8CD00][000001CA00E14340 49] iPhone6S, [000001CA00B3A900][000001CA00E184C0 49] iPhone6SPlus, [000001CA00B8D200][000001CA00E1C640 49] iPhone7Plus, [000001CA00B39700][000001CA00E207C0 49] iPhoneSE, [000001CA00B8FB00][000001CA00E24940 49] iPhone8, [000001CA00B3B900][000001CA00E28AC0 49] iPhone8Plus, [000001CA00B8DB00][000001CA00E2CC40 49] iPhoneX, [000001CA00B3B100][000001CA00E30DC0 49] iPhoneXS, [000001CA00B8F400][000001CA00E34F40 49] iPhoneXSMax, [000001CA00B3AD00][000001CA00E390C0 49] iPhoneXR, [000001CA00B8EE00][000001CA00E3D240 49] iPhone11, [000001CA00B39A00][000001CA00E413C0 49] iPhone11Pro, [000001CA00B8DE00][000001CA00E45540 49] iPhone11ProMax, [000001CA00B38B00][000001CA00E496C0 49] iPhoneSE2, [000001CA00B8C200][000001CA00E4D840 49] iPhone12Mini, [000001CA00B3AB00][000001CA00E09980 49] iPhone12, [000001CA00B8D900][000001CA00E51AC0 49] iPhone12Pro, [000001CA00B3A800][000001CA00E55C00 49] iPhone12ProMax, [000001CA00B8EC00][000001CA00E5C0C0 49] iPadPro105, [000001CA00B39200][000001CA00E60240 49] iPadPro129, [000001CA00B8C600][000001CA00E643C0 49] iPadPro97, [000001CA00B39800][000001CA00E68540 49] iPadPro2_129, [000001CA00B8D000][000001CA00E6C6C0 49] iPad5, [000001CA00B3A400][000001CA00E70840 49] iPad6, [000001CA00B8DF00][000001CA00E749C0 49] iPad7, [000001CA00B39500][000001CA00E78B40 49] iPad8, [000001CA00B8E900][000001CA00E7CCC0 49] iPadPro11, [000001CA00B3B700][000001CA00E80E40 49] iPadPro2_11, [000001CA00B8FD00][000001CA00E84FC0 49] iPadPro3_129, [000001CA00B38300][000001CA00E89140 49] iPadPro4_129, [000001CA00B8E300][000001CA00E8D2C0 49] AppleTV, [000001CA00B39E00][000001CA00E91440 49] AppleTV4K, [000001CA00B8F000][000001CA00E955C0 49] TVOS, [000001CA00B38800][000001CA00E99740 49] Mac, [000001CA00B8F100][000001CA00E9D8C0 49] MacClient, [000001CA00B38200][000001CA00E59A00 49] MacNoEditor, [000001CA00B8D600][000001CA00EA1B40 49] MacServer, [000001CA00B3B800][000001CA00EA5C80 49] Linux, [000001CA00B8D100][000001CA00EA8100 49] LinuxAArch64, [000001CA00B3B000][000001CA00EB0280 49] LinuxNoEditor, [000001CA00B8E500][000001CA00EB4400 49] LinuxAArch64NoEditor, [000001CA00B3BB00][000001CA00EB8580 49] LinuxClient, [000001CA7FB38C00][000001CA00EBC700 49] LinuxAArch64Client, [000001CA00B4E100][000001CA00EC0880 49] LinuxServer, [000001CA7FB39000][000001CA00EC4A00 49] LinuxAArch64Server, [000001CA00B4C700][000001CA00EC8B80 49] Android, [000001CA7FB38F00][000001CA00ECCD00 49] Android_Low, [000001CA00B4CF00][000001CA00ED0E80 49] Android_Mid, [000001CA7FB39200][000001CA00ED5000 49] Android_High, [000001CA00B4F900][000001CA00ED9180 49] Android_Default, [000001CA7FB39900][000001CA00EDD300 49] Android_Adreno4xx, [000001CA00B4FC00][000001CA00EE1480 49] Android_Adreno5xx_Low, [000001CA7FB38B00][000001CA00EE5600 49] Android_Adreno5xx, [000001CA00B4F200][000001CA00EE9780 49] Android_Adreno6xx, [000001CA7FB39800][000001CA00EED900 49] Android_Adreno6xx_Vulkan, [000001CA00B4F000][000001CA00EADA40 49] Android_Mali_T6xx, [000001CA7FB38800][000001CA00EF1B80 49] Android_Mali_T7xx, [000001CA00B4F600][000001CA00EF5CC0 49] Android_Mali_T8xx, [000001CA7FB38400][000001CA00EF8140 49] Android_Mali_G71, [000001CA00B4D500][000001CA00F002C0 49] Android_Mali_G72, [000001CA7FB39600][000001CA00F04440 49] Android_Mali_G72_Vulkan, [000001CA00B4FB00][000001CA00F085C0 49] Android_Mali_G76, [000001CA00B3A100][000001CA00F0C740 49] Android_Mali_G76_Vulkan, [000001CA00B4EE00][000001CA00F108C0 49] Android_Mali_G77, [000001CA00B39400][000001CA00F14A40 49] Android_Mali_G77_Vulkan, [000001CA00B4DA00][000001CA00F18BC0 49] Android_Vulkan_SM5, [000001CA00B8DC00][000001CA00F1CD40 49] Android_PowerVR_G6xxx, [000001CA00B4CB00][000001CA00F20EC0 49] Android_PowerVR_GT7xxx, [000001CA00B8CC00][000001CA00F25040 49] Android_PowerVR_GE8xxx, [000001CA00B4D700][000001CA00F291C0 49] Android_PowerVR_GM9xxx, [000001CA00B8DD00][000001CA00F2D340 49] Android_PowerVR_GM9xxx_Vulkan, [000001CA00B4D100][000001CA00F314C0 49] Android_TegraK1, [000001CA00B8E400][000001CA00F35640 49] Android_Unknown_Vulkan, [000001CA00B4D900][000001CA00F397C0 49] Lumin, [000001CA00B8CF00][000001CA00F3D940 49] Lumin_Desktop, [000001CA00B4CE00][000001CA00F41AC0 49] HoloLens, 
+[2022.11.08-16.51.07:405][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.08-16.51.07:405][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.08-16.51.07:405][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.08-16.51.07:405][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.08-16.51.07:405][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.08-16.51.07:419][  0]LogNetVersion: GameDesign5 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 27797639)
+[2022.11.08-16.51.07:799][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.08-16.51.07:877][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.077492 seconds
+[2022.11.08-16.51.07:882][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.11.08-16.51.07:882][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.11.08-16.51.07:882][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.08-16.51.08:244][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.08-16.51.08:249][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.08-16.51.08:387][  0]SourceControl: Source control is disabled
+[2022.11.08-16.51.08:387][  0]SourceControl: Source control is disabled
+[2022.11.08-16.51.08:390][  0]SourceControl: Source control is disabled
+[2022.11.08-16.51.08:394][  0]SourceControl: Source control is disabled
+[2022.11.08-16.51.08:400][  0]SourceControl: Source control is disabled
+[2022.11.08-16.51.08:407][  0]LogUProjectInfo: Found projects:
+[2022.11.08-16.51.08:413][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.08-16.51.08:414][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.08-16.51.08:576][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.08-16.51.08:592][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.08-16.51.08:592][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.08-16.51.08:658][  0]LogCollectionManager: Loaded 0 collections in 0.001575 seconds
+[2022.11.08-16.51.08:680][  0]LogFileCache: Scanning file cache for directory 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Collections/' took 0.00s
+[2022.11.08-16.51.08:680][  0]LogFileCache: Scanning file cache for directory 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/Developers/149860/Collections/' took 0.00s
+[2022.11.08-16.51.08:680][  0]LogFileCache: Scanning file cache for directory 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/Collections/' took 0.00s
+[2022.11.08-16.51.08:680][  0]LogOcInput: OculusInput pre-init called
+[2022.11.08-16.51.08:691][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.11.08-16.51.08:691][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.11.08-16.51.08:737][  0]LogEngine: Initializing Engine...
+[2022.11.08-16.51.08:738][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.08-16.51.08:739][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.08-16.51.08:740][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.08-16.51.08:836][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.08-16.51.08:843][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.08-16.51.08:859][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.08-16.51.08:863][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.08-16.51.08:863][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.08-16.51.08:863][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.08-16.51.08:863][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.08-16.51.08:863][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.08-16.51.08:863][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.08-16.51.08:863][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.08-16.51.08:863][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.08-16.51.08:863][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.08-16.51.08:863][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.08-16.51.08:863][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.08-16.51.08:863][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.08-16.51.08:880][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.08-16.51.08:880][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.08-16.51.09:150][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.08-16.51.09:152][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.08-16.51.09:154][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.08-16.51.09:154][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.08-16.51.09:155][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.08-16.51.09:155][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.08-16.51.09:155][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.08-16.51.09:156][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.08-16.51.09:156][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.08-16.51.09:156][  0]LogInit: FAudioDevice initialized.
+[2022.11.08-16.51.09:156][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.08-16.51.09:156][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.08-16.51.09:235][  0]LogDerivedDataCache: Saved boot cache 0.08s 96MB C:/Users/149860/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.08-16.51.09:238][  0]LogInit: Texture streaming: Enabled
+[2022.11.08-16.51.09:250][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.11.08-16.51.09:254][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.08-16.51.09:254][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.08-16.51.09:256][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.08-16.51.09:281][  0]LogInit: Transaction tracking system initialized
+[2022.11.08-16.51.09:303][  0]BlueprintLog: New page: Editor Load
+[2022.11.08-16.51.09:373][  0]LocalizationService: Localization service is disabled
+[2022.11.08-16.51.09:398][  0]TimingProfiler: Initialize
+[2022.11.08-16.51.09:398][  0]TimingProfiler: OnSessionChanged
+[2022.11.08-16.51.09:398][  0]LoadingProfiler: Initialize
+[2022.11.08-16.51.09:398][  0]LoadingProfiler: OnSessionChanged
+[2022.11.08-16.51.09:398][  0]NetworkingProfiler: Initialize
+[2022.11.08-16.51.09:398][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.08-16.51.09:398][  0]MemoryProfiler: Initialize
+[2022.11.08-16.51.09:398][  0]MemoryProfiler: OnSessionChanged
+[2022.11.08-16.51.09:448][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.08-16.51.09:449][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.08-16.51.09:528][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.08-16.51.09:528][  0]LogCook: Display: Mobile HDR setting 0
+[2022.11.08-16.51.09:668][  0]LogFileCache: Scanning file cache for directory 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/' took 0.01s
+[2022.11.08-16.51.09:828][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.08-16.51.09:832][  0]SourceControl: Source control is disabled
+[2022.11.08-16.51.09:832][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.016
+[2022.11.08-16.51.09:841][  0]LightingResults: New page: Lighting Build
+[2022.11.08-16.51.09:842][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-16.51.09:842][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-16.51.09:842][  0]MapCheck: New page: Map Check
+[2022.11.08-16.51.09:842][  0]LightingResults: New page: Lighting Build
+[2022.11.08-16.51.09:848][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.08-16.51.10:140][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2022.11.08-16.51.10:141][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.08-16.51.10:147][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.08-16.51.10:157][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.08-16.51.10:158][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.08-16.51.10:158][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2022.11.08-16.51.10:158][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.327
+[2022.11.08-16.51.10:160][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.344
+[2022.11.08-16.51.10:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.08-16.51.10:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.08-16.51.10:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.08-16.51.10:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.08-16.51.10:398][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3601 classes and 859 folders.
+[2022.11.08-16.51.10:405][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.08-16.51.10:420][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.08-16.51.10:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.08-16.51.10:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.11.08-16.51.10:429][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.08-16.51.10:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.08-16.51.10:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.11.08-16.51.10:435][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.08-16.51.10:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.08-16.51.10:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.11.08-16.51.10:442][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.08-16.51.10:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.08-16.51.10:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.11.08-16.51.10:449][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.08-16.51.10:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.08-16.51.10:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.11.08-16.51.10:455][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.08-16.51.10:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.08-16.51.10:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.11.08-16.51.10:462][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.08-16.51.10:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.08-16.51.10:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.11.08-16.51.10:469][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.08-16.51.10:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.08-16.51.10:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.11.08-16.51.10:478][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.08-16.51.10:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.08-16.51.10:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.11.08-16.51.10:484][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.08-16.51.10:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.08-16.51.10:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.08-16.51.10:491][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.08-16.51.10:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.08-16.51.10:491][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.11.08-16.51.10:498][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.08-16.51.10:498][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:498][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.08-16.51.10:498][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.11.08-16.51.10:505][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.08-16.51.10:505][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:505][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.08-16.51.10:505][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.11.08-16.51.10:511][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.08-16.51.10:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.08-16.51.10:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.11.08-16.51.10:517][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.08-16.51.10:517][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:517][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.08-16.51.10:517][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.11.08-16.51.10:524][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.08-16.51.10:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.08-16.51.10:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.11.08-16.51.10:529][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.08-16.51.10:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.08-16.51.10:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.11.08-16.51.10:535][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.08-16.51.10:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.08-16.51.10:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.11.08-16.51.10:541][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.08-16.51.10:541][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.08-16.51.10:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.11.08-16.51.10:551][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.08-16.51.10:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.08-16.51.10:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.11.08-16.51.10:558][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.08-16.51.10:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.08-16.51.10:558][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.11.08-16.51.10:564][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.08-16.51.10:564][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:564][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.08-16.51.10:564][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.11.08-16.51.10:571][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.08-16.51.10:571][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:571][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.08-16.51.10:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.11.08-16.51.10:578][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.08-16.51.10:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.08-16.51.10:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.11.08-16.51.10:585][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.08-16.51.10:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.08-16.51.10:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2022.11.08-16.51.10:591][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.08-16.51.10:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.08-16.51.10:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.08-16.51.10:591][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.11.08-16.51.10:804][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.08-16.51.10:810][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.11.08-16.51.10:871][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.08-16.51.10:874][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.08-16.51.10:883][  0]LogSlate: Took 0.006180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.08-16.51.11:032][  0]LogRenderer: Reallocating scene render targets to support 1160x600 Format 10 NumSamples 1 (Frame:1).
+[2022.11.08-16.51.11:525][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.08-16.51.11:525][  0]LogLoad: (Engine Initialization) Total time: 7.71 seconds
+[2022.11.08-16.51.11:525][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.08-16.51.11:525][  0]LogInit: First time updating LLM stats...
+[2022.11.08-16.51.11:560][  0]LogAssetRegistry: Asset discovery search completed in 4.4834 seconds
+[2022.11.08-16.51.11:561][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.11.08-16.51.11:561][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.08-16.51.12:229][  2]LogSlate: Took 0.006197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.08-16.59.11:523][ 18]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.08-16.59.11:549][ 18]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/Crooms/Game Design I Assignments/Game Assets/5 _Nathoo_CharacterIdle.png)
+[2022.11.08-16.59.11:552][ 18]LogTexture: Display: Building textures: 5__Nathoo_CharacterIdle (AutoDXT, 48X72)
+[2022.11.08-16.59.11:557][ 18]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/Crooms/Game Design I Assignments/Game Assets/5_Nathoo_CharacterComplete.png)
+[2022.11.08-16.59.11:558][ 18]LogTexture: Display: Building textures: 5_Nathoo_CharacterComplete (AutoDXT, 160X160)
+[2022.11.08-16.59.18:882][795]LogTexture: Display: Building textures: 5_Nathoo_CharacterComplete (BGRA8, 160X160)
+[2022.11.08-16.59.20:175][919]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete.5_Nathoo_CharacterComplete
+[2022.11.08-16.59.20:185][919]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.11.08-16.59.24:618][264]LogSlate: Window '5_Nathoo_CharacterComplete' being destroyed
+[2022.11.08-16.59.24:625][264]LogSlate: Window '5_Nathoo_CharacterComplete' being destroyed
+[2022.11.08-17.00.56:848][245]LogTexture: Display: Building textures: 5__Nathoo_CharacterIdle (BGRA8, 48X72)
+[2022.11.08-17.01.05:866][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.08-17.01.07:352][249]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-17.01.07:419][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.08-17.01.37:202][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.08-17.01.37:202][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.006
+[2022.11.08-17.01.37:204][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete] ([1] browsable assets)...
+[2022.11.08-17.01.37:206][  8]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete.5_Nathoo_CharacterComplete]
+[2022.11.08-17.01.37:206][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete]
+[2022.11.08-17.01.37:209][  8]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Auto170F15AA6454440B0A36E1381C0E8CC35.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Autosaves/Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete_Auto1.uasset'
+[2022.11.08-17.01.37:210][  8]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.11.08-17.03.20:557][430]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.08-17.03.20:563][430]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.08-17.03.26:798][118]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.11.08-17.03.26:798][118]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.08-17.03.31:217][587]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete.5_Nathoo_CharacterComplete
+[2022.11.08-17.03.34:104][828]LogSlate: Window '5_Nathoo_CharacterComplete' being destroyed
+[2022.11.08-17.03.34:113][828]LogSlate: Window '5_Nathoo_CharacterComplete' being destroyed
+[2022.11.08-17.07.12:390][ 20]LogMaterial: Display: Missing cached shader map for material 5_Nathoo_CharacterComplete_Mat, compiling. 
+[2022.11.08-17.07.12:434][ 21]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.11.08-17.07.12:434][ 21]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.11.08-17.07.14:804][204]Cmd: TRANSACTION UNDO
+[2022.11.08-17.07.14:804][204]LogEditorTransaction: Undo Create Actors
+[2022.11.08-17.07.20:713][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.11.08-17.07.21:896][671]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-17.07.21:937][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.08-17.07.28:810][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.08-17.07.30:009][436]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-17.07.30:063][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.08-17.07.45:188][732]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/Crooms/Game Design I Assignments/Game Assets/5_Nathoo_CharacterComplete.png)
+[2022.11.08-17.07.45:190][732]LogTexture: Display: Building textures: 5_Nathoo_CharacterComplete (AutoDXT, 160X160)
+[2022.11.08-17.07.49:926][234]LogTexture: Display: Building textures: 5_Nathoo_CharacterComplete (BGRA8, 160X160)
+[2022.11.08-17.08.06:014][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/Crooms/Game Design I Assignments/TileSets/4-Ravi-Nathoo-Tile-Set.png)
+[2022.11.08-17.08.06:016][230]LogTexture: Display: Building textures: 4-Ravi-Nathoo-Tile-Set (AutoDXT, 64X64)
+[2022.11.08-17.08.09:643][606]LogMaterial: Display: Missing cached shader map for material 4-Ravi-Nathoo-Tile-Set_Mat, compiling. 
+[2022.11.08-17.08.09:658][606]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.11.08-17.08.09:658][606]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.11.08-17.08.15:470][137]Cmd: TRANSACTION UNDO
+[2022.11.08-17.08.15:471][137]LogEditorTransaction: Undo Create Actors
+[2022.11.08-17.08.23:871][977]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2022.11.08-17.08.23:967][983]LogEditorViewport: Clicking on Component (LMB): CameraComponent (SideViewCameraComponent)
+[2022.11.08-17.08.34:565][946]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2022.11.08-17.08.35:478][ 37]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.08-17.08.42:997][766]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.08-17.08.56:574][ 38]Cmd: TRANSACTION UNDO
+[2022.11.08-17.08.56:574][ 38]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.08-17.08.56:788][ 44]Cmd: TRANSACTION UNDO
+[2022.11.08-17.08.56:788][ 44]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.08-17.08.57:030][ 50]Cmd: TRANSACTION UNDO
+[2022.11.08-17.08.57:030][ 50]LogEditorTransaction: Undo Clicking on Components
+[2022.11.08-17.08.57:229][ 60]Cmd: TRANSACTION UNDO
+[2022.11.08-17.08.57:229][ 60]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.08-17.09.06:758][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.08-17.09.07:827][ 32]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-17.09.07:895][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.08-17.09.14:247][731]LogTexture: Display: Building textures: 4-Ravi-Nathoo-Tile-Set (BGRA8, 64X64)
+[2022.11.08-17.09.57:801][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.11.08-17.09.58:900][973]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-17.09.58:943][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.08-17.10.08:416][508]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/Crooms/Game Design I Assignments/Game Assets/5_Nathoo_CharacterComplete.png)
+[2022.11.08-17.10.08:418][508]LogTexture: Display: Building textures: 5_Nathoo_CharacterComplete (AutoDXT, 160X160)
+[2022.11.08-17.10.15:943][346]LogTexture: Display: Building textures: 5_Nathoo_CharacterComplete (BGRA8, 160X160)
+[2022.11.08-17.10.35:550][327]LogSlate: Took 0.005255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.08-17.11.14:212][108]LogSlate: Window 'Extract sprites' being destroyed
+[2022.11.08-17.11.46:263][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.08-17.11.46:264][  7]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.010
+[2022.11.08-17.11.46:264][  7]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/4-Ravi-Nathoo-Tile-Set] ([1] browsable assets)...
+[2022.11.08-17.11.46:266][  7]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Textures/4-Ravi-Nathoo-Tile-Set.4-Ravi-Nathoo-Tile-Set]
+[2022.11.08-17.11.46:266][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/4-Ravi-Nathoo-Tile-Set]
+[2022.11.08-17.11.46:267][  7]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/4-Ravi-Nathoo-Tile-Set_Auto261AACF4840DC6705769FE09CA90C0706.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Autosaves/Game/2DSideScroller/Textures/4-Ravi-Nathoo-Tile-Set_Auto2.uasset'
+[2022.11.08-17.11.46:273][  7]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete] ([1] browsable assets)...
+[2022.11.08-17.11.46:276][  7]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete.5_Nathoo_CharacterComplete]
+[2022.11.08-17.11.46:276][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete]
+[2022.11.08-17.11.46:279][  7]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Auto23DD9DA21497F5F0323DFF9B32B8FED34.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/Autosaves/Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete_Auto2.uasset'
+[2022.11.08-17.11.46:280][  7]LogFileHelpers: Auto-saving content packages took 0.016
+[2022.11.08-17.16.27:985][986]LogSlate: Window 'Source Control Login' being destroyed
+[2022.11.08-17.16.33:539][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.08-17.16.33:551][533]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMapBED6AC07478BEF5ACB9F46954C51E50F.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.08-17.16.33:675][533]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_BuiltDa6D4388494A81BA0A8363C79C73D8AC43.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.08-17.16.33:684][533]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.08-17.16.33:685][533]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.08-17.16.33:685][533]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:803][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:804][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:804][ 14]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5'
+[2022.11.08-17.16.38:975][ 14]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn', but the path contains illegal characters '.'
+[2022.11.08-17.16.38:975][ 14]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial', but the path contains illegal characters '.'
+[2022.11.08-17.16.38:975][ 14]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles', but the path contains illegal characters '.'
+[2022.11.08-17.16.38:975][ 14]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay', but the path contains illegal characters '.'
+[2022.11.08-17.16.39:111][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.08-17.16.39:122][ 14]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap3A4CDFCC40DC5E8C378A84B94C81B3CF.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.08-17.16.39:142][ 14]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.035
+[2022.11.08-17.16.39:143][ 14]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_BuiltDa749A34C84850778EA32F2A86BA02E1A7.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.08-17.16.56:278][ 14]LogSlate: Window 'Submit Files' being destroyed
+[2022.11.08-17.16.56:663][ 14]LogSourceControl: commit successful: [RNathoo f39b25a] Added Sprites and TileSet
+[2022.11.08-17.16.56:806][ 14]SourceControl: [RNathoo f39b25a] Added Sprites and TileSet
+[2022.11.08-17.16.56:806][ 14]SourceControl:  3 files changed, 1 insertion(+), 1 deletion(-)
+[2022.11.08-17.16.56:806][ 14]SourceControl:  rewrite GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap (74%)
+[2022.11.08-17.16.56:806][ 14]SourceControl:  rewrite GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset (92%)
+[2022.11.08-17.16.56:812][ 14]SourceControl: Commited [RNathoo f39b25a] Added Sprites and TileSet.
+[2022.11.08-17.16.56:838][ 15]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.08-17.16.56:838][ 15]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.08-17.16.56:838][ 15]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.08-17.18.59:193][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit39FFB4734BBCAB5EF93A21963A234D20.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_0.uasset'
+[2022.11.08-17.18.59:374][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritA1DE92854E62124080C608AAF2468B19.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_1.uasset'
+[2022.11.08-17.18.59:561][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit8518196649FECC37F472BAAA4CB00046.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_2.uasset'
+[2022.11.08-17.18.59:741][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit24AAE2F242C2236B6B9979A0550BD678.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_3.uasset'
+[2022.11.08-17.18.59:916][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit536BF5F54C7DBE6BC84A0A9EF5995FFF.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_4.uasset'
+[2022.11.08-17.19.00:108][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit91978E8442ACCBCC3D6144B08FD5EF72.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_5.uasset'
+[2022.11.08-17.19.00:290][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritA7A2D9D049FE3834AD03A2B47F0FA94C.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_6.uasset'
+[2022.11.08-17.19.00:467][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit6C1B00604EB5119D479EAB80554CFEE2.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_7.uasset'
+[2022.11.08-17.19.00:660][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit6525AB564B3705F0677C5AAC39452CD7.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_8.uasset'
+[2022.11.08-17.19.00:830][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit8CEA6B7E4C6CAD0CDA41099CB881C609.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_9.uasset'
+[2022.11.08-17.19.01:000][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritD4CEDCA7485592F16BC1DB88522B1CC2.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_10.uasset'
+[2022.11.08-17.19.01:176][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit56F47DA949479C09D612EB8DE5B937A9.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_11.uasset'
+[2022.11.08-17.19.01:349][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritF2C9B0D14F24944EE6A9039020A4A75D.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_12.uasset'
+[2022.11.08-17.19.01:525][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritF66737DD41AE8A6C97BF9F83B9ABFD0F.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_13.uasset'
+[2022.11.08-17.19.01:708][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit9E486CB24773A2C983E725BB2CB7BE46.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_14.uasset'
+[2022.11.08-17.19.01:871][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit6EC396444447BC7E9DBF9396360B8E26.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_15.uasset'
+[2022.11.08-17.19.02:049][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit56B48CC74D87AD11412D28905E1BACFE.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_16.uasset'
+[2022.11.08-17.19.02:226][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit68F8C79845EAA35E779D30BFD01FE61A.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_17.uasset'
+[2022.11.08-17.19.02:402][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit94D4D1984A1C3A4052CD98A269557B5D.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_18.uasset'
+[2022.11.08-17.19.02:565][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit24596E3D4EF3CE2FA46804A4FE8C46D9.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_19.uasset'
+[2022.11.08-17.19.02:743][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit5E63EDB3421CF5DF70B01BAD0A5ED447.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_20.uasset'
+[2022.11.08-17.19.02:916][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritA74F21984018B299F8788AA439C2BD27.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_21.uasset'
+[2022.11.08-17.19.03:083][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit4B7B0AA9420515A96C4898A54C12482B.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_22.uasset'
+[2022.11.08-17.19.03:262][996]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritF9A4912D4351CC3192F852A305A36AB8.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_23.uasset'
+[2022.11.08-17.19.03:524][996]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.08-17.19.03:524][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_7.5_Nathoo_CharacterComplete_Sprite_7
+[2022.11.08-17.19.03:524][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_6.5_Nathoo_CharacterComplete_Sprite_6
+[2022.11.08-17.19.03:524][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_5.5_Nathoo_CharacterComplete_Sprite_5
+[2022.11.08-17.19.03:524][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_4.5_Nathoo_CharacterComplete_Sprite_4
+[2022.11.08-17.19.03:524][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_3.5_Nathoo_CharacterComplete_Sprite_3
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_2.5_Nathoo_CharacterComplete_Sprite_2
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_1.5_Nathoo_CharacterComplete_Sprite_1
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_0.5_Nathoo_CharacterComplete_Sprite_0
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_8.5_Nathoo_CharacterComplete_Sprite_8
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_9.5_Nathoo_CharacterComplete_Sprite_9
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_10.5_Nathoo_CharacterComplete_Sprite_10
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_11.5_Nathoo_CharacterComplete_Sprite_11
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_12.5_Nathoo_CharacterComplete_Sprite_12
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_13.5_Nathoo_CharacterComplete_Sprite_13
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_14.5_Nathoo_CharacterComplete_Sprite_14
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_15.5_Nathoo_CharacterComplete_Sprite_15
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_16.5_Nathoo_CharacterComplete_Sprite_16
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_17.5_Nathoo_CharacterComplete_Sprite_17
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_18.5_Nathoo_CharacterComplete_Sprite_18
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_19.5_Nathoo_CharacterComplete_Sprite_19
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_20.5_Nathoo_CharacterComplete_Sprite_20
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_21.5_Nathoo_CharacterComplete_Sprite_21
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_22.5_Nathoo_CharacterComplete_Sprite_22
+[2022.11.08-17.19.03:525][996]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_23.5_Nathoo_CharacterComplete_Sprite_23
+[2022.11.08-17.21.12:873][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.08-17.21.14:712][ 51]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-17.21.14:785][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.08-17.21.18:273][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.08-17.21.25:630][430]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-17.21.44:850][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterCompleteD92BDE9344F1DC3EF07E608D0CB52880.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete.uasset'
+[2022.11.08-17.21.45:201][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.08-17.21.45:215][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.08-17.21.45:220][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.08-17.21.45:362][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit74EDFD6944E603843AD8709A5CC03B3E.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_19.uasset'
+[2022.11.08-17.21.45:365][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritB45F5302425FC3BF726DEBA705ADF3C1.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_7.uasset'
+[2022.11.08-17.21.45:368][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit17E63671419E72390DD8E7B5171F0719.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_16.uasset'
+[2022.11.08-17.21.45:371][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit14CD62244D9A75A16A426FB14FD530BB.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_17.uasset'
+[2022.11.08-17.21.45:374][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit8D097CD9405893DF29951B979A6392AA.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_15.uasset'
+[2022.11.08-17.21.45:377][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit1AE317424A3523C535B4CF9CDE03F165.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_22.uasset'
+[2022.11.08-17.21.45:380][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit646F5F0A43082A1BD8C23CB50B8FDD84.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_13.uasset'
+[2022.11.08-17.21.45:383][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritA5AD700C498B99389E56579FD8E369B1.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_14.uasset'
+[2022.11.08-17.21.45:387][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit83E7CE214C9E40EE1DD48CAF56235986.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_3.uasset'
+[2022.11.08-17.21.45:390][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit82D98FF94C3F92DDC094A3B795DF8927.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_4.uasset'
+[2022.11.08-17.21.45:393][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritEC25182043E6225541E0CEA26F632A23.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_5.uasset'
+[2022.11.08-17.21.45:396][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritCDB24F9941ED043A7C0F2ABEE49AD45E.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_20.uasset'
+[2022.11.08-17.21.45:399][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit4CDFF0984EC2DAADF7DDB189BD595570.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_12.uasset'
+[2022.11.08-17.21.45:402][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit3EC9E2ED495736A60F2642BD470F2574.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_1.uasset'
+[2022.11.08-17.21.45:406][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit7D11155E42D09EB07B87D1B640C570ED.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_2.uasset'
+[2022.11.08-17.21.45:409][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit2A88E10E4C14FC2814B15EA1330078F2.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_9.uasset'
+[2022.11.08-17.21.45:412][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit298EFCA44FAD535C4689868B945D7D04.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_21.uasset'
+[2022.11.08-17.21.45:415][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit484A11EE428BC3B99BB0C292FFC6EE0B.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_23.uasset'
+[2022.11.08-17.21.45:418][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit066E54E3408471738252CE9B624B7783.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_8.uasset'
+[2022.11.08-17.21.45:421][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit648B7885409D07E74B310AADEFC6D1D5.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_6.uasset'
+[2022.11.08-17.21.45:424][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit8D281F474690D37266BA7ABF65810403.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_18.uasset'
+[2022.11.08-17.21.45:427][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit0E2A06494BE01CD03ED15E9D6BBDE6B7.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_11.uasset'
+[2022.11.08-17.21.45:430][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritF4A7325848ABA72BB715A388A3506444.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_10.uasset'
+[2022.11.08-17.21.45:433][465]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritFD6CABC74C137A327FB5AAAB5B067FA2.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_0.uasset'
+[2022.11.08-17.21.45:471][465]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_7.5_Nathoo_CharacterComplete_Sprite_7
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_6.5_Nathoo_CharacterComplete_Sprite_6
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_5.5_Nathoo_CharacterComplete_Sprite_5
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_4.5_Nathoo_CharacterComplete_Sprite_4
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_3.5_Nathoo_CharacterComplete_Sprite_3
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_2.5_Nathoo_CharacterComplete_Sprite_2
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_1.5_Nathoo_CharacterComplete_Sprite_1
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_0.5_Nathoo_CharacterComplete_Sprite_0
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete.5_Nathoo_CharacterComplete
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_8.5_Nathoo_CharacterComplete_Sprite_8
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_9.5_Nathoo_CharacterComplete_Sprite_9
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_10.5_Nathoo_CharacterComplete_Sprite_10
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_11.5_Nathoo_CharacterComplete_Sprite_11
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_12.5_Nathoo_CharacterComplete_Sprite_12
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_13.5_Nathoo_CharacterComplete_Sprite_13
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_14.5_Nathoo_CharacterComplete_Sprite_14
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_15.5_Nathoo_CharacterComplete_Sprite_15
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_16.5_Nathoo_CharacterComplete_Sprite_16
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_17.5_Nathoo_CharacterComplete_Sprite_17
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_18.5_Nathoo_CharacterComplete_Sprite_18
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_19.5_Nathoo_CharacterComplete_Sprite_19
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_20.5_Nathoo_CharacterComplete_Sprite_20
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_21.5_Nathoo_CharacterComplete_Sprite_21
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_22.5_Nathoo_CharacterComplete_Sprite_22
+[2022.11.08-17.21.45:471][465]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_23.5_Nathoo_CharacterComplete_Sprite_23
+[2022.11.08-17.23.15:441][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritD8B613C04C1486E390D2C0B77E05A2B9.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_1.uasset'
+[2022.11.08-17.23.15:622][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritA57CB18D41FF87C8C3DA11B308BD6D96.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_1.uasset'
+[2022.11.08-17.23.15:629][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete06AB6B7D4343C8988E02098C8AF71AA3.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete.uasset'
+[2022.11.08-17.23.15:813][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit188FA6F944335127AF610AA2DB448CCE.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_0.uasset'
+[2022.11.08-17.23.15:978][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritBCDB5E344E9183D449AFD88399DA18E7.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_0.uasset'
+[2022.11.08-17.23.15:987][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritC1B756C74AE46E232D2D7682C0A20E34.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_14.uasset'
+[2022.11.08-17.23.16:157][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritF4D5135A4C372EFDD8D32B80C512F404.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_14.uasset'
+[2022.11.08-17.23.16:167][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit30F49F9F4A8A7A1788982C94D2662E35.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_16.uasset'
+[2022.11.08-17.23.16:338][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritB56C8EEF4A19E1258B692AA0B719F07D.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_16.uasset'
+[2022.11.08-17.23.16:347][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit494D0F0A49105A5D31BFA8B4CE657F75.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_15.uasset'
+[2022.11.08-17.23.16:503][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit859A75914CCF2924DAFED8A983894EFF.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_15.uasset'
+[2022.11.08-17.23.16:511][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit3E4492CB41B19BD074014D9C511588D5.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_17.uasset'
+[2022.11.08-17.23.16:691][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit04110E0C4AAFFD8F0733F39E36710B6E.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_17.uasset'
+[2022.11.08-17.23.16:700][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritC81D6E944E9106F85A9CDDB1EF5F7DF7.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_2.uasset'
+[2022.11.08-17.23.16:873][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit23BDA635436D1F34B4789692F43026B1.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_2.uasset'
+[2022.11.08-17.23.16:882][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritBB58AD984538DB5C326A4480CE9F97FB.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_18.uasset'
+[2022.11.08-17.23.17:046][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit5498D8A74A3A465C70FF3592DE14163B.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_18.uasset'
+[2022.11.08-17.23.17:055][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritB1730C7F4584B3BEBC04DBAF8F3D9AE6.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_3.uasset'
+[2022.11.08-17.23.17:224][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritABAB0EC14F362E297474A5AC54373383.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_3.uasset'
+[2022.11.08-17.23.17:233][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit9F58F8484B4828B4ED509C9DEA8C9394.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_19.uasset'
+[2022.11.08-17.23.17:408][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit44463D5B4FB66BED52E4498CB5388482.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_19.uasset'
+[2022.11.08-17.23.17:417][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritF3AD26814504E25915424CB513544E1B.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_4.uasset'
+[2022.11.08-17.23.17:581][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritAD032EB04B617264DF835EBD47DFBCA7.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_4.uasset'
+[2022.11.08-17.23.17:590][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit33941A18475F3C3D9508999CE1413F11.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_6.uasset'
+[2022.11.08-17.23.17:758][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit5F5545B34DC772C99A831A9869ACB7B3.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_6.uasset'
+[2022.11.08-17.23.17:768][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit84F06AB744ABEF764141F59295B6F457.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_5.uasset'
+[2022.11.08-17.23.17:942][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit8C7B74F04692902743E80FAA6FA8375C.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_5.uasset'
+[2022.11.08-17.23.17:950][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit3B1783A549D95C5468187E99C1D886B9.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_21.uasset'
+[2022.11.08-17.23.18:114][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritC59B199C42F178F60E6D69BA5F22FFA7.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_21.uasset'
+[2022.11.08-17.23.18:122][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit41B1BFB2442318D098B9A7BFD9DF45A1.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_20.uasset'
+[2022.11.08-17.23.18:282][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritB2C369214BC15F541D07E3B26463644E.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_20.uasset'
+[2022.11.08-17.23.18:290][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit9CF3C459420B6B974FF0AE83E2F84E00.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_7.uasset'
+[2022.11.08-17.23.18:447][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit3CF0D4554B917E00BB9B709C91780E5C.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_7.uasset'
+[2022.11.08-17.23.18:455][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit3EE13C324BDF2653FF284B955BE97AF5.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_22.uasset'
+[2022.11.08-17.23.18:615][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritDB68E4604E0F99E4A742C092EF004763.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_22.uasset'
+[2022.11.08-17.23.18:623][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit6B4B08224E24346E5546DC8A0D22C194.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_8.uasset'
+[2022.11.08-17.23.18:792][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritFB9191F04198B757100BE0A10D5D0873.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_8.uasset'
+[2022.11.08-17.23.18:800][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit65B4D6B545D5F2D938048BBE4DC5AA92.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_23.uasset'
+[2022.11.08-17.23.18:964][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritB3D5AA664DB35BE5D22FE697E18C3BE9.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_23.uasset'
+[2022.11.08-17.23.18:973][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit7970D4A64D907A06F6A68F9507635515.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_9.uasset'
+[2022.11.08-17.23.19:132][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritF67EAC574FF10E3627137B916E3367B4.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_9.uasset'
+[2022.11.08-17.23.19:141][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit29501A4D44E8D15F538F709875408111.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_10.uasset'
+[2022.11.08-17.23.19:310][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit53632E864A2B4776D89ED095B1AC6580.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_10.uasset'
+[2022.11.08-17.23.19:319][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit8C51E39B4205C0AABA0866955ED3C7F1.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_11.uasset'
+[2022.11.08-17.23.19:481][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit07E9AF5A454B3837D94688B406DF83F3.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_11.uasset'
+[2022.11.08-17.23.19:490][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritFA62016040EA7326070E33B110D87529.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_12.uasset'
+[2022.11.08-17.23.19:648][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritBA81A6804DB554FC7AF9B591AD002190.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_12.uasset'
+[2022.11.08-17.23.19:657][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritDA9E78C4433B309E837D279080B9DBCC.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_13.uasset'
+[2022.11.08-17.23.19:828][457]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritF5AFED1C4260F2D827C038A12D53A3EF.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_13.uasset'
+[2022.11.08-17.23.27:115][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.08-17.23.27:126][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.08-17.23.27:130][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.08-17.23.27:305][457]SourceControl: rm 'GameDesign5/Content/2DSideScroller/Animations/5_Nathoo_CharacterComplete.uasset'
+[2022.11.08-17.23.27:337][457]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_22.5_Nathoo_CharacterComplete_Sprite_22
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_7.5_Nathoo_CharacterComplete_Sprite_7
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_20.5_Nathoo_CharacterComplete_Sprite_20
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_13.5_Nathoo_CharacterComplete_Sprite_13
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_21.5_Nathoo_CharacterComplete_Sprite_21
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_5.5_Nathoo_CharacterComplete_Sprite_5
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_12.5_Nathoo_CharacterComplete_Sprite_12
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_6.5_Nathoo_CharacterComplete_Sprite_6
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_4.5_Nathoo_CharacterComplete_Sprite_4
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_11.5_Nathoo_CharacterComplete_Sprite_11
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_19.5_Nathoo_CharacterComplete_Sprite_19
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_3.5_Nathoo_CharacterComplete_Sprite_3
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_10.5_Nathoo_CharacterComplete_Sprite_10
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_18.5_Nathoo_CharacterComplete_Sprite_18
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_7.5_Nathoo_CharacterComplete_Sprite_7
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_6.5_Nathoo_CharacterComplete_Sprite_6
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_5.5_Nathoo_CharacterComplete_Sprite_5
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_4.5_Nathoo_CharacterComplete_Sprite_4
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_3.5_Nathoo_CharacterComplete_Sprite_3
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_2.5_Nathoo_CharacterComplete_Sprite_2
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_1.5_Nathoo_CharacterComplete_Sprite_1
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_0.5_Nathoo_CharacterComplete_Sprite_0
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_2.5_Nathoo_CharacterComplete_Sprite_2
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete.5_Nathoo_CharacterComplete
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_9.5_Nathoo_CharacterComplete_Sprite_9
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_17.5_Nathoo_CharacterComplete_Sprite_17
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_23.5_Nathoo_CharacterComplete_Sprite_23
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_15.5_Nathoo_CharacterComplete_Sprite_15
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_8.5_Nathoo_CharacterComplete_Sprite_8
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_16.5_Nathoo_CharacterComplete_Sprite_16
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_8.5_Nathoo_CharacterComplete_Sprite_8
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_9.5_Nathoo_CharacterComplete_Sprite_9
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_10.5_Nathoo_CharacterComplete_Sprite_10
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_11.5_Nathoo_CharacterComplete_Sprite_11
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_12.5_Nathoo_CharacterComplete_Sprite_12
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_13.5_Nathoo_CharacterComplete_Sprite_13
+[2022.11.08-17.23.27:337][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_14.5_Nathoo_CharacterComplete_Sprite_14
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_15.5_Nathoo_CharacterComplete_Sprite_15
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_16.5_Nathoo_CharacterComplete_Sprite_16
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_17.5_Nathoo_CharacterComplete_Sprite_17
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_18.5_Nathoo_CharacterComplete_Sprite_18
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_19.5_Nathoo_CharacterComplete_Sprite_19
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_20.5_Nathoo_CharacterComplete_Sprite_20
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_21.5_Nathoo_CharacterComplete_Sprite_21
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_22.5_Nathoo_CharacterComplete_Sprite_22
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_23.5_Nathoo_CharacterComplete_Sprite_23
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_14.5_Nathoo_CharacterComplete_Sprite_14
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_0.5_Nathoo_CharacterComplete_Sprite_0
+[2022.11.08-17.23.27:338][457]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Animations/5_Nathoo_CharacterComplete_Sprite_1.5_Nathoo_CharacterComplete_Sprite_1
+[2022.11.08-17.23.50:586][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.08-17.23.51:636][968]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-17.23.51:707][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.08-17.24.17:750][122]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/4-Ravi-Nathoo-Tile-SetD00D23AC49270CD4E5A7F8AEEE9D5716.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/4-Ravi-Nathoo-Tile-Set.uasset'
+[2022.11.08-17.24.18:100][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.08-17.24.18:111][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.08-17.24.18:115][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.08-17.24.18:138][122]AssetCheck: New page: Asset Save: 4-Ravi-Nathoo-Tile-Set
+[2022.11.08-17.24.18:138][122]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/4-Ravi-Nathoo-Tile-Set.4-Ravi-Nathoo-Tile-Set
+[2022.11.08-17.24.43:410][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterCompleteAB3710344802AAD13DE564A731F287F8.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Textures/5_Nathoo_CharacterComplete.uasset'
+[2022.11.08-17.24.43:808][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.08-17.24.43:818][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.08-17.24.43:822][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.08-17.24.43:980][806]SourceControl: rm 'GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete.uasset'
+[2022.11.08-17.24.44:108][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit48B3C25843CD877787F6C7937FAA9201.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_12.uasset'
+[2022.11.08-17.24.44:110][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit5F5CD6DA428D9F27FDF053BFBEDD3E7D.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_11.uasset'
+[2022.11.08-17.24.44:113][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritF3DA3D4048666CC4093A5A94F36A46F7.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_10.uasset'
+[2022.11.08-17.24.44:116][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit172371FD4D62B6404BC3978A2D925866.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_9.uasset'
+[2022.11.08-17.24.44:118][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit1E73D3C242B1231DC0D38DA4C75AFD95.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_23.uasset'
+[2022.11.08-17.24.44:121][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit79A8C6714AB3B74E8F4581BEC811D9C8.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_8.uasset'
+[2022.11.08-17.24.44:124][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit89C92E0C44165ED74C0928B840C34F17.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_22.uasset'
+[2022.11.08-17.24.44:127][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit74A81D5B42EF749DBD9C9EB26C5CA574.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_7.uasset'
+[2022.11.08-17.24.44:130][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit831CD3D840FBCA7AD8CD8AB4A9F56782.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_20.uasset'
+[2022.11.08-17.24.44:132][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit7B71D20E4991737B3DD7B98E46265088.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_21.uasset'
+[2022.11.08-17.24.44:135][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit15EDB05244D1173FCE0A77AA3B7C957C.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_5.uasset'
+[2022.11.08-17.24.44:138][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit7A9CA7B449D9D5E6FF08F0BA876908DC.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_6.uasset'
+[2022.11.08-17.24.44:141][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit5940ACB0485538B3F16EDE923AC9B356.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_4.uasset'
+[2022.11.08-17.24.44:143][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritB7C7EF084EC8F32F37910A8A9E07F1CF.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_19.uasset'
+[2022.11.08-17.24.44:146][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritECAAC3B640AA55FFB811C894EEDB89E1.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_3.uasset'
+[2022.11.08-17.24.44:148][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit9F4642BA48CBCE20AA8AA5826BCB7829.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_18.uasset'
+[2022.11.08-17.24.44:150][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit44D416F2429337CEB9712E87BE963AEA.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_2.uasset'
+[2022.11.08-17.24.44:153][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit18E171E64DADE73D80BF8D8D7AED2FA9.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_17.uasset'
+[2022.11.08-17.24.44:156][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritD48E180C40D968BD031C4FB3AD4D5182.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_13.uasset'
+[2022.11.08-17.24.44:159][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritFC4DA2FC4A7315EEB6521D95CB57D30E.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_15.uasset'
+[2022.11.08-17.24.44:161][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritFD5DC324447B14AE1779D492B6D1D0C4.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_16.uasset'
+[2022.11.08-17.24.44:164][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_SpritD5E643CE4AE3349406A78CA182F9CBDD.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_14.uasset'
+[2022.11.08-17.24.44:167][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit54FA415341F4E6214392429302557D00.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_0.uasset'
+[2022.11.08-17.24.44:169][806]LogSavePackage: Moving '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Saved/5_Nathoo_CharacterComplete_Sprit4C6FA85041533B1C160B8A969C871613.tmp' to '../../../../../Users/149860/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign5/GameDesign5/Content/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_1.uasset'
+[2022.11.08-17.24.44:202][806]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_7.5_Nathoo_CharacterComplete_Sprite_7
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_6.5_Nathoo_CharacterComplete_Sprite_6
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_5.5_Nathoo_CharacterComplete_Sprite_5
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_4.5_Nathoo_CharacterComplete_Sprite_4
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_3.5_Nathoo_CharacterComplete_Sprite_3
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_2.5_Nathoo_CharacterComplete_Sprite_2
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_1.5_Nathoo_CharacterComplete_Sprite_1
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_0.5_Nathoo_CharacterComplete_Sprite_0
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/5_Nathoo_CharacterComplete.5_Nathoo_CharacterComplete
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_8.5_Nathoo_CharacterComplete_Sprite_8
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_9.5_Nathoo_CharacterComplete_Sprite_9
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_10.5_Nathoo_CharacterComplete_Sprite_10
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_11.5_Nathoo_CharacterComplete_Sprite_11
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_12.5_Nathoo_CharacterComplete_Sprite_12
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_13.5_Nathoo_CharacterComplete_Sprite_13
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_14.5_Nathoo_CharacterComplete_Sprite_14
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_15.5_Nathoo_CharacterComplete_Sprite_15
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_16.5_Nathoo_CharacterComplete_Sprite_16
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_17.5_Nathoo_CharacterComplete_Sprite_17
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_18.5_Nathoo_CharacterComplete_Sprite_18
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_19.5_Nathoo_CharacterComplete_Sprite_19
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_20.5_Nathoo_CharacterComplete_Sprite_20
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_21.5_Nathoo_CharacterComplete_Sprite_21
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_22.5_Nathoo_CharacterComplete_Sprite_22
+[2022.11.08-17.24.44:202][806]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/5_Nathoo_CharacterComplete_Sprite_23.5_Nathoo_CharacterComplete_Sprite_23
+[2022.11.08-17.24.52:387][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.08-17.24.54:498][670]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-17.24.54:532][670]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.2DCharacter_IdleAnimAtlas
+	Asset Name: /Game/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.2DCharacter_RunAnimAtlas
+[2022.11.08-17.24.59:845][670]LogSlate: Window 'Message' being destroyed
+[2022.11.08-17.24.59:850][670]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.2DCharacter_IdleAnimAtlas is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.2DCharacter_IdleAnimAtlas:
+   PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle1.IdleCycle1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle2.IdleCycle2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle3.IdleCycle3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle4.IdleCycle4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle5.IdleCycle5 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle6.IdleCycle6 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle7.IdleCycle7 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle8.IdleCycle8 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.11.08-17.24.59:850][670]LogObjectTools: Warning: ForceDeleteObject failed to delete 2DCharacter_IdleAnimAtlas, this package is now potentially corrupt
+[2022.11.08-17.25.00:788][670]LogSlate: Window 'Message' being destroyed
+[2022.11.08-17.25.00:793][670]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.2DCharacter_RunAnimAtlas is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.2DCharacter_RunAnimAtlas:
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_1.RunCycle_1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_10.RunCycle_10 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_11.RunCycle_11 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_12.RunCycle_12 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_13.RunCycle_13 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_14.RunCycle_14 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_15.RunCycle_15 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_16.RunCycle_16 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_2.RunCycle_2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_3.RunCycle_3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_4.RunCycle_4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_5.RunCycle_5 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_6.RunCycle_6 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_7.RunCycle_7 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_8.RunCycle_8 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/2DSideScroller/Sprites/RunFrames/RunCycle_9.RunCycle_9 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.11.08-17.25.00:793][670]LogObjectTools: Warning: ForceDeleteObject failed to delete 2DCharacter_RunAnimAtlas, this package is now potentially corrupt
+[2022.11.08-17.25.00:797][670]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.08-17.25.02:115][670]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.318 s
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: 
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3191]
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: 
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: 					from the file system manually: 
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: /Game/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: /Game/2DSideScroller/Textures/2DCharacter_RunAnimAtlas
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: Stack: 
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbde5994a8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbdde3a9b9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbdd5940d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbdd86fbde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbdd8670b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe230859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe232071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21646be UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21e7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21d0337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21c3632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8cbbcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8ca9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8cbe389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8ca4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffc7716e858 USER32.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffc7716e299 USER32.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8cbf7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21f2233 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe218d485 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbdd8fc07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbdde2e2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbdde2d707 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbac6d6f4c UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbac6d732a UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbac6c7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbbcc0dc15 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbbcd21d9e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbbcd03a16 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21a0088 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe228ede1 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe2295600 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe226b807 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe230859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe232071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe2296d75 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21646be UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21e7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21d0337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbe21c3632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8cbbcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8ca9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8cbe389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8ca4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffc7716e858 USER32.dll!UnknownFunction []
+[2022.11.08-17.25.02:115][670]LogOutputDevice: Error: [Callstack] 0x00007ffc7716e299 USER32.dll!UnknownFunction []
+[2022.11.08-17.25.02:116][670]LogOutputDevice: Error: [Callstack] 0x00007ffbf8cbf914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.08-17.25.02:116][670]LogOutputDevice: Error: [Callstack] 0x00007ff706518848 UE4Editor.exe!UnknownFunction []
+[2022.11.08-17.25.02:116][670]LogOutputDevice: Error: [Callstack] 0x00007ff70653117c UE4Editor.exe!UnknownFunction []
+[2022.11.08-17.25.02:116][670]LogOutputDevice: Error: [Callstack] 0x00007ff70653125a UE4Editor.exe!UnknownFunction []
+[2022.11.08-17.25.02:116][670]LogOutputDevice: Error: [Callstack] 0x00007ff7065452bd UE4Editor.exe!UnknownFunction []
+[2022.11.08-17.25.02:116][670]LogOutputDevice: Error: [Callstack] 0x00007ff706547fea UE4Editor.exe!UnknownFunction []
+[2022.11.08-17.25.02:116][670]LogOutputDevice: Error: [Callstack] 0x00007ffc78847034 KERNEL32.DLL!UnknownFunction []
+[2022.11.08-17.25.02:116][670]LogOutputDevice: Error: [Callstack] 0x00007ffc789e26a1 ntdll.dll!UnknownFunction []
+[2022.11.08-17.25.02:116][670]LogOutputDevice: Error: 
