@@ -1,0 +1,1489 @@
+﻿Log file open, 02/05/23 11:52:35
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GameDesign5
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.373486
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/5926000435/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.05-16.52.37:153][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.05-16.52.37:153][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2023.02.05-16.52.37:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.05-16.52.37:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2023.02.05-16.52.37:154][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2023.02.05-16.52.37:174][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.05-16.52.37:174][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.05-16.52.37:175][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.05-16.52.37:177][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.05-16.52.37:178][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.05-16.52.37:179][  0]LogHAL: Display: Platform has ~ 8 GB [8479338496 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.05-16.52.37:179][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.05-16.52.37:180][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.05-16.52.37:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Scalability.ini]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.05-16.52.37:181][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.05-16.52.37:183][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.05-16.52.37:183][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.05-16.52.37:183][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.05-16.52.37:183][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Engine.ini]
+[2023.02.05-16.52.37:183][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Config/Windows/Editor.ini]
+[2023.02.05-16.52.37:185][  0]LogInit: Computer: CAIT-DZCZBV2
+[2023.02.05-16.52.37:185][  0]LogInit: User: 5926000435
+[2023.02.05-16.52.37:185][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.02.05-16.52.37:185][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.05-16.52.37:185][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2023.02.05-16.52.37:186][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.05-16.52.37:186][  0]LogMemory: Process Physical Memory: 136.61 MB used, 136.61 MB peak
+[2023.02.05-16.52.37:186][  0]LogMemory: Process Virtual Memory: 119.08 MB used, 119.08 MB peak
+[2023.02.05-16.52.37:186][  0]LogMemory: Physical Memory: 5710.91 MB used,  2375.61 MB free, 8086.53 MB total
+[2023.02.05-16.52.37:186][  0]LogMemory: Virtual Memory: 134213704.00 MB used,  4021.28 MB free, 134217728.00 MB total
+[2023.02.05-16.52.37:194][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.05-16.52.37:708][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.05-16.52.37:715][  0]LogInit: Using OS detected language (en-US).
+[2023.02.05-16.52.37:715][  0]LogInit: Using OS detected locale (en-US).
+[2023.02.05-16.52.37:735][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.02.05-16.52.38:210][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.05-16.52.38:311][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.05-16.52.38:311][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.05-16.52.42:354][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.05-16.52.42:354][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.05-16.52.42:354][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.05-16.52.42:354][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.05-16.52.42:435][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2023.02.05-16.52.42:435][  0]LogD3D11RHI:       128/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2023.02.05-16.52.42:441][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.05-16.52.42:441][  0]LogD3D11RHI:       0/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.05-16.52.42:441][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.02.05-16.52.42:449][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.05-16.52.42:449][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.05-16.52.42:449][  0]LogWindows: EnumDisplayDevices:
+[2023.02.05-16.52.42:449][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2023.02.05-16.52.42:450][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2023.02.05-16.52.42:450][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2023.02.05-16.52.42:450][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2023.02.05-16.52.42:450][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2023.02.05-16.52.42:450][  0]LogD3D11RHI:   Driver Version: 27.20.100.9664 (internal:27.20.100.9664, unified:27.20.100.9664)
+[2023.02.05-16.52.42:450][  0]LogD3D11RHI:      Driver Date: 6-1-2021
+[2023.02.05-16.52.42:451][  0]LogRHI: Texture pool is 1504 MB (70% of 2149 MB)
+[2023.02.05-16.52.42:641][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2023.02.05-16.52.42:690][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2023.02.05-16.52.42:690][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2023.02.05-16.52.42:690][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2023.02.05-16.52.42:699][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2023.02.05-16.52.42:699][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.05-16.52.42:699][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.05-16.52.42:801][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2023.02.05-16.52.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.05-16.52.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.05-16.52.43:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.05-16.52.43:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.05-16.52.43:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.05-16.52.43:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.05-16.52.43:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.05-16.52.43:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.05-16.52.43:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.05-16.52.43:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.05-16.52.43:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.05-16.52.43:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.05-16.52.43:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.05-16.52.43:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.05-16.52.43:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.05-16.52.43:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.05-16.52.43:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.05-16.52.43:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.05-16.52.43:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.05-16.52.43:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.05-16.52.43:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.05-16.52.43:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.05-16.52.43:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.05-16.52.43:767][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.05-16.52.43:837][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.05-16.52.44:214][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.05-16.52.44:218][  0]LogShaderCompilers: Guid format shader working directory is -81 characters bigger than the processId version (../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Intermediate/Shaders/WorkingDirectory/5272/).
+[2023.02.05-16.52.44:218][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/5926000435/AppData/Local/Temp/UnrealShaderWorkingDir/AFFDA90343804916099754AC0FC4B2C3/'.
+[2023.02.05-16.52.44:222][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.05-16.52.44:222][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.05-16.52.48:439][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.05-16.52.48:742][  0]LogDerivedDataCache: Loaded boot cache 0.30s 77MB C:/Users/5926000435/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.02.05-16.52.48:742][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/5926000435/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2023.02.05-16.52.48:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.05-16.52.48:742][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.05-16.52.48:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.05-16.52.48:742][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.05-16.52.48:772][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.05-16.52.48:772][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.05-16.52.48:772][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.05-16.52.48:808][  0]LogDerivedDataCache: Speed tests for C:/Users/5926000435/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2023.02.05-16.52.48:808][  0]LogDerivedDataCache: Display: Performance to C:/Users/5926000435/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.48ms. RandomReadSpeed=44.80MBs, RandomWriteSpeed=112.81MBs. Assigned SpeedClass 'Local'
+[2023.02.05-16.52.48:809][  0]LogDerivedDataCache: Using Local data cache path C:/Users/5926000435/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.05-16.52.48:809][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.05-16.52.48:809][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.05-16.52.48:888][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.05-16.52.48:922][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.05-16.52.49:017][  0]LogAssetRegistry: FAssetRegistry took 0.0165 seconds to start up
+[2023.02.05-16.52.49:839][  0]LogAssetRegistry: Error: Package ../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/StarterContent/Architecture/Floor_400x400.uasset has newer custom version of Dev-Rendering
+[2023.02.05-16.52.49:839][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.05-16.52.49:839][  0]LogInit: Active device profile: [0000021497933A00][000002148E106E00 49] Windows
+[2023.02.05-16.52.49:839][  0]LogInit: Profiles: [0000021497933A00][000002148E106E00 49] Windows, [00000214978E8700][000002148E10EF80 49] WindowsNoEditor, [0000021497930700][000002148E113100 49] WindowsServer, [00000214978EB600][000002148E117280 49] WindowsClient, [0000021497933500][000002148B89D400 49] IOS, [00000214978E8C00][000002148B8A1580 49] iPadAir, [0000021497930C00][000002148E10B6C0 49] iPadAir2, [000002149787D200][000002148B8A9900 49] IPadPro, [000002149787D300][000002148B8A5940 49] iPadAir3, [0000021497933300][000002148B8ADA80 49] iPadAir4, [000002149787CC00][000002148B8B5C00 49] iPadMini2, [0000021497931800][000002148B8B80C0 49] iPadMini3, [000002149787E100][000002148B8BC240 49] iPadMini4, [0000021497932B00][000002148B8C03C0 49] iPadMini5, [00000214978EA700][00000214FD1FE680 49] iPhone6, [00000214978EA600][000002148B8C46C0 49] iPodTouch6, [000002149787F700][00000214FD206980 49] iPhone7, [000002149787F500][00000214FD2029C0 49] iPodTouch7, [00000214978EB200][00000214FD20AB40 49] iPhone5S, [000002149787C100][00000214FD20ECC0 49] iPhone6Plus, [00000214978E9A00][00000214FD212E40 49] iPhone6S, [000002149787E000][00000214FD216FC0 49] iPhone6SPlus, [00000214978EBF00][00000214FD21B140 49] iPhone7Plus, [000002149787C600][00000214FD21F2C0 49] iPhoneSE, [00000214978EAF00][00000214FD223440 49] iPhone8, [000002149787E700][00000214FD2275C0 49] iPhone8Plus, [00000214978E9900][000002148B8B1700 49] iPhoneX, [000002149787DE00][00000214FD22B840 49] iPhoneXS, [00000214978EA400][000002149753D980 49] iPhoneXSMax, [000002149787D000][0000021497541AC0 49] iPhoneXR, [00000214978EA900][0000021497549C40 49] iPhone11, [000002149787F100][000002149754C100 49] iPhone11Pro, [00000214978EBC00][0000021497550280 49] iPhone11ProMax, [000002149787D400][0000021497554400 49] iPhoneSE2, [00000214978EB900][000002149756A580 49] iPhone12Mini, [000002149787C500][000002149756E700 49] iPhone12, [00000214978E8500][0000021497572880 49] iPhone12Pro, [000002149787CD00][0000021497576A00 49] iPhone12ProMax, [00000214978E9D00][000002149757AB80 49] iPadPro105, [000002149787F200][000002149757ED00 49] iPadPro129, [00000214978E8300][0000021497582E80 49] iPadPro97, [000002149787D100][0000021497587000 49] iPadPro2_129, [00000214978E8E00][000002149758B180 49] iPad5, [000002149787CB00][000002149758F300 49] iPad6, [00000214978EAD00][0000021497593480 49] iPad7, [000002149787E400][0000021497597600 49] iPad8, [00000214978E9400][00000214975A3780 49] iPadPro11, [000002149787D500][00000214975458C0 49] iPadPro2_11, [00000214978EBD00][00000214975CFA00 49] iPadPro3_129, [000002149787E200][00000214975D3B40 49] iPadPro4_129, [00000214978EA000][00000214975DBCC0 49] AppleTV, [000002149787F300][00000214975E2180 49] AppleTV4K, [00000214978EA500][00000214975E6300 49] TVOS, [000002149787F400][00000214975EA480 49] Mac, [00000214978E9F00][00000214975EE600 49] MacClient, [000002149787C200][00000214975F2780 49] MacNoEditor, [00000214978E9600][00000214975F6900 49] MacServer, [000002149787D800][00000214975FAA80 49] Linux, [00000214978EB500][00000214975FEC00 49] LinuxAArch64, [000002149787DF00][0000021497602D80 49] LinuxNoEditor, [00000214978EBA00][0000021497606F00 49] LinuxAArch64NoEditor, [000002149787E300][000002149760B080 49] LinuxClient, [00000214978EA800][000002149760F200 49] LinuxAArch64Client, [0000021497931400][0000021497613380 49] LinuxServer, [0000021497981300][0000021497617500 49] LinuxAArch64Server, [0000021497933B00][000002149761B680 49] Android, [0000021497980B00][000002149761F800 49] Android_Low, [0000021497932200][00000214975D7940 49] Android_Mid, [0000021497981900][0000021497623A80 49] Android_High, [0000021497932F00][0000021497627BC0 49] Android_Default, [0000021497980300][000002149762BD00 49] Android_Adreno4xx, [0000021497933100][00000214976321C0 49] Android_Adreno5xx_Low, [0000021497980100][0000021497636340 49] Android_Adreno5xx, [0000021497931500][000002149763A4C0 49] Android_Adreno6xx, [0000021497981200][000002149763E640 49] Android_Adreno6xx_Vulkan, [0000021497932700][00000214976427C0 49] Android_Mali_T6xx, [0000021497980C00][0000021497646940 49] Android_Mali_T7xx, [0000021497930B00][000002149764AAC0 49] Android_Mali_T8xx, [0000021497980700][000002149764EC40 49] Android_Mali_G71, [0000021497931B00][0000021497652DC0 49] Android_Mali_G72, [0000021497980F00][0000021497656F40 49] Android_Mali_G72_Vulkan, [0000021497931100][000002149765B0C0 49] Android_Mali_G76, [0000021497980200][0000021498671240 49] Android_Mali_G76_Vulkan, [00000214978EB300][00000214986753C0 49] Android_Mali_G77, [000002149787F800][0000021498679540 49] Android_Mali_G77_Vulkan, [00000214978EAC00][000002149867D6C0 49] Android_Vulkan_SM5, [000002149787FD00][0000021498681840 49] Android_PowerVR_G6xxx, [00000214978E9300][000002149762F980 49] Android_PowerVR_GT7xxx, [000002149787EC00][0000021498685AC0 49] Android_PowerVR_GE8xxx, [00000214978E9C00][0000021498689C00 49] Android_PowerVR_GM9xxx, [000002149787FB00][000002149868DD40 49] Android_PowerVR_GM9xxx_Vulkan, [00000214978E8800][0000021498694200 49] Android_TegraK1, [000002149787EB00][0000021498698380 49] Android_Unknown_Vulkan, [00000214978EB400][000002149869C500 49] Lumin, [000002149787D700][00000214986A0680 49] Lumin_Desktop, [00000214978EBE00][00000214986A4800 49] HoloLens, 
+[2023.02.05-16.52.50:263][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.05-16.52.50:263][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.05-16.52.50:263][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.05-16.52.50:263][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.05-16.52.50:263][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.05-16.52.50:392][  0]LogNetVersion: GameDesign5 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 27797639)
+[2023.02.05-16.52.52:535][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.05-16.52.52:637][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.097015 seconds
+[2023.02.05-16.52.52:647][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2023.02.05-16.52.52:647][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2023.02.05-16.52.52:647][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.05-16.52.54:441][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.05-16.52.54:455][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.05-16.52.54:686][  0]SourceControl: Source control is disabled
+[2023.02.05-16.52.54:687][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.05-16.52.54:687][  0]LogWindows: Warning: URL: C:/Git/bin/git.exe version
+[2023.02.05-16.52.54:711][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.05-16.52.54:711][  0]LogWindows: Warning: URL: C:/Git/bin/git.exe version
+[2023.02.05-16.52.54:742][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.05-16.52.54:742][  0]LogWindows: Warning: URL: C:/Git/bin/git.exe version
+[2023.02.05-16.52.54:756][  0]LogUProjectInfo: Found projects:
+[2023.02.05-16.52.54:766][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.05-16.52.54:766][  0]LogWindows: Warning: URL: C:/Git/bin/git.exe version
+[2023.02.05-16.52.54:779][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.05-16.52.54:780][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.05-16.52.55:541][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.05-16.52.55:572][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.05-16.52.55:572][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.05-16.52.55:733][  0]LogCollectionManager: Loaded 0 collections in 0.003303 seconds
+[2023.02.05-16.52.55:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Collections/' took 0.00s
+[2023.02.05-16.52.55:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/Developers/5926000435/Collections/' took 0.00s
+[2023.02.05-16.52.55:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/Collections/' took 0.00s
+[2023.02.05-16.52.55:817][  0]LogOcInput: OculusInput pre-init called
+[2023.02.05-16.52.55:851][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.02.05-16.52.55:851][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.02.05-16.52.56:222][  0]LogEngine: Initializing Engine...
+[2023.02.05-16.52.56:230][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.05-16.52.56:231][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.05-16.52.56:240][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2023.02.05-16.52.56:640][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.05-16.52.56:799][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.05-16.52.56:828][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.05-16.52.56:841][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.05-16.52.56:841][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.05-16.52.56:843][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-16.52.56:843][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-16.52.56:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-16.52.56:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-16.52.56:843][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-16.52.56:843][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-16.52.56:843][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-16.52.56:843][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-16.52.56:849][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-16.52.56:850][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-16.52.56:885][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-16.52.56:886][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-16.52.58:359][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-16.52.58:363][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-16.52.58:395][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-16.52.58:396][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-16.52.58:402][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-16.52.58:404][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-16.52.58:404][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-16.52.58:406][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-16.52.58:406][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-16.52.58:406][  0]LogInit: FAudioDevice initialized.
+[2023.02.05-16.52.58:411][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.05-16.52.58:415][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.05-16.52.58:503][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/5926000435/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.02.05-16.52.58:504][  0]LogInit: Texture streaming: Enabled
+[2023.02.05-16.52.58:545][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2023.02.05-16.52.58:558][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.05-16.52.58:558][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.05-16.52.58:564][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.05-16.52.58:637][  0]LogInit: Transaction tracking system initialized
+[2023.02.05-16.52.58:733][  0]BlueprintLog: New page: Editor Load
+[2023.02.05-16.52.59:053][  0]LocalizationService: Localization service is disabled
+[2023.02.05-16.52.59:159][  0]TimingProfiler: Initialize
+[2023.02.05-16.52.59:162][  0]TimingProfiler: OnSessionChanged
+[2023.02.05-16.52.59:163][  0]LoadingProfiler: Initialize
+[2023.02.05-16.52.59:163][  0]LoadingProfiler: OnSessionChanged
+[2023.02.05-16.52.59:164][  0]NetworkingProfiler: Initialize
+[2023.02.05-16.52.59:164][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.05-16.52.59:164][  0]MemoryProfiler: Initialize
+[2023.02.05-16.52.59:164][  0]MemoryProfiler: OnSessionChanged
+[2023.02.05-16.52.59:328][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.05-16.52.59:329][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.05-16.52.59:845][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.05-16.52.59:845][  0]LogCook: Display: Mobile HDR setting 0
+[2023.02.05-16.53.00:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/' took 0.01s
+[2023.02.05-16.53.00:624][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.05-16.53.00:643][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.05-16.53.00:643][  0]LogWindows: Warning: URL: C:/Git/bin/git.exe version
+[2023.02.05-16.53.00:644][  0]LogUnrealEdMisc: Loading editor; pre map load, took 28.992
+[2023.02.05-16.53.00:675][  0]LightingResults: New page: Lighting Build
+[2023.02.05-16.53.00:701][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.53.00:709][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.53.00:723][  0]MapCheck: New page: Map Check
+[2023.02.05-16.53.00:723][  0]LightingResults: New page: Lighting Build
+[2023.02.05-16.53.00:852][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.02.05-16.53.01:231][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-16.53.01:233][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-16.53.01:295][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.05-16.53.01:319][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.05-16.53.01:322][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.05-16.53.01:323][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.837ms to complete.
+[2023.02.05-16.53.01:323][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.678
+[2023.02.05-16.53.01:418][  0]LogUnrealEdMisc: Total Editor Startup Time, took 29.766
+[2023.02.05-16.53.01:762][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-16.53.01:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-16.53.01:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-16.53.01:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-16.53.01:881][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3601 classes and 859 folders.
+[2023.02.05-16.53.01:907][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.05-16.53.01:933][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.05-16.53.01:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.01:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.05-16.53.01:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000399
+[2023.02.05-16.53.01:947][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.05-16.53.01:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.01:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.05-16.53.01:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000404
+[2023.02.05-16.53.01:956][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.05-16.53.01:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.01:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.05-16.53.01:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000408
+[2023.02.05-16.53.01:965][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.05-16.53.01:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.01:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.05-16.53.01:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000412
+[2023.02.05-16.53.01:974][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.05-16.53.01:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.01:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.05-16.53.01:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000416
+[2023.02.05-16.53.01:982][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.05-16.53.01:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.01:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.05-16.53.01:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000420
+[2023.02.05-16.53.01:989][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.05-16.53.01:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.01:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.05-16.53.01:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000423
+[2023.02.05-16.53.01:999][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.05-16.53.01:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.01:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.05-16.53.01:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000427
+[2023.02.05-16.53.02:010][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.05-16.53.02:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.05-16.53.02:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000432
+[2023.02.05-16.53.02:019][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.05-16.53.02:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.05-16.53.02:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000436
+[2023.02.05-16.53.02:027][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.05-16.53.02:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.05-16.53.02:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000441
+[2023.02.05-16.53.02:035][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.05-16.53.02:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:035][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.05-16.53.02:035][  0]LogPakFile: OnPakFileMounted2Time == 0.000444
+[2023.02.05-16.53.02:043][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.05-16.53.02:044][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:044][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.05-16.53.02:044][  0]LogPakFile: OnPakFileMounted2Time == 0.000449
+[2023.02.05-16.53.02:052][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.05-16.53.02:052][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:052][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.05-16.53.02:052][  0]LogPakFile: OnPakFileMounted2Time == 0.000453
+[2023.02.05-16.53.02:060][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.05-16.53.02:060][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:060][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.05-16.53.02:060][  0]LogPakFile: OnPakFileMounted2Time == 0.000457
+[2023.02.05-16.53.02:069][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.05-16.53.02:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.05-16.53.02:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000462
+[2023.02.05-16.53.02:079][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.05-16.53.02:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.05-16.53.02:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000466
+[2023.02.05-16.53.02:087][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.05-16.53.02:087][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:087][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.05-16.53.02:087][  0]LogPakFile: OnPakFileMounted2Time == 0.000476
+[2023.02.05-16.53.02:094][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.05-16.53.02:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.05-16.53.02:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000480
+[2023.02.05-16.53.02:105][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.05-16.53.02:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.05-16.53.02:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000484
+[2023.02.05-16.53.02:112][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.05-16.53.02:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.05-16.53.02:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000488
+[2023.02.05-16.53.02:121][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.05-16.53.02:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.05-16.53.02:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000493
+[2023.02.05-16.53.02:128][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.05-16.53.02:128][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:128][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.05-16.53.02:128][  0]LogPakFile: OnPakFileMounted2Time == 0.000496
+[2023.02.05-16.53.02:136][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.05-16.53.02:136][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:136][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.05-16.53.02:136][  0]LogPakFile: OnPakFileMounted2Time == 0.000501
+[2023.02.05-16.53.02:144][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.05-16.53.02:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.05-16.53.02:144][  0]LogPakFile: OnPakFileMounted2Time == 0.000505
+[2023.02.05-16.53.02:152][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.05-16.53.02:152][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.05-16.53.02:152][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.05-16.53.02:152][  0]LogPakFile: OnPakFileMounted2Time == 0.000510
+[2023.02.05-16.53.02:567][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.05-16.53.02:586][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.02.05-16.53.02:822][  0]LogSlate: Took 0.009066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.05-16.53.02:838][  0]LogSlate: Took 0.006912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.05-16.53.02:868][  0]LogSlate: Took 0.009796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.05-16.53.03:171][  0]LogRenderer: Reallocating scene render targets to support 804x332 Format 10 NumSamples 1 (Frame:1).
+[2023.02.05-16.53.03:476][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.05-16.53.03:476][  0]LogLoad: (Engine Initialization) Total time: 31.82 seconds
+[2023.02.05-16.53.03:476][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.05-16.53.03:477][  0]LogInit: First time updating LLM stats...
+[2023.02.05-16.53.05:591][  0]LogAssetRegistry: Asset discovery search completed in 16.5763 seconds
+[2023.02.05-16.53.05:594][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000399 seconds (updated 0 objects)
+[2023.02.05-16.53.05:615][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.05-16.53.05:821][  2]LogSlate: Took 0.009840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.05-16.54.24:566][422]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.05-16.54.24:592][422]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/2DSideScroller/Textures/New_tileset-Recovered_TileSet.New_tileset-Recovered_TileSet
+[2023.02.05-16.54.24:784][422]LogSlate: Took 0.008238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.05-16.54.24:932][422]LogRenderer: Reallocating scene render targets to support 804x424 Format 10 NumSamples 1 (Frame:1).
+[2023.02.05-16.54.36:789][764]LogSlate: Window 'New_tileset-Recovered_TileSet' being destroyed
+[2023.02.05-16.54.36:829][764]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.54.36:829][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.54.38:475][834]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/New_tileset-Recovered.New_tileset-Recovered
+[2023.02.05-16.54.38:528][834]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.02.05-16.54.46:200][ 80]LogSlate: Window 'New_tileset-Recovered' being destroyed
+[2023.02.05-16.54.48:070][159]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScroller/Textures/New_TileMap.New_TileMap
+[2023.02.05-16.54.48:243][159]LogRenderer: Reallocating scene render targets to support 804x552 Format 10 NumSamples 1 (Frame:1).
+[2023.02.05-16.55.20:713][ 71]Cmd: TRANSACTION UNDO
+[2023.02.05-16.55.20:713][ 71]LogEditorTransaction: Undo Tile Painting
+[2023.02.05-17.03.04:048][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.05-17.03.04:051][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.022
+[2023.02.05-17.03.04:055][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScroller/Textures/New_TileMap] ([1] browsable assets)...
+[2023.02.05-17.03.04:055][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/New_TileMap]
+[2023.02.05-17.03.04:138][813]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/New_TileMap_Auto1201A3BB0419722416E3409B088710E93.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Autosaves/Game/2DSideScroller/Textures/New_TileMap_Auto1.uasset'
+[2023.02.05-17.03.04:142][813]LogFileHelpers: Auto-saving content packages took 0.090
+[2023.02.05-17.08.37:779][310]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.05-17.08.37:798][310]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.05-17.08.37:820][310]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.05-17.08.49:292][841]LogContentBrowser: Attempting asset rename: NewBlueprint -> Platform
+[2023.02.05-17.08.49:318][841]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.05-17.08.53:842][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScroller/Animations/Platform.Platform
+[2023.02.05-17.08.54:721][ 55]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 126 classes and 0 folders.
+[2023.02.05-17.08.56:076][ 56]LogRenderer: Reallocating scene render targets to support 1016x552 Format 10 NumSamples 1 (Frame:1).
+[2023.02.05-17.09.10:580][283]LogSlate: Took 0.018520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.05-17.09.24:495][462]LogSlate: Window 'Details' being destroyed
+[2023.02.05-17.09.24:560][462]LogSlate: Window 'Details' being destroyed
+[2023.02.05-17.10.35:212][545]LogEditorTransaction: Undo Modify Component(s)
+[2023.02.05-17.11.14:162][726]LogSlate: Window 'Details' being destroyed
+[2023.02.05-17.11.14:164][726]LogSlate: Window 'Details' being destroyed
+[2023.02.05-17.11.14:178][726]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.11.14:178][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.11.17:695][816]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/New_TileMapB09E9FF94F5C774C65E30185E7E56C1C.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScroller/Textures/New_TileMap.uasset'
+[2023.02.05-17.11.17:738][816]AssetCheck: New page: Asset Save: New_TileMap
+[2023.02.05-17.11.17:738][816]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/New_TileMap.New_TileMap
+[2023.02.05-17.11.40:430][525]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/2DSideScroller/Textures/New_tileset-Recovered_TileSet.New_tileset-Recovered_TileSet
+[2023.02.05-17.11.44:464][612]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.11.44:464][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.12.01:822][922]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1_TileMap)
+[2023.02.05-17.12.03:025][953]Cmd: DELETE
+[2023.02.05-17.12.03:026][953]Cmd: ACTOR DELETE
+[2023.02.05-17.12.03:058][953]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2023.02.05-17.12.03:135][953]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2023.02.05-17.12.03:141][953]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2023.02.05-17.12.17:570][324]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (New_TileMap)
+[2023.02.05-17.12.17:754][325]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2023.02.05-17.12.32:787][826]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.05-17.12.37:146][981]LogEditorViewport: Clicking Background
+[2023.02.05-17.12.37:892][ 13]LogEditorViewport: Clicking Background
+[2023.02.05-17.12.38:302][ 31]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (New_TileMap)
+[2023.02.05-17.13.05:929][ 57]LogEditorViewport: Clicking Background
+[2023.02.05-17.13.09:129][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.05-17.13.14:159][417]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (New_TileMap)
+[2023.02.05-17.13.22:787][807]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-17.13.22:806][807]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.05-17.13.22:807][807]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2023.02.05-17.13.22:833][807]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Platform4F3AB41447E762FFE65723A002152EE7.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScroller/Animations/Platform.uasset'
+[2023.02.05-17.13.22:864][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.02.05-17.13.22:868][807]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (1 blueprints)
+[2023.02.05-17.13.22:880][807]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 7:13:22 AM)
+[2023.02.05-17.13.22:892][807]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.05-17.13.22:894][807]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.05-17.13.22:897][807]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.13.22:904][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005394s)
+[2023.02.05-17.13.22:906][807]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-17.13.22:906][807]LogPlayLevel: PIE: World Init took: (0.002834s)
+[2023.02.05-17.13.22:907][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.009929s)
+[2023.02.05-17.13.22:925][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.05-17.13.22:930][807]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.05-17.13.22:930][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-17.13.22:930][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-17.13.22:930][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-17.13.22:930][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-17.13.22:930][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-17.13.22:930][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-17.13.22:930][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-17.13.22:930][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-17.13.22:930][807]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-17.13.22:930][807]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-17.13.22:934][807]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-17.13.22:934][807]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-17.13.23:040][807]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-17.13.23:040][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-17.13.23:040][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-17.13.23:040][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-17.13.23:041][807]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-17.13.23:041][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-17.13.23:041][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-17.13.23:043][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-17.13.23:043][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-17.13.23:043][807]LogInit: FAudioDevice initialized.
+[2023.02.05-17.13.23:043][807]LogAudio: Display: Audio Device (ID: 2) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-17.13.23:093][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.13.23:096][807]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-17.13.23:108][807]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2023.02.05-12.13.23
+[2023.02.05-17.13.23:112][807]LogWorld: Bringing up level for play took: 0.004229
+[2023.02.05-17.13.23:114][807]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.02.05-17.13.23:144][807]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.02.05-17.13.23:163][807]PIE: Server logged in
+[2023.02.05-17.13.23:164][807]PIE: Play in editor total start time 0.368 seconds.
+[2023.02.05-17.13.23:211][808]LogRenderer: Reallocating scene render targets to support 1272x640 Format 10 NumSamples 1 (Frame:1).
+[2023.02.05-17.13.23:219][808]AssetCheck: New page: Asset Save: Platform
+[2023.02.05-17.13.23:219][808]LogContentValidation: Display: Validating Blueprint /Game/2DSideScroller/Animations/Platform.Platform
+[2023.02.05-17.13.33:724][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.13.33:724][177]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.13.33:725][177]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-17.13.33:772][177]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.13.33:772][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.13.33:796][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-17.13.33:847][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.13.33:899][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.13.33:902][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.13.34:058][177]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2023.02.05-17.13.34:123][178]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.02.05-17.13.50:569][794]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (New_TileMap)
+[2023.02.05-17.13.50:647][795]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2023.02.05-17.14.29:115][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.02.05-17.14.29:125][334]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_Auto2724D956F4188F71EBD5669AA84A58EF8.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2023.02.05-17.14.29:128][334]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.071
+[2023.02.05-17.14.29:129][334]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.02.05-17.15.05:754][ 99]LogContentBrowser: Deferred new asset file creation: New_TileMap1
+[2023.02.05-17.15.05:814][ 99]LogContentBrowser: Creating deferred item: New_TileMap1
+[2023.02.05-17.15.21:409][748]LogContentBrowser: Attempting asset rename: New_TileMap1 -> Moving_Platform_1
+[2023.02.05-17.15.21:437][748]LogContentBrowser: End creating deferred item New_TileMap1
+[2023.02.05-17.15.22:907][801]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScroller/Textures/Moving_Platform_1.Moving_Platform_1
+[2023.02.05-17.16.48:269][506]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Moving_Platform_182BA47524D45657016269DBF9F130B4A.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScroller/Textures/Moving_Platform_1.uasset'
+[2023.02.05-17.16.48:331][506]AssetCheck: New page: Asset Save: Moving_Platform_1
+[2023.02.05-17.16.48:331][506]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/Moving_Platform_1.Moving_Platform_1
+[2023.02.05-17.16.51:848][558]LogEditorViewport: Clicking Background
+[2023.02.05-17.16.53:718][598]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (New_TileMap)
+[2023.02.05-17.17.35:583][889]LogEditorViewport: Clicking Background
+[2023.02.05-17.17.57:484][783]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Moving_Platform_1)
+[2023.02.05-17.18.07:560][152]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (New_TileMap)
+[2023.02.05-17.18.09:493][218]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Moving_Platform_1)
+[2023.02.05-17.18.22:678][550]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (New_TileMap)
+[2023.02.05-17.18.25:562][652]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (New_TileMap)
+[2023.02.05-17.19.14:697][905]Cmd: TRANSACTION UNDO
+[2023.02.05-17.19.14:697][905]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.05-17.19.21:888][158]LogEditorViewport: Clicking Background
+[2023.02.05-17.19.27:994][413]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Moving_Platform_1)
+[2023.02.05-17.19.28:068][413]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2023.02.05-17.20.07:844][604]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.20.07:844][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.21.52:511][630]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap
+[2023.02.05-17.24.32:265][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.02.05-17.24.32:282][357]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_Auto367430CBA45DAA6118BFE42AABF91E380.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2023.02.05-17.24.32:286][357]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.071
+[2023.02.05-17.24.32:286][357]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.02.05-17.26.18:933][991]LogEditorTransaction: Undo New Time Entered
+[2023.02.05-17.26.22:864][ 41]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.05-17.26.23:849][ 47]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.05-17.26.24:081][ 47]LogEditorTransaction: Undo New Time Entered
+[2023.02.05-17.30.13:200][479]BlueprintLog: New page: Compile 2DSideScrollerExampleMap
+[2023.02.05-17.30.13:250][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.02.05-17.30.13:298][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.02.05-17.30.13:309][479]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap0F475CF64D8D17582D76E2B68ACA6AAC.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.02.05-17.30.13:322][479]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.050
+[2023.02.05-17.30.20:632][479]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
+[2023.02.05-17.30.20:632][479]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.02.05-17.30.20:684][479]LogSlate: Took 0.010725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.05-17.30.26:212][609]LogSlate: Window '2DSideScrollerExampleMap' being destroyed
+[2023.02.05-17.30.26:246][609]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.30.26:246][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.31.29:794][877]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap
+[2023.02.05-17.38.52:316][579]BlueprintLog: New page: Compile 2DSideScrollerExampleMap
+[2023.02.05-17.38.52:379][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.02.05-17.38.52:436][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.05-17.38.52:447][579]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap5E2446CD4B82223471AA439E65B62905.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.02.05-17.38.52:459][579]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.050
+[2023.02.05-17.38.52:476][579]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
+[2023.02.05-17.38.52:476][579]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.02.05-17.38.53:569][620]BlueprintLog: New page: Compile 2DSideScrollerExampleMap
+[2023.02.05-17.38.53:615][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.02.05-17.38.53:667][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.05-17.38.53:676][620]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap60B6CCDB4CA2DE8936B5F99157E1511F.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.02.05-17.38.53:686][620]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.043
+[2023.02.05-17.38.53:698][620]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
+[2023.02.05-17.38.53:698][620]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.02.05-17.38.55:247][669]LogSlate: Window '2DSideScrollerExampleMap' being destroyed
+[2023.02.05-17.38.55:257][669]LogSlate: Window '2DSideScrollerExampleMap' being destroyed
+[2023.02.05-17.38.55:262][669]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.38.55:263][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.38.55:301][669]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.38.55:301][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.39.00:786][989]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-17.39.00:799][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-17.39.00:799][989]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 7:39:00 AM)
+[2023.02.05-17.39.00:800][989]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.39.00:805][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005356s)
+[2023.02.05-17.39.00:806][989]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-17.39.00:807][989]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2023.02.05-17.39.00:807][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007085s)
+[2023.02.05-17.39.00:834][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.02.05-17.39.00:836][989]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.05-17.39.00:836][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-17.39.00:836][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-17.39.00:836][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-17.39.00:836][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-17.39.00:836][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-17.39.00:836][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-17.39.00:836][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-17.39.00:836][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-17.39.00:837][989]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-17.39.00:837][989]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-17.39.00:840][989]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-17.39.00:840][989]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-17.39.00:941][989]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-17.39.00:942][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-17.39.00:942][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-17.39.00:942][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-17.39.00:943][989]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-17.39.00:943][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-17.39.00:943][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-17.39.00:961][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-17.39.00:961][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-17.39.00:961][989]LogInit: FAudioDevice initialized.
+[2023.02.05-17.39.00:961][989]LogAudio: Display: Audio Device (ID: 3) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-17.39.00:995][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.39.00:995][989]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-17.39.00:997][989]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.05-12.39.00
+[2023.02.05-17.39.00:998][989]LogWorld: Bringing up level for play took: 0.001533
+[2023.02.05-17.39.00:998][989]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.02.05-17.39.01:010][989]PIE: Server logged in
+[2023.02.05-17.39.01:013][989]PIE: Play in editor total start time 0.215 seconds.
+[2023.02.05-17.39.16:330][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.39.16:330][565]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.39.16:331][565]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-17.39.16:368][565]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.39.16:368][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.39.16:385][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-17.39.16:428][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.39.16:463][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-17.39.16:464][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.39.16:465][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.39.16:517][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.02.05-17.39.16:580][566]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.02.05-17.39.26:221][155]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap
+[2023.02.05-17.40.53:119][  2]BlueprintLog: New page: Compile 2DSideScrollerExampleMap
+[2023.02.05-17.40.53:307][  2]LogUObjectHash: Compacting FUObjectHashTables data took  14.27ms
+[2023.02.05-17.40.53:493][  2]LogUObjectHash: Compacting FUObjectHashTables data took   9.32ms
+[2023.02.05-17.40.53:536][  2]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap04B702CB455E031C6D0657B47CC67EA8.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.02.05-17.40.53:585][  2]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.183
+[2023.02.05-17.40.53:638][  2]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
+[2023.02.05-17.40.53:638][  2]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.02.05-17.40.54:994][ 38]LogSlate: Window '2DSideScrollerExampleMap' being destroyed
+[2023.02.05-17.40.55:012][ 38]LogSlate: Window '2DSideScrollerExampleMap' being destroyed
+[2023.02.05-17.40.55:021][ 38]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.40.55:022][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.40.58:451][171]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-17.40.58:469][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-17.40.58:470][171]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 7:40:58 AM)
+[2023.02.05-17.40.58:470][171]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.40.58:474][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003846s)
+[2023.02.05-17.40.58:476][171]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-17.40.58:477][171]LogPlayLevel: PIE: World Init took: (0.003001s)
+[2023.02.05-17.40.58:477][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007106s)
+[2023.02.05-17.40.58:518][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.02.05-17.40.58:520][171]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.05-17.40.58:520][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-17.40.58:521][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-17.40.58:521][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-17.40.58:521][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-17.40.58:521][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-17.40.58:521][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-17.40.58:521][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-17.40.58:521][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-17.40.58:522][171]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-17.40.58:522][171]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-17.40.58:527][171]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-17.40.58:527][171]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-17.40.58:651][171]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-17.40.58:652][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-17.40.58:652][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-17.40.58:652][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-17.40.58:653][171]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-17.40.58:653][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-17.40.58:653][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-17.40.58:686][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-17.40.58:686][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-17.40.58:686][171]LogInit: FAudioDevice initialized.
+[2023.02.05-17.40.58:686][171]LogAudio: Display: Audio Device (ID: 4) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-17.40.58:748][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.40.58:749][171]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-17.40.58:752][171]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.05-12.40.58
+[2023.02.05-17.40.58:752][171]LogWorld: Bringing up level for play took: 0.002204
+[2023.02.05-17.40.58:753][171]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.02.05-17.40.58:766][171]PIE: Server logged in
+[2023.02.05-17.40.58:769][171]PIE: Play in editor total start time 0.302 seconds.
+[2023.02.05-17.41.04:709][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.41.04:709][324]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.41.04:710][324]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-17.41.04:743][324]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.41.04:743][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.41.04:774][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-17.41.04:818][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.41.04:859][324]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-17.41.04:860][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.41.04:864][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.41.04:919][324]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2023.02.05-17.41.04:981][325]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.02.05-17.41.07:597][419]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-17.41.07:626][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-17.41.07:626][419]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 7:41:07 AM)
+[2023.02.05-17.41.07:626][419]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.41.07:634][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007763s)
+[2023.02.05-17.41.07:637][419]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-17.41.07:638][419]LogPlayLevel: PIE: World Init took: (0.003969s)
+[2023.02.05-17.41.07:639][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.012211s)
+[2023.02.05-17.41.07:688][419]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2023.02.05-17.41.07:689][419]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.05-17.41.07:689][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-17.41.07:689][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-17.41.07:689][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-17.41.07:689][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-17.41.07:690][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-17.41.07:690][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-17.41.07:690][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-17.41.07:690][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-17.41.07:691][419]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-17.41.07:692][419]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-17.41.07:698][419]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-17.41.07:698][419]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-17.41.07:844][419]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-17.41.07:845][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-17.41.07:845][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-17.41.07:845][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-17.41.07:846][419]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-17.41.07:846][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-17.41.07:846][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-17.41.07:889][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-17.41.07:889][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-17.41.07:889][419]LogInit: FAudioDevice initialized.
+[2023.02.05-17.41.07:889][419]LogAudio: Display: Audio Device (ID: 5) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-17.41.07:945][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.41.07:945][419]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-17.41.07:948][419]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.05-12.41.07
+[2023.02.05-17.41.07:948][419]LogWorld: Bringing up level for play took: 0.001796
+[2023.02.05-17.41.07:949][419]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.02.05-17.41.07:961][419]PIE: Server logged in
+[2023.02.05-17.41.07:964][419]PIE: Play in editor total start time 0.342 seconds.
+[2023.02.05-17.41.20:929][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.41.20:929][866]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.41.20:930][866]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-17.41.20:968][866]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.41.20:968][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.41.20:987][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-17.41.21:041][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.41.21:080][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-17.41.21:081][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.41.21:082][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.41.21:140][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2023.02.05-17.41.21:202][867]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.05-17.41.33:639][680]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap
+[2023.02.05-17.42.21:788][446]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-17.42.21:801][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-17.42.21:801][446]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 7:42:21 AM)
+[2023.02.05-17.42.21:801][446]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.42.21:803][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002467s)
+[2023.02.05-17.42.21:805][446]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-17.42.21:805][446]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2023.02.05-17.42.21:805][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004006s)
+[2023.02.05-17.42.21:833][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.02.05-17.42.21:836][446]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.05-17.42.21:836][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-17.42.21:836][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-17.42.21:836][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-17.42.21:836][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-17.42.21:836][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-17.42.21:836][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-17.42.21:836][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-17.42.21:836][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-17.42.21:836][446]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-17.42.21:836][446]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-17.42.21:839][446]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-17.42.21:839][446]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-17.42.21:938][446]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-17.42.21:938][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-17.42.21:938][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-17.42.21:938][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-17.42.21:939][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-17.42.21:939][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-17.42.21:939][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-17.42.21:957][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-17.42.21:957][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-17.42.21:957][446]LogInit: FAudioDevice initialized.
+[2023.02.05-17.42.21:957][446]LogAudio: Display: Audio Device (ID: 6) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-17.42.22:017][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.42.22:017][446]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-17.42.22:019][446]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.05-12.42.22
+[2023.02.05-17.42.22:020][446]LogWorld: Bringing up level for play took: 0.001323
+[2023.02.05-17.42.22:020][446]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.02.05-17.42.22:028][446]PIE: Server logged in
+[2023.02.05-17.42.22:032][446]PIE: Play in editor total start time 0.234 seconds.
+[2023.02.05-17.42.36:510][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.42.36:510][952]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.42.36:511][952]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-17.42.36:578][952]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.42.36:579][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.42.36:602][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-17.42.36:652][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.42.36:702][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-17.42.36:702][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.42.36:704][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.42.36:757][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.02.05-17.42.36:813][953]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.05-17.42.38:040][  0]LogEditorViewport: Clicking Background
+[2023.02.05-17.44.35:618][156]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-17.44.35:628][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-17.44.35:628][156]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 7:44:35 AM)
+[2023.02.05-17.44.35:628][156]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.44.35:632][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003791s)
+[2023.02.05-17.44.35:634][156]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-17.44.35:634][156]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2023.02.05-17.44.35:634][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005466s)
+[2023.02.05-17.44.35:660][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.02.05-17.44.35:664][156]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.05-17.44.35:664][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-17.44.35:664][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-17.44.35:664][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-17.44.35:664][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-17.44.35:664][156]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-17.44.35:664][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-17.44.35:664][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-17.44.35:664][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-17.44.35:664][156]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-17.44.35:664][156]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-17.44.35:668][156]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-17.44.35:668][156]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-17.44.35:758][156]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-17.44.35:758][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-17.44.35:758][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-17.44.35:758][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-17.44.35:759][156]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-17.44.35:759][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-17.44.35:759][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-17.44.35:774][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-17.44.35:774][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-17.44.35:774][156]LogInit: FAudioDevice initialized.
+[2023.02.05-17.44.35:774][156]LogAudio: Display: Audio Device (ID: 7) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-17.44.35:835][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.44.35:835][156]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-17.44.35:837][156]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.05-12.44.35
+[2023.02.05-17.44.35:845][156]LogWorld: Bringing up level for play took: 0.009055
+[2023.02.05-17.44.35:846][156]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.02.05-17.44.35:854][156]PIE: Server logged in
+[2023.02.05-17.44.35:856][156]PIE: Play in editor total start time 0.229 seconds.
+[2023.02.05-17.45.10:161][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.45.10:161][388]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.45.10:164][388]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-17.45.10:199][388]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.45.10:199][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.45.10:218][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-17.45.10:464][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.45.10:520][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-17.45.10:520][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.45.10:522][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.45.10:587][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.02.05-17.45.10:640][389]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.05-17.45.30:263][915]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-17.45.30:281][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-17.45.30:281][915]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 7:45:30 AM)
+[2023.02.05-17.45.30:281][915]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.45.30:285][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003606s)
+[2023.02.05-17.45.30:286][915]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-17.45.30:287][915]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2023.02.05-17.45.30:287][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005479s)
+[2023.02.05-17.45.30:326][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2023.02.05-17.45.30:328][915]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.02.05-17.45.30:328][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-17.45.30:328][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-17.45.30:328][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-17.45.30:328][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-17.45.30:328][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-17.45.30:328][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-17.45.30:328][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-17.45.30:328][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-17.45.30:329][915]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-17.45.30:329][915]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-17.45.30:332][915]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-17.45.30:332][915]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-17.45.30:437][915]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-17.45.30:437][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-17.45.30:437][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-17.45.30:437][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-17.45.30:438][915]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-17.45.30:438][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-17.45.30:438][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-17.45.30:463][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-17.45.30:464][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-17.45.30:464][915]LogInit: FAudioDevice initialized.
+[2023.02.05-17.45.30:464][915]LogAudio: Display: Audio Device (ID: 8) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-17.45.30:514][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.45.30:514][915]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-17.45.30:517][915]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.05-12.45.30
+[2023.02.05-17.45.30:518][915]LogWorld: Bringing up level for play took: 0.002012
+[2023.02.05-17.45.30:518][915]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.02.05-17.45.30:537][915]PIE: Server logged in
+[2023.02.05-17.45.30:541][915]PIE: Play in editor total start time 0.262 seconds.
+[2023.02.05-17.45.37:402][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.45.37:403][112]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.45.37:404][112]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-17.45.37:494][112]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.45.37:494][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.45.37:516][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-17.45.37:637][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.45.37:691][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-17.45.37:691][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.45.37:693][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.45.37:755][112]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2023.02.05-17.45.37:823][113]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.02.05-17.45.41:897][251]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-17.45.41:912][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-17.45.41:912][251]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 7:45:41 AM)
+[2023.02.05-17.45.41:912][251]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.45.41:916][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004143s)
+[2023.02.05-17.45.41:918][251]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-17.45.41:918][251]LogPlayLevel: PIE: World Init took: (0.001753s)
+[2023.02.05-17.45.41:918][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006100s)
+[2023.02.05-17.45.41:955][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.02.05-17.45.41:956][251]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.02.05-17.45.41:956][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-17.45.41:956][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-17.45.41:956][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-17.45.41:956][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-17.45.41:956][251]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-17.45.41:956][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-17.45.41:956][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-17.45.41:956][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-17.45.41:957][251]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-17.45.41:957][251]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-17.45.41:961][251]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-17.45.41:961][251]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-17.45.42:084][251]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-17.45.42:084][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-17.45.42:084][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-17.45.42:084][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-17.45.42:085][251]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-17.45.42:085][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-17.45.42:085][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-17.45.42:111][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-17.45.42:111][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-17.45.42:111][251]LogInit: FAudioDevice initialized.
+[2023.02.05-17.45.42:111][251]LogAudio: Display: Audio Device (ID: 9) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-17.45.42:145][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.45.42:146][251]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-17.45.42:149][251]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.05-12.45.42
+[2023.02.05-17.45.42:149][251]LogWorld: Bringing up level for play took: 0.002325
+[2023.02.05-17.45.42:150][251]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.02.05-17.45.42:161][251]PIE: Server logged in
+[2023.02.05-17.45.42:164][251]PIE: Play in editor total start time 0.255 seconds.
+[2023.02.05-17.45.49:457][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.45.49:457][442]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.45.49:458][442]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-17.45.49:529][442]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.45.49:530][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.45.49:561][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-17.45.49:749][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.45.49:813][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-17.45.49:814][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.45.49:816][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.45.49:895][442]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2023.02.05-17.45.49:982][443]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.02.05-17.46.07:753][388]Cmd: DELETE
+[2023.02.05-17.46.07:753][388]Cmd: ACTOR DELETE
+[2023.02.05-17.46.07:759][388]LogEditorActor: Deleted Actor: 2DSideScrollerCharacter_C
+[2023.02.05-17.46.07:833][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.02.05-17.46.07:835][388]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2023.02.05-17.46.13:659][609]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.02.05-17.48.18:268][ 57]BlueprintLog: New page: Compile 2DSideScrollerExampleMap
+[2023.02.05-17.48.18:357][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2023.02.05-17.48.18:477][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2023.02.05-17.48.18:501][ 57]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMapF270AA164329CE7256E72EB2C7FB8659.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.02.05-17.48.18:521][ 57]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.100
+[2023.02.05-17.48.18:551][ 57]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
+[2023.02.05-17.48.18:551][ 57]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.02.05-17.48.24:973][241]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-17.48.25:000][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-17.48.25:001][241]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 7:48:25 AM)
+[2023.02.05-17.48.25:001][241]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.48.25:006][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005204s)
+[2023.02.05-17.48.25:009][241]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-17.48.25:010][241]LogPlayLevel: PIE: World Init took: (0.003804s)
+[2023.02.05-17.48.25:010][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.009353s)
+[2023.02.05-17.48.25:089][241]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2023.02.05-17.48.25:091][241]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.02.05-17.48.25:091][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-17.48.25:091][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-17.48.25:091][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-17.48.25:091][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-17.48.25:091][241]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-17.48.25:091][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-17.48.25:091][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-17.48.25:091][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-17.48.25:092][241]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-17.48.25:093][241]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-17.48.25:102][241]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-17.48.25:102][241]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-17.48.25:262][241]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-17.48.25:263][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-17.48.25:263][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-17.48.25:263][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-17.48.25:264][241]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-17.48.25:264][241]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-17.48.25:265][241]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-17.48.25:307][241]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-17.48.25:307][241]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-17.48.25:307][241]LogInit: FAudioDevice initialized.
+[2023.02.05-17.48.25:307][241]LogAudio: Display: Audio Device (ID: 10) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-17.48.25:364][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.48.25:364][241]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-17.48.25:369][241]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.05-12.48.25
+[2023.02.05-17.48.25:371][241]LogWorld: Bringing up level for play took: 0.003565
+[2023.02.05-17.48.25:371][241]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.02.05-17.48.25:389][241]PIE: Server logged in
+[2023.02.05-17.48.25:398][241]PIE: Play in editor total start time 0.402 seconds.
+[2023.02.05-17.48.31:982][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-17.48.31:983][379]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-17.48.31:985][379]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-17.48.32:026][379]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.48.32:027][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.48.32:056][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-17.48.32:211][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.48.32:306][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-17.48.32:307][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.48.32:311][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-17.48.32:412][379]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2023.02.05-17.48.32:515][380]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.02.05-17.51.14:497][650]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.51.14:497][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.51.29:988][284]LogSlate: Window 'Details' being destroyed
+[2023.02.05-17.51.30:019][284]LogSlate: Window 'Details' being destroyed
+[2023.02.05-17.51.30:019][284]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2023.02.05-17.51.30:032][284]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-17.51.30:032][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-17.51.35:072][462]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScroller/Animations/Platform.Platform
+[2023.02.05-17.55.14:822][963]LogEditorTransaction: Undo Attach Component
+[2023.02.05-17.57.26:263][282]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:264][282]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:310][283]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:357][284]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:409][285]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:458][286]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:510][287]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:557][288]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:605][289]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:653][290]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:702][291]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:748][292]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:798][293]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:848][294]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:898][295]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:946][296]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.26:994][297]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.27:043][298]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.27:095][299]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.27:147][300]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.02.05-17.57.31:198][374]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:200][374]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:249][375]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:293][376]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:331][377]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:373][378]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:431][379]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:470][380]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:533][381]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:586][382]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:640][383]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:691][384]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:730][385]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:775][386]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:828][387]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:873][388]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:932][389]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.31:972][390]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.57.32:030][391]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.58.49:646][761]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.58.49:647][761]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.58.57:407][870]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.58.57:409][870]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.59.09:737][ 52]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.59.09:738][ 52]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Platform_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.02.05-17.59.40:438][512]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
+[2023.02.05-17.59.45:447][512]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s) (887a0006)
+[2023.02.05-17.59.45:452][512]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2023.02.05-17.59.45:452][512]LogD3D11RHI: [Aftermath] GDynamicRHI=00000214FD121F80, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2023.02.05-17.59.45:452][512]LogWindows: Windows GetLastError: The operation completed successfully. (0)
