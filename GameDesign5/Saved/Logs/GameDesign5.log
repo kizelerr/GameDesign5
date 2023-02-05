@@ -3554,3 +3554,123 @@ Moving_Platform_1
 [2023.02.05-19.10.19:425][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.02.05-19.10.19:475][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
 [2023.02.05-19.10.19:506][325]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.02.05-19.15.07:648][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.02.05-19.15.07:669][679]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_Auto526C36BD84ABCDB6DECEBFD9999105511.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto5.umap'
+[2023.02.05-19.15.07:675][679]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.050
+[2023.02.05-19.15.07:675][679]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2023.02.05-19.25.56:420][119]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/Game Art/Background.png)
+[2023.02.05-19.25.56:497][119]LogTexture: Display: Building textures: Background (AutoDXT, 512X512)
+[2023.02.05-19.26.02:058][397]LogTexture: Display: Building textures: Background (BGRA8, 512X512)
+[2023.02.05-19.26.14:993][ 67]LogEditorViewport: Clicking Background
+[2023.02.05-19.26.49:538][749]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2023.02.05-19.27.14:973][666]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2023.02.05-19.27.17:675][787]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-19.27.17:684][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-19.27.17:684][787]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 9:27:17 AM)
+[2023.02.05-19.27.17:684][787]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-19.27.17:687][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002141s)
+[2023.02.05-19.27.17:688][787]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-19.27.17:688][787]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2023.02.05-19.27.17:688][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003583s)
+[2023.02.05-19.27.17:715][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.02.05-19.27.17:721][787]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.02.05-19.27.17:721][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-19.27.17:721][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-19.27.17:721][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-19.27.17:721][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-19.27.17:721][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-19.27.17:721][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-19.27.17:721][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-19.27.17:721][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-19.27.17:722][787]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-19.27.17:722][787]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-19.27.17:727][787]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-19.27.17:727][787]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-19.27.17:832][787]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-19.27.17:833][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-19.27.17:833][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-19.27.17:833][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-19.27.17:834][787]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-19.27.17:834][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-19.27.17:834][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-19.27.17:852][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-19.27.17:852][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-19.27.17:852][787]LogInit: FAudioDevice initialized.
+[2023.02.05-19.27.17:852][787]LogAudio: Display: Audio Device (ID: 26) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-19.27.17:898][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-19.27.17:898][787]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-19.27.17:900][787]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.270 Y=0.000 Z=0.267
+[2023.02.05-19.27.17:900][787]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.02.05-19.27.17:900][787]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2023.02.05-14.27.17
+[2023.02.05-19.27.17:900][787]LogWorld: Bringing up level for play took: 0.000989
+[2023.02.05-19.27.17:902][787]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.02.05-19.27.17:913][787]PIE: Server logged in
+[2023.02.05-19.27.17:915][787]PIE: Play in editor total start time 0.233 seconds.
+[2023.02.05-19.27.20:160][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-19.27.20:160][864]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-19.27.20:160][864]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-19.27.20:195][864]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-19.27.20:196][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-19.27.20:220][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-19.27.20:270][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-19.27.20:315][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-19.27.20:317][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-19.27.20:373][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.02.05-19.27.20:427][865]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.02.05-19.28.15:780][979]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.05-19.28.15:791][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-19.28.15:791][979]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 5, 2023, 9:28:15 AM)
+[2023.02.05-19.28.15:791][979]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-19.28.15:793][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001968s)
+[2023.02.05-19.28.15:794][979]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.05-19.28.15:794][979]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2023.02.05-19.28.15:794][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003222s)
+[2023.02.05-19.28.15:816][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.02.05-19.28.15:818][979]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.02.05-19.28.15:818][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-19.28.15:818][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-19.28.15:818][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-19.28.15:818][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-19.28.15:818][979]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-19.28.15:818][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-19.28.15:818][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-19.28.15:818][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-19.28.15:818][979]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.05-19.28.15:818][979]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-19.28.15:820][979]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-19.28.15:820][979]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-19.28.15:911][979]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.05-19.28.15:911][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-19.28.15:911][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-19.28.15:911][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-19.28.15:912][979]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-19.28.15:912][979]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-19.28.15:912][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-19.28.15:929][979]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-19.28.15:929][979]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-19.28.15:929][979]LogInit: FAudioDevice initialized.
+[2023.02.05-19.28.15:929][979]LogAudio: Display: Audio Device (ID: 27) registered with world '2DSideScrollerExampleMap'.
+[2023.02.05-19.28.15:989][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-19.28.15:989][979]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.05-19.28.15:991][979]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.270 Y=0.000 Z=0.267
+[2023.02.05-19.28.15:991][979]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.02.05-19.28.15:991][979]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2023.02.05-14.28.15
+[2023.02.05-19.28.15:992][979]LogWorld: Bringing up level for play took: 0.001414
+[2023.02.05-19.28.15:992][979]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.02.05-19.28.16:018][979]PIE: Server logged in
+[2023.02.05-19.28.16:022][979]PIE: Play in editor total start time 0.232 seconds.
+[2023.02.05-19.28.30:613][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-19.28.30:613][489]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.05-19.28.30:613][489]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.05-19.28.30:657][489]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-19.28.30:659][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-19.28.30:682][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-19.28.30:749][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-19.28.30:794][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-19.28.30:794][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-19.28.30:796][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-19.28.30:846][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.02.05-19.28.30:885][490]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.02.05-19.28.31:963][532]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2023.02.05-19.28.40:843][826]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.05-19.28.43:342][826]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
