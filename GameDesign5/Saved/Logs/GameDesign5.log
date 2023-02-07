@@ -648,3 +648,152 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.07-17.04.08:640][  0]MemoryProfiler: OnSessionChanged
 [2023.02.07-17.04.08:802][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
 [2023.02.07-17.04.08:803][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.07-17.04.09:228][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.07-17.04.09:228][  0]LogCook: Display: Mobile HDR setting 0
+[2023.02.07-17.04.09:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5925008316/Downloads/GameDesign5/GameDesign5/Content/' took 0.01s
+[2023.02.07-17.04.09:261][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cone.uasset'.
+[2023.02.07-17.04.09:262][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cone.uasset'.
+[2023.02.07-17.04.09:262][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cone.Cone'
+[2023.02.07-17.04.10:006][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.07-17.04.10:017][  0]LogUnrealEdMisc: Loading editor; pre map load, took 27.372
+[2023.02.07-17.04.10:020][  0]Cmd: MAP LOAD FILE="../../../../../Users/5925008316/Downloads/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.07-17.04.10:021][  0]LightingResults: New page: Lighting Build
+[2023.02.07-17.04.10:028][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-17.04.10:030][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-17.04.10:033][  0]MapCheck: New page: Map Check
+[2023.02.07-17.04.10:033][  0]LightingResults: New page: Lighting Build
+[2023.02.07-17.04.10:060][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.07-17.04.10:491][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2023.02.07-17.04.10:492][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.07-17.04.10:537][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.07-17.04.10:562][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.07-17.04.10:564][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.07-17.04.10:565][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.572ms to complete.
+[2023.02.07-17.04.10:565][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.547
+[2023.02.07-17.04.10:612][  0]LogUnrealEdMisc: Total Editor Startup Time, took 27.967
+[2023.02.07-17.04.10:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-17.04.10:861][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-17.04.10:868][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-17.04.10:874][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-17.04.10:939][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3601 classes and 859 folders.
+[2023.02.07-17.04.10:949][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.07-17.04.11:044][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.07-17.04.11:044][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:044][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.07-17.04.11:070][  0]LogPakFile: OnPakFileMounted2Time == 0.025578
+[2023.02.07-17.04.11:082][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.07-17.04.11:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.07-17.04.11:082][  0]LogPakFile: OnPakFileMounted2Time == 0.025582
+[2023.02.07-17.04.11:089][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.07-17.04.11:089][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:089][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.07-17.04.11:089][  0]LogPakFile: OnPakFileMounted2Time == 0.025586
+[2023.02.07-17.04.11:096][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.07-17.04.11:096][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:096][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.07-17.04.11:096][  0]LogPakFile: OnPakFileMounted2Time == 0.025590
+[2023.02.07-17.04.11:104][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.07-17.04.11:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.07-17.04.11:104][  0]LogPakFile: OnPakFileMounted2Time == 0.025594
+[2023.02.07-17.04.11:110][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.07-17.04.11:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.07-17.04.11:110][  0]LogPakFile: OnPakFileMounted2Time == 0.025599
+[2023.02.07-17.04.11:117][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.07-17.04.11:117][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:117][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.07-17.04.11:117][  0]LogPakFile: OnPakFileMounted2Time == 0.025602
+[2023.02.07-17.04.11:125][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.07-17.04.11:125][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:125][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.07-17.04.11:125][  0]LogPakFile: OnPakFileMounted2Time == 0.025607
+[2023.02.07-17.04.11:133][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.07-17.04.11:133][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:133][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.07-17.04.11:133][  0]LogPakFile: OnPakFileMounted2Time == 0.025611
+[2023.02.07-17.04.11:141][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.07-17.04.11:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.07-17.04.11:141][  0]LogPakFile: OnPakFileMounted2Time == 0.025614
+[2023.02.07-17.04.11:148][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.07-17.04.11:148][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.07-17.04.11:148][  0]LogPakFile: OnPakFileMounted2Time == 0.025618
+[2023.02.07-17.04.11:155][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.07-17.04.11:155][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.07-17.04.11:155][  0]LogPakFile: OnPakFileMounted2Time == 0.025621
+[2023.02.07-17.04.11:165][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.07-17.04.11:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.07-17.04.11:165][  0]LogPakFile: OnPakFileMounted2Time == 0.025626
+[2023.02.07-17.04.11:175][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.07-17.04.11:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.07-17.04.11:175][  0]LogPakFile: OnPakFileMounted2Time == 0.025630
+[2023.02.07-17.04.11:182][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.07-17.04.11:182][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:182][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.07-17.04.11:182][  0]LogPakFile: OnPakFileMounted2Time == 0.025634
+[2023.02.07-17.04.11:190][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.07-17.04.11:190][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:190][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.07-17.04.11:190][  0]LogPakFile: OnPakFileMounted2Time == 0.025638
+[2023.02.07-17.04.11:197][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.07-17.04.11:197][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:197][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.07-17.04.11:197][  0]LogPakFile: OnPakFileMounted2Time == 0.025642
+[2023.02.07-17.04.11:204][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.07-17.04.11:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.07-17.04.11:204][  0]LogPakFile: OnPakFileMounted2Time == 0.025646
+[2023.02.07-17.04.11:211][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.07-17.04.11:211][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:211][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.07-17.04.11:211][  0]LogPakFile: OnPakFileMounted2Time == 0.025652
+[2023.02.07-17.04.11:221][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.07-17.04.11:221][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:221][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.07-17.04.11:221][  0]LogPakFile: OnPakFileMounted2Time == 0.025656
+[2023.02.07-17.04.11:227][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.07-17.04.11:227][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:227][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.07-17.04.11:227][  0]LogPakFile: OnPakFileMounted2Time == 0.025660
+[2023.02.07-17.04.11:234][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.07-17.04.11:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.07-17.04.11:234][  0]LogPakFile: OnPakFileMounted2Time == 0.025664
+[2023.02.07-17.04.11:240][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.07-17.04.11:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.07-17.04.11:240][  0]LogPakFile: OnPakFileMounted2Time == 0.025668
+[2023.02.07-17.04.11:247][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.07-17.04.11:247][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:248][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.07-17.04.11:248][  0]LogPakFile: OnPakFileMounted2Time == 0.025672
+[2023.02.07-17.04.11:254][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.07-17.04.11:254][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.07-17.04.11:254][  0]LogPakFile: OnPakFileMounted2Time == 0.025675
+[2023.02.07-17.04.11:260][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.07-17.04.11:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.07-17.04.11:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.07-17.04.11:260][  0]LogPakFile: OnPakFileMounted2Time == 0.025679
+[2023.02.07-17.04.11:674][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.07-17.04.11:682][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.02.07-17.04.11:860][  0]LogSlate: Took 0.005855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.07-17.04.11:869][  0]LogSlate: Took 0.006438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.07-17.04.11:881][  0]LogSlate: Took 0.007084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.07-17.04.12:078][  0]LogRenderer: Reallocating scene render targets to support 1100x640 Format 10 NumSamples 1 (Frame:1).
+[2023.02.07-17.04.12:640][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.07-17.04.12:640][  0]LogLoad: (Engine Initialization) Total time: 29.99 seconds
+[2023.02.07-17.04.12:640][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.07-17.04.12:640][  0]LogInit: First time updating LLM stats...
+[2023.02.07-17.04.12:681][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cone.uasset'.
+[2023.02.07-17.04.12:682][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cone.uasset'.
+[2023.02.07-17.04.12:682][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cone.Cone'
+[2023.02.07-17.04.12:715][  0]LogAssetRegistry: Asset discovery search completed in 14.0047 seconds
+[2023.02.07-17.04.12:718][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000422 seconds (updated 0 objects)
+[2023.02.07-17.04.12:770][  0]LogContentStreaming: Texture pool size now 1000 MB
