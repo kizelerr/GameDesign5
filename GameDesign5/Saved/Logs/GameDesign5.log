@@ -7272,3 +7272,1175 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.07-02.13.03:936][866]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.07-02.13.03:936][866]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2023.02.07-02.13.03:936][866]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.02.07-02.14.05:063][519]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-02.14.05:073][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-02.14.05:073][519]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 6, 2023, 4:14:05 PM)
+[2023.02.07-02.14.05:073][519]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.14.05:075][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002499s)
+[2023.02.07-02.14.05:076][519]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.07-02.14.05:077][519]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2023.02.07-02.14.05:077][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003880s)
+[2023.02.07-02.14.05:093][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.07-02.14.05:094][519]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.02.07-02.14.05:094][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-02.14.05:094][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-02.14.05:094][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-02.14.05:094][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-02.14.05:094][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-02.14.05:094][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-02.14.05:094][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-02.14.05:094][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-02.14.05:095][519]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.07-02.14.05:095][519]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-02.14.05:098][519]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-02.14.05:098][519]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-02.14.05:179][519]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.07-02.14.05:179][519]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-02.14.05:179][519]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-02.14.05:180][519]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-02.14.05:180][519]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-02.14.05:180][519]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-02.14.05:180][519]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-02.14.05:194][519]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-02.14.05:194][519]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-02.14.05:194][519]LogInit: FAudioDevice initialized.
+[2023.02.07-02.14.05:194][519]LogAudio: Display: Audio Device (ID: 38) registered with world '2DSideScrollerExampleMap'.
+[2023.02.07-02.14.05:236][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.14.05:236][519]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.07-02.14.05:239][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.14.05:239][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.14.05:239][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.14.05:239][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.14.05:239][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.14.05:239][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.14.05:239][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.14.05:240][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.14.05:240][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.14.05:240][519]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.14.05:240][519]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.06-21.14.05
+[2023.02.07-02.14.05:240][519]LogWorld: Bringing up level for play took: 0.002909
+[2023.02.07-02.14.05:241][519]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.02.07-02.14.05:248][519]PIE: Server logged in
+[2023.02.07-02.14.05:251][519]PIE: Play in editor total start time 0.18 seconds.
+[2023.02.07-02.14.47:096][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.14.47:096][994]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.14.47:097][994]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.07-02.14.47:164][994]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.14.47:165][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.14.47:185][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-02.14.47:230][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.14.47:268][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.14.47:271][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.14.47:322][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.02.07-02.14.47:354][995]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.02.07-02.16.33:699][690]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/New_TileMap8C1DE6D54D585DB6F6605DBFFB412888.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScroller/Textures/New_TileMap.uasset'
+[2023.02.07-02.16.33:746][690]AssetCheck: New page: Asset Save: New_TileMap
+[2023.02.07-02.16.33:746][690]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/New_TileMap.New_TileMap
+[2023.02.07-02.16.42:626][958]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.07-02.16.50:128][206]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.07-02.16.54:537][384]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.07-02.16.56:151][448]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.07-02.16.58:623][593]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-02.16.58:635][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-02.16.58:635][593]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 6, 2023, 4:16:58 PM)
+[2023.02.07-02.16.58:635][593]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.16.58:638][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002603s)
+[2023.02.07-02.16.58:639][593]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.07-02.16.58:639][593]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2023.02.07-02.16.58:640][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004029s)
+[2023.02.07-02.16.58:662][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.02.07-02.16.58:668][593]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.02.07-02.16.58:668][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-02.16.58:668][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-02.16.58:668][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-02.16.58:668][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-02.16.58:668][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-02.16.58:668][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-02.16.58:668][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-02.16.58:668][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-02.16.58:669][593]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.07-02.16.58:669][593]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-02.16.58:672][593]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-02.16.58:672][593]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-02.16.58:781][593]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.07-02.16.58:782][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-02.16.58:782][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-02.16.58:782][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-02.16.58:783][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-02.16.58:783][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-02.16.58:783][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-02.16.58:810][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-02.16.58:810][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-02.16.58:810][593]LogInit: FAudioDevice initialized.
+[2023.02.07-02.16.58:810][593]LogAudio: Display: Audio Device (ID: 39) registered with world '2DSideScrollerExampleMap'.
+[2023.02.07-02.16.58:863][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.16.58:863][593]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.07-02.16.58:867][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.16.58:867][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.16.58:867][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.16.58:867][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.16.58:867][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.16.58:867][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.16.58:868][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.16.58:868][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.16.58:868][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.16.58:868][593]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.16.58:868][593]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.06-21.16.58
+[2023.02.07-02.16.58:868][593]LogWorld: Bringing up level for play took: 0.003985
+[2023.02.07-02.16.58:869][593]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2023.02.07-02.16.58:877][593]PIE: Server logged in
+[2023.02.07-02.16.58:882][593]PIE: Play in editor total start time 0.248 seconds.
+[2023.02.07-02.17.17:992][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.17.17:993][271]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.17.17:994][271]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.07-02.17.18:026][271]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.17.18:027][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.17.18:047][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-02.17.18:084][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.17.18:116][271]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-02.17.18:116][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.17.18:118][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.17.18:169][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.02.07-02.17.18:201][272]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.02.07-02.17.20:834][377]LogEditorViewport: Clicking on Actor (LMB): Side-Side1_C (Side-Side2)
+[2023.02.07-02.17.22:061][424]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:062][424]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:064][424]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:082][425]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:083][425]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:085][425]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:115][426]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:117][426]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:120][426]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:140][427]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:142][427]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:145][427]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:169][428]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:170][428]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:172][428]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:193][429]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:194][429]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:195][429]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:225][430]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:226][430]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:228][430]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:246][431]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:247][431]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:247][431]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:281][432]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:282][432]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:282][432]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:303][433]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:305][433]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:308][433]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:326][434]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:328][434]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:329][434]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:361][435]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:362][435]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:363][435]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:386][436]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:387][436]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:388][436]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:412][437]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:413][437]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:413][437]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:437][438]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:438][438]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:438][438]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:461][439]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:462][439]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:463][439]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:484][440]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:485][440]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:485][440]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:510][441]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:510][441]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:510][441]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:731][450]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:731][450]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:732][450]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:780][452]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:780][452]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:780][452]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:805][453]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:806][453]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:807][453]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:902][457]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:902][457]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:902][457]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:951][459]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:951][459]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:952][459]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:979][460]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.22:979][460]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.22:981][460]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.23:051][463]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.23:051][463]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.23:051][463]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.23:313][474]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.23:313][474]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.23:313][474]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.23:338][475]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.17.23:338][475]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.23:339][475]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.17.24:078][504]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2023.02.07-02.17.24:972][534]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2023.02.07-02.17.29:901][721]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2023.02.07-02.17.31:931][799]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.07-02.17.37:304][ 11]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.07-02.17.38:752][ 66]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.07-02.18.29:710][205]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/New_TileMap2355C7F24C730494B377FFA92C7B2311.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScroller/Textures/New_TileMap.uasset'
+[2023.02.07-02.18.29:768][205]AssetCheck: New page: Asset Save: New_TileMap
+[2023.02.07-02.18.29:768][205]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/New_TileMap.New_TileMap
+[2023.02.07-02.18.35:096][307]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-02.18.35:134][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-02.18.35:134][307]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 6, 2023, 4:18:35 PM)
+[2023.02.07-02.18.35:135][307]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.18.35:149][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014236s)
+[2023.02.07-02.18.35:153][307]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.07-02.18.35:154][307]LogPlayLevel: PIE: World Init took: (0.004863s)
+[2023.02.07-02.18.35:154][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.019723s)
+[2023.02.07-02.18.35:235][307]LogUObjectHash: Compacting FUObjectHashTables data took  12.24ms
+[2023.02.07-02.18.35:251][307]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.02.07-02.18.35:251][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-02.18.35:251][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-02.18.35:252][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-02.18.35:252][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-02.18.35:252][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-02.18.35:252][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-02.18.35:252][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-02.18.35:252][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-02.18.35:255][307]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.07-02.18.35:255][307]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-02.18.35:263][307]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-02.18.35:263][307]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-02.18.35:474][307]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.07-02.18.35:475][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-02.18.35:475][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-02.18.35:475][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-02.18.35:477][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-02.18.35:477][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-02.18.35:477][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-02.18.35:528][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-02.18.35:529][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-02.18.35:529][307]LogInit: FAudioDevice initialized.
+[2023.02.07-02.18.35:529][307]LogAudio: Display: Audio Device (ID: 40) registered with world '2DSideScrollerExampleMap'.
+[2023.02.07-02.18.35:597][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.18.35:597][307]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.07-02.18.35:605][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.18.35:606][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.35:606][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.18.35:607][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.35:607][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.18.35:608][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.35:608][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.18.35:608][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.35:609][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.18.35:609][307]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.35:610][307]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.06-21.18.35
+[2023.02.07-02.18.35:611][307]LogWorld: Bringing up level for play took: 0.010166
+[2023.02.07-02.18.35:611][307]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2023.02.07-02.18.35:630][307]PIE: Server logged in
+[2023.02.07-02.18.35:633][307]PIE: Play in editor total start time 0.506 seconds.
+[2023.02.07-02.18.49:386][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.18.49:387][583]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.18.49:390][583]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.07-02.18.49:507][583]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.18.49:509][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.18.49:535][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-02.18.49:611][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.18.49:663][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-02.18.49:663][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.18.49:666][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.18.49:742][583]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2023.02.07-02.18.49:789][584]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.02.07-02.18.52:081][670]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-02.18.52:102][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-02.18.52:102][670]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 6, 2023, 4:18:52 PM)
+[2023.02.07-02.18.52:102][670]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.18.52:108][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005603s)
+[2023.02.07-02.18.52:110][670]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.07-02.18.52:110][670]LogPlayLevel: PIE: World Init took: (0.002262s)
+[2023.02.07-02.18.52:110][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.008128s)
+[2023.02.07-02.18.52:146][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2023.02.07-02.18.52:147][670]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.02.07-02.18.52:147][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-02.18.52:148][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-02.18.52:148][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-02.18.52:148][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-02.18.52:148][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-02.18.52:148][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-02.18.52:148][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-02.18.52:148][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-02.18.52:148][670]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.07-02.18.52:149][670]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-02.18.52:153][670]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-02.18.52:153][670]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-02.18.52:298][670]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.07-02.18.52:299][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-02.18.52:299][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-02.18.52:299][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-02.18.52:300][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-02.18.52:300][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-02.18.52:300][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-02.18.52:330][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-02.18.52:330][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-02.18.52:330][670]LogInit: FAudioDevice initialized.
+[2023.02.07-02.18.52:330][670]LogAudio: Display: Audio Device (ID: 41) registered with world '2DSideScrollerExampleMap'.
+[2023.02.07-02.18.52:388][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.18.52:389][670]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.07-02.18.52:394][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.18.52:395][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.52:395][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.18.52:395][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.52:396][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.18.52:396][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.52:396][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.18.52:397][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.52:397][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.18.52:398][670]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.18.52:398][670]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.06-21.18.52
+[2023.02.07-02.18.52:399][670]LogWorld: Bringing up level for play took: 0.008425
+[2023.02.07-02.18.52:399][670]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.02.07-02.18.52:411][670]PIE: Server logged in
+[2023.02.07-02.18.52:415][670]PIE: Play in editor total start time 0.316 seconds.
+[2023.02.07-02.19.02:173][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.19.02:173][960]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.19.02:174][960]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.07-02.19.02:250][960]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.19.02:251][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.19.02:273][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-02.19.02:322][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.19.02:363][960]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-02.19.02:364][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.19.02:368][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.19.02:430][960]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2023.02.07-02.19.02:469][961]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.02.07-02.19.05:570][135]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-02.19.05:581][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-02.19.05:581][135]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 6, 2023, 4:19:05 PM)
+[2023.02.07-02.19.05:581][135]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.19.05:584][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002997s)
+[2023.02.07-02.19.05:585][135]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.07-02.19.05:586][135]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2023.02.07-02.19.05:586][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004787s)
+[2023.02.07-02.19.05:607][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.02.07-02.19.05:608][135]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.02.07-02.19.05:608][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-02.19.05:608][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-02.19.05:608][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-02.19.05:608][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-02.19.05:608][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-02.19.05:608][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-02.19.05:608][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-02.19.05:608][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-02.19.05:608][135]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.07-02.19.05:609][135]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-02.19.05:611][135]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-02.19.05:611][135]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-02.19.05:727][135]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.07-02.19.05:727][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-02.19.05:727][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-02.19.05:727][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-02.19.05:728][135]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-02.19.05:728][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-02.19.05:728][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-02.19.05:745][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-02.19.05:745][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-02.19.05:745][135]LogInit: FAudioDevice initialized.
+[2023.02.07-02.19.05:746][135]LogAudio: Display: Audio Device (ID: 42) registered with world '2DSideScrollerExampleMap'.
+[2023.02.07-02.19.05:805][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.19.05:806][135]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.07-02.19.05:812][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.19.05:813][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.19.05:813][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.19.05:813][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.19.05:813][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.19.05:813][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.19.05:813][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.19.05:813][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.19.05:813][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.19.05:814][135]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.19.05:814][135]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.06-21.19.05
+[2023.02.07-02.19.05:814][135]LogWorld: Bringing up level for play took: 0.006375
+[2023.02.07-02.19.05:814][135]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.02.07-02.19.05:822][135]PIE: Server logged in
+[2023.02.07-02.19.05:824][135]PIE: Play in editor total start time 0.244 seconds.
+[2023.02.07-02.19.36:930][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.19.36:931][233]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.19.36:932][233]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.07-02.19.36:992][233]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.19.36:993][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.19.37:013][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-02.19.37:049][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.19.37:083][233]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-02.19.37:083][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.19.37:085][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.19.37:137][233]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.02.07-02.19.37:169][234]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.02.07-02.20.26:662][455]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/New_TileMap318A88EE4E898C2408B1AAA2E470781D.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScroller/Textures/New_TileMap.uasset'
+[2023.02.07-02.20.26:710][455]AssetCheck: New page: Asset Save: New_TileMap
+[2023.02.07-02.20.26:710][455]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/New_TileMap.New_TileMap
+[2023.02.07-02.20.31:126][624]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-02.20.31:140][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-02.20.31:140][624]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 6, 2023, 4:20:31 PM)
+[2023.02.07-02.20.31:140][624]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.20.31:145][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004501s)
+[2023.02.07-02.20.31:146][624]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.07-02.20.31:146][624]LogPlayLevel: PIE: World Init took: (0.001801s)
+[2023.02.07-02.20.31:146][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006509s)
+[2023.02.07-02.20.31:175][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.02.07-02.20.31:180][624]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.02.07-02.20.31:180][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-02.20.31:180][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-02.20.31:180][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-02.20.31:180][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-02.20.31:180][624]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-02.20.31:180][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-02.20.31:180][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-02.20.31:180][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-02.20.31:180][624]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.07-02.20.31:180][624]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-02.20.31:184][624]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-02.20.31:184][624]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-02.20.31:299][624]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.07-02.20.31:300][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-02.20.31:300][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-02.20.31:300][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-02.20.31:301][624]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-02.20.31:301][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-02.20.31:301][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-02.20.31:323][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-02.20.31:323][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-02.20.31:323][624]LogInit: FAudioDevice initialized.
+[2023.02.07-02.20.31:323][624]LogAudio: Display: Audio Device (ID: 43) registered with world '2DSideScrollerExampleMap'.
+[2023.02.07-02.20.31:370][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.20.31:370][624]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.07-02.20.31:374][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.20.31:374][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.20.31:374][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.20.31:375][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.20.31:375][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.20.31:375][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.20.31:375][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.20.31:376][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.20.31:376][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.20.31:376][624]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.20.31:376][624]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.02.06-21.20.31
+[2023.02.07-02.20.31:377][624]LogWorld: Bringing up level for play took: 0.005169
+[2023.02.07-02.20.31:377][624]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.02.07-02.20.31:388][624]PIE: Server logged in
+[2023.02.07-02.20.31:391][624]PIE: Play in editor total start time 0.252 seconds.
+[2023.02.07-02.20.54:002][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.20.54:002][243]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.20.54:003][243]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.07-02.20.54:077][243]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.20.54:078][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.20.54:103][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-02.20.54:169][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.20.54:217][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-02.20.54:218][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.20.54:221][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.20.54:301][243]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2023.02.07-02.20.54:350][244]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.02.07-02.20.59:813][414]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2023.02.07-02.20.59:851][414]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap0DBA0B3D4F04F5B10349ACB97FC3AEF8.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.02.07-02.20.59:900][414]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap_BuiltDaCBBC24A8461B43A22440D2BC83A99525.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2023.02.07-02.20.59:943][414]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.07-02.20.59:943][414]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.02.07-02.20.59:943][414]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.02.07-02.22.30:319][727]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.07-02.22.33:774][866]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.07-02.22.45:760][363]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-02.22.45:772][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-02.22.45:773][363]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 6, 2023, 4:22:45 PM)
+[2023.02.07-02.22.45:773][363]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.22.45:776][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003676s)
+[2023.02.07-02.22.45:777][363]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.07-02.22.45:778][363]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2023.02.07-02.22.45:778][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005506s)
+[2023.02.07-02.22.45:799][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.02.07-02.22.45:816][363]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.02.07-02.22.45:816][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-02.22.45:816][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-02.22.45:816][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-02.22.45:816][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-02.22.45:816][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-02.22.45:816][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-02.22.45:816][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-02.22.45:816][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-02.22.45:817][363]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.07-02.22.45:817][363]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-02.22.45:819][363]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-02.22.45:820][363]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-02.22.45:938][363]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.07-02.22.45:938][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-02.22.45:938][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-02.22.45:940][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-02.22.45:940][363]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-02.22.45:940][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-02.22.45:940][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-02.22.45:962][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-02.22.45:962][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-02.22.45:962][363]LogInit: FAudioDevice initialized.
+[2023.02.07-02.22.45:962][363]LogAudio: Display: Audio Device (ID: 44) registered with world '2DSideScrollerExampleMap'.
+[2023.02.07-02.22.46:021][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.22.46:022][363]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.07-02.22.46:029][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.22.46:030][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.22.46:030][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.22.46:031][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.22.46:031][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.22.46:031][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.22.46:031][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.22.46:032][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.22.46:032][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.22.46:032][363]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.22.46:032][363]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2023.02.06-21.22.46
+[2023.02.07-02.22.46:033][363]LogWorld: Bringing up level for play took: 0.008555
+[2023.02.07-02.22.46:033][363]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2023.02.07-02.22.46:044][363]PIE: Server logged in
+[2023.02.07-02.22.46:047][363]PIE: Play in editor total start time 0.276 seconds.
+[2023.02.07-02.22.50:772][542]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.07-02.22.50:827][542]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.22.50:828][542]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.22.50:829][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.22.50:842][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-02.22.50:884][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.22.50:917][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-02.22.50:918][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.22.50:919][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.22.50:977][542]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.02.07-02.22.51:019][543]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.02.07-02.24.54:332][192]Cmd: TRANSACTION UNDO
+[2023.02.07-02.24.54:332][192]LogEditorTransaction: Undo Tile Painting
+[2023.02.07-02.29.20:986][284]Cmd: TRANSACTION UNDO
+[2023.02.07-02.29.20:986][284]LogEditorTransaction: Undo Tile Painting
+[2023.02.07-02.30.02:229][312]Cmd: TRANSACTION UNDO
+[2023.02.07-02.30.02:229][312]LogEditorTransaction: Undo Tile Painting
+[2023.02.07-02.30.02:798][322]Cmd: TRANSACTION UNDO
+[2023.02.07-02.30.02:798][322]LogEditorTransaction: Undo Tile Painting
+[2023.02.07-02.30.08:243][451]Cmd: TRANSACTION UNDO
+[2023.02.07-02.30.08:243][451]LogEditorTransaction: Undo Tile Painting
+[2023.02.07-02.30.29:745][955]Cmd: TRANSACTION UNDO
+[2023.02.07-02.30.29:746][955]LogEditorTransaction: Undo Tile Painting
+[2023.02.07-02.30.30:249][963]Cmd: TRANSACTION UNDO
+[2023.02.07-02.30.30:249][963]LogEditorTransaction: Undo Tile Painting
+[2023.02.07-02.30.30:832][992]Cmd: TRANSACTION UNDO
+[2023.02.07-02.30.30:833][992]LogEditorTransaction: Undo Tile Painting
+[2023.02.07-02.31.15:545][962]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/New_TileMapA5A5310C49C89287A4D7E5A28778F30F.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScroller/Textures/New_TileMap.uasset'
+[2023.02.07-02.31.15:586][962]AssetCheck: New page: Asset Save: New_TileMap
+[2023.02.07-02.31.15:586][962]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/New_TileMap.New_TileMap
+[2023.02.07-02.31.20:495][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.02.07-02.31.20:555][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.02.07-02.31.20:569][196]LogSavePackage: Moving '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Saved/2DSideScrollerExampleMap631D908340EB704D8A2EB28D84403A2D.tmp' to '../../../../../../Users/5926000435/OneDrive - School Board of Seminole County/Desktop/Gaming/GameDesignCo-Op/GameDesign5/GameDesign5/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.02.07-02.31.20:581][196]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.050
+[2023.02.07-02.31.20:600][196]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
+[2023.02.07-02.31.20:600][196]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.02.07-02.31.31:163][578]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-02.31.31:175][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-02.31.31:176][578]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 6, 2023, 4:31:31 PM)
+[2023.02.07-02.31.31:176][578]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.31.31:179][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003169s)
+[2023.02.07-02.31.31:180][578]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.02.07-02.31.31:181][578]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2023.02.07-02.31.31:181][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004808s)
+[2023.02.07-02.31.31:206][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.02.07-02.31.31:227][578]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.02.07-02.31.31:227][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-02.31.31:227][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-02.31.31:227][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-02.31.31:227][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-02.31.31:227][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-02.31.31:227][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-02.31.31:227][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-02.31.31:227][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-02.31.31:228][578]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.07-02.31.31:228][578]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-02.31.31:232][578]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-02.31.31:232][578]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-02.31.31:348][578]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.07-02.31.31:348][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-02.31.31:349][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-02.31.31:349][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-02.31.31:350][578]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-02.31.31:350][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-02.31.31:350][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-02.31.31:386][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-02.31.31:386][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-02.31.31:386][578]LogInit: FAudioDevice initialized.
+[2023.02.07-02.31.31:386][578]LogAudio: Display: Audio Device (ID: 45) registered with world '2DSideScrollerExampleMap'.
+[2023.02.07-02.31.31:427][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.31.31:427][578]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.02.07-02.31.31:431][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.31.31:431][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform_2.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.31.31:431][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.31.31:431][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform2_5.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.31.31:431][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.175 Y=0.000 Z=0.669
+[2023.02.07-02.31.31:431][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Platform3.PaperTileMap has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.31.31:431][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.31.31:432][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side1_2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.31.31:432][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Box has a component set to zero, which will result in a bad body instance. Scale:X=3.144 Y=0.000 Z=0.656
+[2023.02.07-02.31.31:432][578]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Side-Side2.Side-Side has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=2.500
+[2023.02.07-02.31.31:432][578]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2023.02.06-21.31.31
+[2023.02.07-02.31.31:433][578]LogWorld: Bringing up level for play took: 0.004340
+[2023.02.07-02.31.31:433][578]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.02.07-02.31.31:446][578]PIE: Server logged in
+[2023.02.07-02.31.31:448][578]PIE: Play in editor total start time 0.274 seconds.
+[2023.02.07-02.31.49:192][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-02.31.49:192][222]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.02.07-02.31.49:194][222]LogSlate: Window 'GameDesign5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.07-02.31.49:217][222]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.31.49:218][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.31.49:233][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-02.31.49:277][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.31.49:309][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-02.31.49:309][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.31.49:311][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.31.49:368][222]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2023.02.07-02.31.49:407][223]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.02.07-02.31.55:056][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.02.07-02.32.12:516][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.02.07-02.32.12:528][212]LogSlate: Window 'New_TileMap' being destroyed
+[2023.02.07-02.32.12:548][212]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.32.12:549][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-02.32.12:632][212]LogSlate: Window 'GameDesign5 - Unreal Editor' being destroyed
+[2023.02.07-02.32.12:893][213]Cmd: QUIT_EDITOR
+[2023.02.07-02.32.12:893][213]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.07-02.32.12:906][213]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.07-02.32.13:023][213]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.07-02.32.13:023][213]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.07-02.32.13:023][213]LogAudio: Display: Audio Device unregistered from world '2DSideScrollerExampleMap'.
+[2023.02.07-02.32.13:023][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.32.13:027][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-02.32.13:141][213]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.07-02.32.13:143][213]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.07-02.32.13:163][213]LogExit: Preparing to exit.
+[2023.02.07-02.32.13:537][213]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289467A00] Windows
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289467900] Default__DeviceProfile
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946C700] WindowsNoEditor
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289464700] WindowsServer
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946F600] WindowsClient
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289467500] IOS
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946CC00] iPadAir
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289464C00] iPadAir2
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289425200] IPadPro
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289425300] iPadAir3
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289467300] iPadAir4
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289424C00] iPadMini2
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289465800] iPadMini3
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289426100] iPadMini4
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289466B00] iPadMini5
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946E700] iPhone6
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946E600] iPodTouch6
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289427700] iPhone7
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289427500] iPodTouch7
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946F200] iPhone5S
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289424100] iPhone6Plus
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946DA00] iPhone6S
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289426000] iPhone6SPlus
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946FF00] iPhone7Plus
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289424600] iPhoneSE
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946EF00] iPhone8
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [0000027289426700] iPhone8Plus
+[2023.02.07-02.32.13:595][213]LogDeviceProfile: Device profile begin destroy: [000002728946D900] iPhoneX
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289425E00] iPhoneXS
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946E400] iPhoneXSMax
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289425000] iPhoneXR
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946E900] iPhone11
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289427100] iPhone11Pro
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946FC00] iPhone11ProMax
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289425400] iPhoneSE2
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946F900] iPhone12Mini
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289424500] iPhone12
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946C500] iPhone12Pro
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289424D00] iPhone12ProMax
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946DD00] iPadPro105
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289427200] iPadPro129
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946C300] iPadPro97
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289425100] iPadPro2_129
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946CE00] iPad5
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289424B00] iPad6
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946ED00] iPad7
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289426400] iPad8
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946D400] iPadPro11
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289425500] iPadPro2_11
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946FD00] iPadPro3_129
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289426200] iPadPro4_129
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946E000] AppleTV
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289427300] AppleTV4K
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946E500] TVOS
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289427400] Mac
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946DF00] MacClient
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289424200] MacNoEditor
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946D600] MacServer
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289425800] Linux
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946F500] LinuxAArch64
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289425F00] LinuxNoEditor
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946FA00] LinuxAArch64NoEditor
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289426300] LinuxClient
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [000002728946E800] LinuxAArch64Client
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289465400] LinuxServer
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289511300] LinuxAArch64Server
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289467B00] Android
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289510B00] Android_Low
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289466200] Android_Mid
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289511900] Android_High
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289466F00] Android_Default
+[2023.02.07-02.32.13:596][213]LogDeviceProfile: Device profile begin destroy: [0000027289510300] Android_Adreno4xx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289467100] Android_Adreno5xx_Low
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289510100] Android_Adreno5xx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289465500] Android_Adreno6xx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289511200] Android_Adreno6xx_Vulkan
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289466700] Android_Mali_T6xx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289510C00] Android_Mali_T7xx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289464B00] Android_Mali_T8xx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289510700] Android_Mali_G71
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289465B00] Android_Mali_G72
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289510F00] Android_Mali_G72_Vulkan
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289465100] Android_Mali_G76
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289510200] Android_Mali_G76_Vulkan
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [000002728946F300] Android_Mali_G77
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289427800] Android_Mali_G77_Vulkan
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [000002728946EC00] Android_Vulkan_SM5
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289427D00] Android_PowerVR_G6xxx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [000002728946D300] Android_PowerVR_GT7xxx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289426C00] Android_PowerVR_GE8xxx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [000002728946DC00] Android_PowerVR_GM9xxx
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289427B00] Android_PowerVR_GM9xxx_Vulkan
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [000002728946C800] Android_TegraK1
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289426B00] Android_Unknown_Vulkan
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [000002728946F400] Lumin
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [0000027289425700] Lumin_Desktop
+[2023.02.07-02.32.13:597][213]LogDeviceProfile: Device profile begin destroy: [000002728946FE00] HoloLens
+[2023.02.07-02.32.13:656][213]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-02.32.13:656][213]LogExit: Editor shut down
+[2023.02.07-02.32.13:659][213]LogExit: Transaction tracking system shut down
+[2023.02.07-02.32.13:679][213]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.02.07-02.32.14:347][213]LogExit: Object subsystem successfully closed.
+[2023.02.07-02.32.14:397][213]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.02.07-02.32.14:489][213]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (822)
+[2023.02.07-02.32.14:489][213]LogModuleManager: Shutting down and abandoning module Voice (820)
+[2023.02.07-02.32.14:489][213]LogModuleManager: Shutting down and abandoning module BlueprintGraph (818)
+[2023.02.07-02.32.14:489][213]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2023.02.07-02.32.14:489][213]LogModuleManager: Shutting down and abandoning module SceneOutliner (814)
+[2023.02.07-02.32.14:489][213]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2023.02.07-02.32.14:493][213]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2023.02.07-02.32.14:493][213]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2023.02.07-02.32.14:493][213]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2023.02.07-02.32.14:494][213]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2023.02.07-02.32.14:494][213]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2023.02.07-02.32.14:494][213]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2023.02.07-02.32.14:494][213]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2023.02.07-02.32.14:494][213]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2023.02.07-02.32.14:494][213]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2023.02.07-02.32.14:495][213]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2023.02.07-02.32.14:495][213]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2023.02.07-02.32.14:495][213]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (788)
+[2023.02.07-02.32.14:495][213]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (786)
+[2023.02.07-02.32.14:495][213]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (784)
+[2023.02.07-02.32.14:496][213]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (782)
+[2023.02.07-02.32.14:496][213]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (780)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (778)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (776)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (774)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module WebMMedia (772)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (770)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (768)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module SequenceRecorder (767)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (764)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (762)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (760)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (758)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (756)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module TextureAlignMode (754)
+[2023.02.07-02.32.14:497][213]LogModuleManager: Shutting down and abandoning module BspMode (752)
+[2023.02.07-02.32.14:498][213]LogModuleManager: Shutting down and abandoning module GeometryMode (750)
+[2023.02.07-02.32.14:498][213]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (748)
+[2023.02.07-02.32.14:498][213]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (746)
+[2023.02.07-02.32.14:498][213]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2023.02.07-02.32.14:498][213]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (742)
+[2023.02.07-02.32.14:498][213]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (740)
+[2023.02.07-02.32.14:498][213]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (738)
+[2023.02.07-02.32.14:498][213]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2023.02.07-02.32.14:498][213]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2023.02.07-02.32.14:499][213]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2023.02.07-02.32.14:499][213]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2023.02.07-02.32.14:499][213]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2023.02.07-02.32.14:499][213]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2023.02.07-02.32.14:499][213]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2023.02.07-02.32.14:500][213]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2023.02.07-02.32.14:500][213]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2023.02.07-02.32.14:500][213]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2023.02.07-02.32.14:500][213]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2023.02.07-02.32.14:501][213]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2023.02.07-02.32.14:501][213]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2023.02.07-02.32.14:501][213]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2023.02.07-02.32.14:502][213]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2023.02.07-02.32.14:503][213]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2023.02.07-02.32.14:504][213]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2023.02.07-02.32.14:505][213]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2023.02.07-02.32.14:505][213]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2023.02.07-02.32.14:505][213]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2023.02.07-02.32.14:505][213]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2023.02.07-02.32.14:505][213]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2023.02.07-02.32.15:141][213]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2023.02.07-02.32.15:142][213]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2023.02.07-02.32.15:142][213]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2023.02.07-02.32.15:142][213]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2023.02.07-02.32.15:142][213]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2023.02.07-02.32.15:146][213]MemoryProfiler: Shutdown
+[2023.02.07-02.32.15:146][213]NetworkingProfiler: Shutdown
+[2023.02.07-02.32.15:146][213]LoadingProfiler: Shutdown
+[2023.02.07-02.32.15:147][213]TimingProfiler: Shutdown
+[2023.02.07-02.32.15:149][213]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2023.02.07-02.32.15:151][213]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2023.02.07-02.32.15:151][213]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2023.02.07-02.32.15:151][213]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2023.02.07-02.32.15:151][213]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2023.02.07-02.32.15:151][213]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2023.02.07-02.32.15:152][213]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2023.02.07-02.32.15:152][213]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2023.02.07-02.32.15:152][213]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2023.02.07-02.32.15:152][213]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2023.02.07-02.32.15:152][213]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2023.02.07-02.32.15:152][213]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2023.02.07-02.32.15:152][213]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2023.02.07-02.32.15:152][213]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2023.02.07-02.32.15:153][213]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2023.02.07-02.32.15:153][213]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2023.02.07-02.32.15:153][213]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2023.02.07-02.32.15:153][213]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2023.02.07-02.32.15:153][213]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2023.02.07-02.32.15:154][213]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2023.02.07-02.32.15:155][213]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2023.02.07-02.32.15:155][213]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2023.02.07-02.32.15:188][213]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2023.02.07-02.32.15:188][213]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2023.02.07-02.32.15:189][213]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2023.02.07-02.32.15:192][213]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2023.02.07-02.32.15:192][213]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2023.02.07-02.32.15:193][213]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2023.02.07-02.32.15:194][213]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2023.02.07-02.32.15:197][213]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2023.02.07-02.32.15:198][213]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2023.02.07-02.32.15:198][213]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2023.02.07-02.32.15:198][213]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2023.02.07-02.32.15:225][213]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2023.02.07-02.32.15:225][213]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2023.02.07-02.32.15:225][213]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2023.02.07-02.32.15:225][213]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2023.02.07-02.32.15:225][213]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2023.02.07-02.32.15:226][213]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2023.02.07-02.32.15:227][213]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2023.02.07-02.32.15:242][213]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2023.02.07-02.32.15:242][213]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2023.02.07-02.32.15:243][213]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2023.02.07-02.32.15:243][213]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2023.02.07-02.32.15:243][213]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2023.02.07-02.32.15:243][213]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2023.02.07-02.32.15:243][213]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2023.02.07-02.32.15:244][213]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2023.02.07-02.32.15:411][213]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2023.02.07-02.32.15:414][213]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2023.02.07-02.32.15:414][213]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2023.02.07-02.32.15:414][213]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2023.02.07-02.32.15:414][213]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2023.02.07-02.32.15:414][213]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2023.02.07-02.32.15:414][213]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2023.02.07-02.32.15:416][213]LogModuleManager: Shutting down and abandoning module SynthesisEditor (548)
+[2023.02.07-02.32.15:416][213]LogModuleManager: Shutting down and abandoning module Synthesis (546)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (544)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (542)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (540)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module GooglePAD (538)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module EditableMesh (536)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (534)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module CableComponent (532)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module AssetTags (530)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module AudioCapture (528)
+[2023.02.07-02.32.15:418][213]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (527)
+[2023.02.07-02.32.15:419][213]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (524)
+[2023.02.07-02.32.15:419][213]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (522)
+[2023.02.07-02.32.15:419][213]LogModuleManager: Shutting down and abandoning module AppleImageUtils (520)
+[2023.02.07-02.32.15:419][213]LogModuleManager: Shutting down and abandoning module AndroidPermission (518)
+[2023.02.07-02.32.15:419][213]LogModuleManager: Shutting down and abandoning module ScreenshotTools (516)
+[2023.02.07-02.32.15:419][213]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (514)
+[2023.02.07-02.32.15:420][213]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (512)
+[2023.02.07-02.32.15:420][213]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (510)
+[2023.02.07-02.32.15:420][213]LogModuleManager: Shutting down and abandoning module MotoSynth (508)
+[2023.02.07-02.32.15:420][213]LogModuleManager: Shutting down and abandoning module MeshConversion (506)
+[2023.02.07-02.32.15:421][213]LogModuleManager: Shutting down and abandoning module DynamicMesh (504)
+[2023.02.07-02.32.15:422][213]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (502)
+[2023.02.07-02.32.15:424][213]LogModuleManager: Shutting down and abandoning module GeometricObjects (500)
+[2023.02.07-02.32.15:425][213]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (498)
+[2023.02.07-02.32.15:425][213]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (497)
+[2023.02.07-02.32.15:425][213]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (494)
+[2023.02.07-02.32.15:425][213]LogModuleManager: Shutting down and abandoning module TemplateSequence (492)
+[2023.02.07-02.32.15:425][213]LogModuleManager: Shutting down and abandoning module MediaCompositing (490)
+[2023.02.07-02.32.15:425][213]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (488)
+[2023.02.07-02.32.15:425][213]LogModuleManager: Shutting down and abandoning module ImgMedia (486)
+[2023.02.07-02.32.15:425][213]LogModuleManager: Shutting down and abandoning module PluginBrowser (484)
+[2023.02.07-02.32.15:425][213]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (482)
+[2023.02.07-02.32.15:427][213]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (480)
+[2023.02.07-02.32.15:427][213]LogModuleManager: Shutting down and abandoning module CurveEditorTools (478)
+[2023.02.07-02.32.15:427][213]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (476)
+[2023.02.07-02.32.15:427][213]LogModuleManager: Shutting down and abandoning module CryptoKeys (474)
+[2023.02.07-02.32.15:427][213]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (472)
+[2023.02.07-02.32.15:427][213]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (470)
+[2023.02.07-02.32.15:427][213]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (468)
+[2023.02.07-02.32.15:427][213]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (466)
+[2023.02.07-02.32.15:428][213]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (464)
+[2023.02.07-02.32.15:428][213]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (462)
+[2023.02.07-02.32.15:428][213]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (460)
+[2023.02.07-02.32.15:428][213]LogModuleManager: Shutting down and abandoning module ChaosNiagara (458)
+[2023.02.07-02.32.15:428][213]LogModuleManager: Shutting down and abandoning module FractureEditor (456)
+[2023.02.07-02.32.15:429][213]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (455)
+[2023.02.07-02.32.15:429][213]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (452)
+[2023.02.07-02.32.15:429][213]LogModuleManager: Shutting down and abandoning module BackChannel (450)
+[2023.02.07-02.32.15:429][213]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (448)
+[2023.02.07-02.32.15:429][213]LogModuleManager: Shutting down and abandoning module AutomationUtils (446)
+[2023.02.07-02.32.15:429][213]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (444)
+[2023.02.07-02.32.15:429][213]LogModuleManager: Shutting down and abandoning module AlembicImporter (442)
+[2023.02.07-02.32.15:430][213]LogModuleManager: Shutting down and abandoning module AlembicLibrary (441)
+[2023.02.07-02.32.15:430][213]LogModuleManager: Shutting down and abandoning module GeometryCache (440)
+[2023.02.07-02.32.15:430][213]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (439)
+[2023.02.07-02.32.15:430][213]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (434)
+[2023.02.07-02.32.15:430][213]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (432)
+[2023.02.07-02.32.15:430][213]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (430)
+[2023.02.07-02.32.15:430][213]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (428)
+[2023.02.07-02.32.15:430][213]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (426)
+[2023.02.07-02.32.15:431][213]LogModuleManager: Shutting down and abandoning module UObjectPlugin (424)
+[2023.02.07-02.32.15:431][213]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (422)
+[2023.02.07-02.32.15:431][213]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (420)
+[2023.02.07-02.32.15:431][213]LogModuleManager: Shutting down and abandoning module PluginUtils (418)
+[2023.02.07-02.32.15:432][213]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (416)
+[2023.02.07-02.32.15:433][213]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (414)
+[2023.02.07-02.32.15:434][213]LogModuleManager: Shutting down and abandoning module GitSourceControl (412)
+[2023.02.07-02.32.15:436][213]LogModuleManager: Shutting down and abandoning module SourceControl (411)
+[2023.02.07-02.32.15:437][213]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (408)
+[2023.02.07-02.32.15:437][213]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (406)
+[2023.02.07-02.32.15:437][213]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (404)
+[2023.02.07-02.32.15:440][213]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2023.02.07-02.32.15:440][213]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2023.02.07-02.32.15:440][213]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2023.02.07-02.32.15:440][213]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2023.02.07-02.32.15:442][213]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2023.02.07-02.32.15:443][213]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2023.02.07-02.32.15:444][213]LogModuleManager: Shutting down and abandoning module SignificanceManager (390)
+[2023.02.07-02.32.15:444][213]LogModuleManager: Shutting down and abandoning module SoundFields (388)
+[2023.02.07-02.32.15:444][213]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2023.02.07-02.32.15:444][213]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2023.02.07-02.32.15:444][213]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2023.02.07-02.32.15:444][213]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2023.02.07-02.32.15:444][213]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2023.02.07-02.32.15:444][213]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2023.02.07-02.32.15:444][213]LogModuleManager: Shutting down and abandoning module UdpMessaging (372)
+[2023.02.07-02.32.15:547][213]LogModuleManager: Shutting down and abandoning module TcpMessaging (370)
+[2023.02.07-02.32.15:647][213]LogModuleManager: Shutting down and abandoning module ActorSequence (368)
+[2023.02.07-02.32.15:647][213]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (366)
+[2023.02.07-02.32.15:648][213]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (364)
+[2023.02.07-02.32.15:648][213]LogModuleManager: Shutting down and abandoning module FacialAnimation (362)
+[2023.02.07-02.32.15:648][213]LogModuleManager: Shutting down and abandoning module DataValidation (360)
+[2023.02.07-02.32.15:648][213]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (358)
+[2023.02.07-02.32.15:649][213]LogModuleManager: Shutting down and abandoning module LevelEditor (357)
+[2023.02.07-02.32.15:652][213]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (356)
+[2023.02.07-02.32.15:652][213]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (354)
+[2023.02.07-02.32.15:652][213]LogModuleManager: Shutting down and abandoning module MainFrame (352)
+[2023.02.07-02.32.15:652][213]LogModuleManager: Shutting down and abandoning module HotReload (351)
+[2023.02.07-02.32.15:654][213]LogModuleManager: Shutting down and abandoning module ToolMenus (347)
+[2023.02.07-02.32.15:654][213]LogModuleManager: Shutting down and abandoning module ContentBrowser (345)
+[2023.02.07-02.32.15:654][213]LogModuleManager: Shutting down and abandoning module ContentBrowserData (344)
+[2023.02.07-02.32.15:654][213]LogModuleManager: Shutting down and abandoning module TreeMap (341)
+[2023.02.07-02.32.15:654][213]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (338)
+[2023.02.07-02.32.15:654][213]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (336)
+[2023.02.07-02.32.15:654][213]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (334)
+[2023.02.07-02.32.15:654][213]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (332)
+[2023.02.07-02.32.15:655][213]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (330)
+[2023.02.07-02.32.15:655][213]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.02.07-02.32.15:655][213]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (328)
+[2023.02.07-02.32.15:655][213]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (326)
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (324)
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (322)
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module MagicLeapController (320)
+[2023.02.07-02.32.15:656][213]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (318)
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module MagicLeapAR (316)
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module AugmentedReality (315)
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (312)
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module AnimationSharing (310)
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (308)
+[2023.02.07-02.32.15:656][213]LogModuleManager: Shutting down and abandoning module Niagara (306)
+[2023.02.07-02.32.15:657][213]LogModuleManager: Shutting down and abandoning module SignalProcessing (305)
+[2023.02.07-02.32.15:657][213]LogModuleManager: Shutting down and abandoning module NiagaraEditor (303)
+[2023.02.07-02.32.15:658][213]LogModuleManager: Shutting down and abandoning module NiagaraCore (300)
+[2023.02.07-02.32.15:658][213]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2023.02.07-02.32.15:658][213]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2023.02.07-02.32.15:659][213]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2023.02.07-02.32.15:659][213]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2023.02.07-02.32.15:680][213]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2023.02.07-02.32.15:680][213]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2023.02.07-02.32.15:680][213]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2023.02.07-02.32.15:680][213]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2023.02.07-02.32.15:680][213]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2023.02.07-02.32.15:682][213]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2023.02.07-02.32.15:682][213]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2023.02.07-02.32.15:682][213]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2023.02.07-02.32.15:682][213]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2023.02.07-02.32.15:683][213]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2023.02.07-02.32.15:683][213]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2023.02.07-02.32.15:684][213]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2023.02.07-02.32.15:684][213]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2023.02.07-02.32.15:684][213]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2023.02.07-02.32.15:685][213]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2023.02.07-02.32.15:685][213]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2023.02.07-02.32.15:685][213]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2023.02.07-02.32.15:686][213]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2023.02.07-02.32.15:686][213]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2023.02.07-02.32.15:688][213]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2023.02.07-02.32.15:688][213]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2023.02.07-02.32.15:690][213]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2023.02.07-02.32.15:690][213]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2023.02.07-02.32.15:690][213]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2023.02.07-02.32.15:690][213]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2023.02.07-02.32.15:690][213]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2023.02.07-02.32.15:690][213]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2023.02.07-02.32.15:690][213]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2023.02.07-02.32.15:690][213]LogModuleManager: Shutting down and abandoning module Core (232)
+[2023.02.07-02.32.15:690][213]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2023.02.07-02.32.15:692][213]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2023.02.07-02.32.15:693][213]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2023.02.07-02.32.15:694][213]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2023.02.07-02.32.15:696][213]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2023.02.07-02.32.15:702][213]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2023.02.07-02.32.15:702][213]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2023.02.07-02.32.15:703][213]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2023.02.07-02.32.15:703][213]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2023.02.07-02.32.15:704][213]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2023.02.07-02.32.15:704][213]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2023.02.07-02.32.15:705][213]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2023.02.07-02.32.15:705][213]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2023.02.07-02.32.15:706][213]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2023.02.07-02.32.15:707][213]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2023.02.07-02.32.15:707][213]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2023.02.07-02.32.15:707][213]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2023.02.07-02.32.15:707][213]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2023.02.07-02.32.15:708][213]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2023.02.07-02.32.15:709][213]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2023.02.07-02.32.15:710][213]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2023.02.07-02.32.15:711][213]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2023.02.07-02.32.15:712][213]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2023.02.07-02.32.15:713][213]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2023.02.07-02.32.15:713][213]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2023.02.07-02.32.15:713][213]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2023.02.07-02.32.15:713][213]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2023.02.07-02.32.15:714][213]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2023.02.07-02.32.15:714][213]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2023.02.07-02.32.15:715][213]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2023.02.07-02.32.15:715][213]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2023.02.07-02.32.15:715][213]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2023.02.07-02.32.15:715][213]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2023.02.07-02.32.15:715][213]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2023.02.07-02.32.15:715][213]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2023.02.07-02.32.15:715][213]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2023.02.07-02.32.15:715][213]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2023.02.07-02.32.15:715][213]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2023.02.07-02.32.15:729][213]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2023.02.07-02.32.15:729][213]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2023.02.07-02.32.15:729][213]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2023.02.07-02.32.15:730][213]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2023.02.07-02.32.15:730][213]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2023.02.07-02.32.15:743][213]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2023.02.07-02.32.15:743][213]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2023.02.07-02.32.15:743][213]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2023.02.07-02.32.15:743][213]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2023.02.07-02.32.15:743][213]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2023.02.07-02.32.15:743][213]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2023.02.07-02.32.15:744][213]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2023.02.07-02.32.15:744][213]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2023.02.07-02.32.15:744][213]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2023.02.07-02.32.15:750][213]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2023.02.07-02.32.15:775][213]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2023.02.07-02.32.15:775][213]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2023.02.07-02.32.15:775][213]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2023.02.07-02.32.15:775][213]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2023.02.07-02.32.15:776][213]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2023.02.07-02.32.15:776][213]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2023.02.07-02.32.15:777][213]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2023.02.07-02.32.15:777][213]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2023.02.07-02.32.15:778][213]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2023.02.07-02.32.15:778][213]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2023.02.07-02.32.15:778][213]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2023.02.07-02.32.15:778][213]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2023.02.07-02.32.15:778][213]LogHMD: Freeing OpenVRDLLHandle.
+[2023.02.07-02.32.15:778][213]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2023.02.07-02.32.15:778][213]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2023.02.07-02.32.15:778][213]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2023.02.07-02.32.15:778][213]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.02.07-02.32.15:778][213]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.02.07-02.32.15:780][213]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.02.07-02.32.15:781][213]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.02.07-02.32.15:799][213]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.02.07-02.32.15:799][213]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.02.07-02.32.15:801][213]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD52EFA2-431C-5662-F9EE-D1A49F73768B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=04d780634350d434aaa28d8a2fc1d8f2%7C%7C052f5b23-b370-44be-8c32-fbd2fa8c22cf&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.02.07-02.32.15:801][213]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.02.07-02.32.15:810][213]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.02.07-02.32.15:816][213]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2023.02.07-02.32.15:816][213]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2023.02.07-02.32.15:821][213]LogModuleManager: Shutting down and abandoning module Media (71)
+[2023.02.07-02.32.15:822][213]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2023.02.07-02.32.15:822][213]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2023.02.07-02.32.15:823][213]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2023.02.07-02.32.15:823][213]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2023.02.07-02.32.15:824][213]LogModuleManager: Shutting down and abandoning module MLSDK (60)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module MagicLeap (56)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2023.02.07-02.32.15:825][213]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2023.02.07-02.32.15:825][213]LogXGEController: Cleaning working directory: C:/Users/5926000435/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.02.07-02.32.15:826][213]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.02.07-02.32.15:827][213]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2023.02.07-02.32.15:830][213]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.02.07-02.32.15:830][213]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.02.07-02.32.15:831][213]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2023.02.07-02.32.15:831][213]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2023.02.07-02.32.15:831][213]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2023.02.07-02.32.15:835][213]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2023.02.07-02.32.15:837][213]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2023.02.07-02.32.15:837][213]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.02.07-02.32.15:837][213]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.02.07-02.32.15:837][213]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.02.07-02.32.15:838][213]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.02.07-02.32.15:838][213]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.02.07-02.32.15:839][213]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.02.07-02.32.15:839][213]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.02.07-02.32.15:839][213]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.02.07-02.32.15:840][213]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.02.07-02.32.15:840][213]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.02.07-02.32.15:841][213]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.02.07-02.32.15:845][213]LogD3D11RHI: Shutdown
+[2023.02.07-02.32.15:845][213]LogD3D11RHI: CleanupD3DDevice
+[2023.02.07-02.32.15:880][213]LogD3D11RHI: Intel Extensions Framework unloaded
+[2023.02.07-02.32.15:902][213]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2023.02.07-02.32.15:916][213]LogExit: Exiting.
+[2023.02.07-02.32.15:932][213]Log file closed, 02/06/23 21:32:15
